@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "**FAB**"
+  open-graph:
+    locale: es_ES
+    site-name: FAB
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - rationale.qmd
+      - strategy.qmd
+      - activities.qmd
+      - people.qmd
+format:
+  html:
+    theme: morph
+    css: styles.css
+    toc: true
+
+editor: visual
+

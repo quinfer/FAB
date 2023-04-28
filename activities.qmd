@@ -1,0 +1,22 @@
+---
+title: "Activities"
+format: html
+---
+
+### Research impact 
+
+-   Financial tail risk, advanced analytics and artificial intelligence KTP with [Funds-Axis Ltd](Activities%20Portal%20for%20academics%20in%20QMS%20and%20beyond%20to%20co-produce%20research%20with%20industry%20partners%20in%20finance.%20Flagship%20projects:%20Rethinking%20econometrics%20for%20the%20age%20of%20AI%20implementation.%20In%20collaboration%20with%20EEECS,%20with%20places%20funded%20by%20BRCD%20monies,%20FAB%20will%20launch%20a%20postgraduate%20courses%20in%20financial%20technology%20and%20machine%20learning,%20designed%20specifically%20to%20up-skill%20and%20re-skill%20talent%20to%20help%20scale%20Northern%20Ireland%20FinTech%20capabilities.%20Financial%20tail%20risk,%20advanced%20analytics%20and%20artificial%20intelligence%20(co-produced%20research%20with%20NI%20FinTechs).%20Financial%20technologies%20and%20financial%20inclusion%20(Fully%20funded%20AHSS%20International%20PhD%20Scholar).%20Trader%20surveillance,%20econometric%20identification%20and%20market%20microstructure%20(CSIT%20+%20FAB%20collaborations)%20Funding%20opportunities%20with%20CSIT%20from%20the%20new%20Global%20Innovations%20Institutes%20route.%20Actively%20engage%20in%20corporate%20sponsorship%20and%20collaboration%20funding%20projects.%20Possibilities%20for%20sponsorship%20for%20access%20to%20expertise,%20workshops,%20and%20lab-affiliated%20graduates.%20Industry-sponsored%20research%20activities,%20including%20PhD%20co-funding%20like%20CAST.%20Establishing%20a%20sandbox%20program%20to%20cultivate%20future-ready%20graduates%20by%20transforming%20our%20courses%20into%20real-world%20sandboxes,%20bringing%20together%20students,%20academics,%20and%20industry%20to%20co-create%20solutions%20for%20contemporary%20problems.).
+
+-   Trader surveillance, econometric identification and market microstructure (CSIT + FAB collaborations).
+
+-   Business risk and compliance monitor with Citi (Forthcoming)
+
+### Academic
+
+-   PhD project in economics of technology adoption in financial services regulation and compliance.
+
+-   PhD project in sustainable firm value and the role of ESG.
+
+-   Multidisciplinary workshop series **Towards a research agenda for FinTech in Northern Ireland**
+
+-   

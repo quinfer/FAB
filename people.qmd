@@ -1,0 +1,41 @@
+---
+title: "People"
+format: html
+---
+
+We have an institutional partnership with the [Gilmore Center for Financial Technology](https://www.wbs.ac.uk/research/research-centres-and-networks/gillmore-centre-financial-technology/) at Warwick Business School
+
+-   Barry Quinn (Senior Lecturer in Finance, Technology and Data Science) **Director**
+
+-   Fearghal Kearney ( Senior Lecturer in Quantitative Finance) **Director**
+
+-   Gareth Campbell (Professor of Finance)
+
+-   Declan Breslin (Honorary Professor of Practice in Financial Services)
+
+-   Clare Guinness (Innovation Director, Belfast Region City Deal)
+
+-   Philip Hamill (Professor of Finance, Associate Provost for Research and Academic Department, Abu Dhabi University)
+
+-   Paul Miller (Reader of Computer Science, Deputy Head of the Centre for Secure and Intelligence Technologies)
+
+-   Hui Wang (Professor of Computer Science)
+
+-   Laura Steele (Senior Lecturer of Management)
+
+-   Clive Walker (Lecturer in Finance)
+
+-   Byron Graham (Senior Lecturer in Business Analytics)
+
+-   Qiao (Olivia) Peng (Lecturer in Business Analytics)
+
+```{=html}
+<!-- -->
+```
+-   Colm Kelly (Machine Learning Researcher, FundAxis Ltd; PhD candidate in financial machine learning and asset pricing, submitting Sept 22)
+
+-   Abhishek Pramanick (PhD Candidate in regulatory technology and financial inclusion, incoming Sept 22)
+
+-   Fei Li (PhD Candidate in XAI and ESG \`fair value' pricing, incoming Sept 22)
+
+-   Veronica Zhang (PhD Candidate in Regulatory Implications in the development of the Chinese banking sector (submitting July 2023)

@@ -1,0 +1,13 @@
+name: fab
+title: FAB
+username: quinfer
+account: quinfer
+server: q-rap.connect.qub.ac.uk
+hostUrl: https://q-rap.connect.qub.ac.uk/__api__
+appId: 47
+bundleId: 263
+url: https://q-rap.connect.qub.ac.uk/FAB/
+when: 1682694097.93381
+lastSyncTime: 1682694097.93382
+asMultiple: FALSE
+asStatic: TRUE
