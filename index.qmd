@@ -1,5 +1,12 @@
 ---
 title: '**F**inance, technology and **A**rtificial intelligence research la**B**'
 subtitle: "Using technology to drive financial innovation"
+filters:
+   - lightbox
+lightbox: auto
 ---
-![](img/digital-transformation.jpg)
+![](img/digital-transformation.jpg){group="my-gallery"}
+
+![](img/drive-digital-change1.jpg){group="my-gallery"}
+
+![](img/drive-digital-change2.jpg){group="my-gallery"}

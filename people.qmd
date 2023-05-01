@@ -1,6 +1,5 @@
 ---
 title: "People"
-format: html
 ---
 
 We have an institutional partnership with the [Gilmore Center for Financial Technology](https://www.wbs.ac.uk/research/research-centres-and-networks/gillmore-centre-financial-technology/) at Warwick Business School
@@ -29,9 +28,8 @@ We have an institutional partnership with the [Gilmore Center for Financial Tech
 
 -   Qiao (Olivia) Peng (Lecturer in Business Analytics)
 
-```{=html}
 <!-- -->
-```
+
 -   Colm Kelly (Machine Learning Researcher, FundAxis Ltd; PhD candidate in financial machine learning and asset pricing, submitting Sept 22)
 
 -   Abhishek Pramanick (PhD Candidate in regulatory technology and financial inclusion, incoming Sept 22)
