@@ -6,7 +6,7 @@ The financial services industry has witnessed a rapid expansion in the use digit
 
 [^1]: McKinsey AI Playbook (2019) estimates are anchor from 2016 financial data for the global banking sector. See <https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-executives-ai-playbook?page=industries/banking/> for more details.
 
-1.  operational resilience regulations;
+1.  operational resilience and efficiency;
 
 2.  Cloud migration for business agility, economic **sustainability** , and net-zero environmental benefits;
 
@@ -14,7 +14,7 @@ The financial services industry has witnessed a rapid expansion in the use digit
 
 4.  AI and machine learning adoption.
 
-The trends in digital finance were facilitated by the growth of hybrid cloud and advances in digital automation. All four drivers have strong links to research areas of AI-safety (in computer science) and risk management (in finance), and financial regulators across the world are grappling with "rules on the books" to provide robust guide rails for this viral-like growth of the digital economy.
+This historical trends in digital finance were facilitated by the growth of hybrid cloud and advances in digital automation. All four drivers have strong links to research areas of **AI-safety (in computer science) and risk management (in finance)**, and financial regulators across the world are grappling with "rules on the books" to provide robust guide rails for this viral-like growth of the digital economy.
 
 # Why F.A.B. at Queen's University Belfast?
 
@@ -26,4 +26,4 @@ The trends in digital finance were facilitated by the growth of hybrid cloud and
 
 -   The unique location gives access to UK and EU markets.
 
-Queen's Management School are uniquely positioned to establish an emerging research lab for financial technology, working in partnership with CSIT, to provide business and financial insights for the digital economy.
+Queen's Management School are uniquely positioned to establish an emerging research lab for financial technology, working in partnership with [GII/CSIT](https://www.qub.ac.uk/ecit/CSIT/), to provide business and financial insights for the digital economy.

@@ -1,6 +1,5 @@
 ---
 title: "About"
-format: html
 ---
 
 The ***F**inance, technology and **A**rtificial intelligence research la**B*** (hereafter **F.A.B.**) is a cross-disciplinary research project within the finance group of Queen's Management School. The lab will be industry-focused and aims to provide thought leadership for Northern Ireland's vibrant financial technology ecosystem.[^1]
@@ -11,16 +10,16 @@ The ***F**inance, technology and **A**rtificial intelligence research la**B*** (
 
 The mission is to bridge gaps between information technologies, data science, innovation, and financial decision-making. Our goal is to be a global lab of excellence, uniquely located at the gateway between the UK, and the EU. To achieve this mission the lab has the following strategic goals:
 
-1.  Be a world leader in technology focused research for compliance and regulation.[^2]
+1.  Using technology to drive innovation for the local fintech community.
 
-2.  Actively co-produce academic output with industry partners.
+2.  Produce internationally acclaimed research in finance, technology and AI.
 
-3.  Strengthen and develop linkages with School of Electronics, Electrical Engineering and Computer Science.[^3]
+3.  Produce internationally acclaimed at the intersection of AI-safety, risk management and financial regulation.
 
-4.  Foster national and international partnerships with other research labs in financial technology and data science.
+4.  Strengthen and develop linkages with School of Electronics, Electrical Engineering and Computer Science.[^2]
 
-5.  Nuclei local fintech companies to inform disruptive research in technology adoption in finance.
+5.  Foster national and international partnerships with other research labs in financial technology, AI and data science.
 
-[^2]: Regulatory technology (RegTech) is the use of information technology to enhance regulatory and compliance processes. Since 2015, it has been identified as a strategic priority for the UK financial services sector (<https://www.gov.uk/government/publications/fintech-blackett-review>). Barry Quinn is the QUB academic lead for a corporate spending review bid to build a global centre for secure and connected regulatory technologies in Northern Ireland (project start date mid 2023)
+6.  Nuclei local fintech companies to inform disruptive research in technology adoption in finance.
 
-[^3]: Currently, Fearghal and Barry are Associate Fellows of the new Momentum One Zero Institute. This is the new name for the GII. As part of the Belfast Region City Deal (BRCD), the £55M Global Innovation Institute (GII) programme at Queen's University Belfast (QUB) aims to transform NI's digital economy by substantially increasing both the volume and range of digital innovation taking place within the region.
+[^2]: Currently, Fearghal and Barry are Associate Fellows of the Global Innovation Institute at Queen's. As part of the Belfast Region City Deal (BRCD), the £55M Global Innovation Institute (GII) programme at Queen's University Belfast (QUB) aims to transform NI's digital economy by substantially increasing both the volume and range of digital innovation taking place within the region.

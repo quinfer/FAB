@@ -7,7 +7,7 @@ We will provide thought leadership within the following multidisciplinary resear
 
 ```{mermaid}
 graph LR
-  subgraph Proposed Fintech lAB
+  subgraph 
     A[(FAB)]--> C(Thought Leadership)
     C-->|in| N[Text as Data]
     C -->|in| P[Financial Machine Learning]
@@ -17,11 +17,11 @@ graph LR
   end
 ```
 
-A key strategic goal for FAB is to enhance and develop multidisciplinary research through strong links with [CSIT](http://www.csit.qub.ac.uk). The lab is well positioned provide domain knowledge transfer to the BRCD funded Momentum10 institute in Queen's. The following diagram highlights expertise linkages (regulatory technology expertise is highlighted in orange):
+A key strategic goal for FAB is to enhance and develop multidisciplinary research through strong links with GII/[CSIT](http://www.csit.qub.ac.uk). The lab is well positioned provide domain knowledge transfer to the BRCD funded Momentum One Zero Institute in Queen's. The following diagram highlights expertise linkages (regulatory technology expertise is highlighted in orange):
 
 ```{mermaid}
 graph LR
- subgraph F.A.B. within the GII ecosystem
+ subgraph FAB connections to GII
     A[(GIIs)]--> C(Impactful Research)
     C -->|CSIT + F.A.B. + Criminology| D[Security & Assurance in FinancE]
     C -->|Management School| E[F.A.B.]
