@@ -3,11 +3,6 @@
 
 ## :pencil: Actions
 
-:::info
-:bulb: This list is the outworkings of the second workshop between FAB and GII
-:::
-
-
 ### :one: Academic research colloborations
 
 - [ ] Clive + Barry D (Naturual Language Understanding)
