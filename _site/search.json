@@ -4,55 +4,62 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "The Finance, technology and Artificial intelligence research laB (hereafter F.A.B.) is a cross-disciplinary research project within the finance group of Queen’s Management School. The lab will be industry-focused and aims to provide thought leadership for Northern Ireland’s vibrant financial technology ecosystem.1"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "F.A.B",
-    "section": "",
-    "text": "Using technology to drive financial innovation\n\n\n\n\n1 / 3\n\n\n\nFinance\n\n\n\n\n2 / 3\n\n\n\nTechnology\n\n\n\n\n3 / 3\n\n\n\nAI"
-  },
-  {
-    "objectID": "index.html#activities",
-    "href": "index.html#activities",
-    "title": "Finance, technology and Artificial intelligence research laB",
-    "section": "Activities",
-    "text": "Activities\n\nPortal for academics in QMS and beyond to co-produce research with industry partners in finance.\nFlagship projects:\n\nRethinking econometrics for the age of AI implementation.\n\nIn collaboration with EEECS, with places funded by BRCD monies, FAB will launch a postgraduate courses in financial technology and machine learning, designed specifically to up-skill and re-skill talent to help scale Northern Ireland FinTech capabilities.\n\nFinancial tail risk, advanced analytics and artificial intelligence (co-produced research with NI FinTechs).\nFinancial technologies and financial inclusion (Fully funded AHSS International PhD Scholar).\nTrader surveillance, econometric identification and market microstructure (CSIT + FAB collaborations)\n\nFunding opportunities with CSIT from the new Global Innovations Institutes route.\nActively engage in corporate sponsorship and collaboration funding projects.\n\nPossibilities for sponsorship for access to expertise, workshops, and lab-affiliated graduates.\n\nIndustry-sponsored research activities, including PhD co-funding like CAST.\nEstablishing a sandbox program to cultivate future-ready graduates by transforming our courses into real-world sandboxes, bringing together students, academics, and industry to co-create solutions for contemporary problems5."
-  },
-  {
-    "objectID": "rationale.html",
-    "href": "rationale.html",
-    "title": "Rationale",
-    "section": "",
-    "text": "The financial services industry has witnessed a rapid expansion in the use digital innovation with early estimates suggesting an upper bound in annual value potential of one trillion dollars (or 13.4% of sales) globally1. As a highly regulated system, the key drives of further technological adoption are:\n\noperational resilience regulations;\nCloud migration for business agility, economic sustainability , and net-zero environmental benefits;\nCyber security, risk and privacy;\nAI and machine learning adoption.\n\nThe trends in digital finance were facilitated by the growth of hybrid cloud and advances in digital automation. All four drivers have strong links to research areas of AI-safety (in computer science) and risk management (in finance), and financial regulators across the world are grappling with “rules on the books” to provide robust guide rails for this viral-like growth of the digital economy.\n\nWhy F.A.B. at Queen’s University Belfast?\n\nNorthern Ireland is recognised as a world-leading cyber security ecosystem underpinned by QUB’s CSIT (Centre for Secure Intelligent Technology) – the UK’s largest cybersecurity-focused university technology partner.\nThe ability to write bespoke training programmes and provide skills required (albeit lead time is required).\nExisting core tech capability to be enhanced via Belfast Region City Deals and the overall 10X economic strategy in NI.\nThe unique location gives access to UK and EU markets.\n\nQueen’s Management School are uniquely positioned to establish an emerging research lab for financial technology, working in partnership with CSIT, to provide business and financial insights for the digital economy.\n\n\n\n\n\nFootnotes\n\n\nMcKinsey AI Playbook (2019) estimates are anchor from 2016 financial data for the global banking sector. See https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-executives-ai-playbook?page=industries/banking/ for more details.↩︎"
-  },
-  {
-    "objectID": "Strategy.html",
-    "href": "Strategy.html",
-    "title": "Strategy",
-    "section": "",
-    "text": "We will provide thought leadership within the following multidisciplinary research ecosystem. The first diagram outlines the research expertise of the FAB\n\n\n\n\ngraph LR\n  subgraph Proposed Fintech lAB\n    A[(FAB)]--> C(Thought Leadership)\n    C-->|in| N[Text as Data]\n    C -->|in| P[Financial Machine Learning]\n    C -->|in| S[Regulatory Technology] --> D[AI and VaR Analytics] & E[AI Ethics in Business] & F[Systemic Risk and AI] & R[ESG *Integrated Value* Analytics]\n    C -->|in| G[Business Analytics]\n    C -->|in| H[Economics of AI] --> Q[Economics of Hybrid Cloud] & L[Causal Inference and XAI]\n  end\n\n\n\n\n\n\n\n\nA key strategic goal for FAB is to enhance and develop multidisciplinary research through strong links with CSIT. The lab is well positioned provide domain knowledge transfer to the BRCD funded Momentum10 institute in Queen’s. The following diagram highlights expertise linkages (regulatory technology expertise is highlighted in orange):\n\n\n\n\ngraph LR\n subgraph F.A.B. within the GII ecosystem\n    A[(GIIs)]--> C(Impactful Research)\n    C -->|CSIT + F.A.B. + Criminology| D[Security & Assurance in FinancE]\n    C -->|Management School| E[F.A.B.]\n    E -->|in| F[AI and Tail Risk Analytics]:::reg\n    E -->|in| X[Economics of Hybrid Cloud]:::reg\n    \n    D:::reg & C -->|in| N[Text as Data]:::reg\n    D -->|in| P[Financial Machine Learning]\n    E -->|in| H[Economics of AI] --> L[Econometrics of AI]\n    D --> |in| I(Trade Surveillance):::reg\n    D --> |in| J(Trustworthy AI):::reg\n    D --> |in| K(Systemic Risk and AI):::reg\n    F & L & I & J --> M[eXplainable AI]:::reg\n    classDef reg fill:#f96;\n  end"
+    "text": "The Finance and Artificial intelligence research laB (hereafter FAB) is a cross-disciplinary research project within the finance group of Queen’s Management School. The lab will be industry-focused and aims to provide thought leadership for Northern Ireland’s vibrant financial technology ecosystem.1"
   },
   {
     "objectID": "about.html#mission",
     "href": "about.html#mission",
     "title": "About",
     "section": "Mission",
-    "text": "Mission\nThe mission is to bridge gaps between information technologies, data science, innovation, and financial decision-making. Our goal is to be a global lab of excellence, uniquely located at the gateway between the UK, and the EU. To achieve this mission the lab has the following strategic goals:\n\nProduce internationally acclaimed research in finance, technology, AI and data science.\nStrengthen and develop linkages with School of Electronics, Electrical Engineering and Computer Science.2\nFoster national and international partnerships with other research labs in financial technology, AI and data science.\nNuclei local fintech companies to inform disruptive research in technology adoption in finance."
+    "text": "Mission\nThe mission is to bridge gaps between information technologies, data science, innovation, and financial decision-making. Our goal is to be a global lab of excellence, uniquely located at the gateway between the UK, and the EU. To achieve this mission the lab has the following strategic goals:\n\nUsing digital technology to drive innovation for the local fintech community.\nProduce internationally acclaimed research in finance, technology and AI.\nProduce internationally acclaimed at the intersection of AI-safety, risk management and financial regulation.\nStrengthen and develop links with the School of Electronics, Electrical Engineering and Computer Science.2\nFoster national and international partnerships with other research labs in financial technology and AI.\nNuclei local fintech companies to inform disruptive research in technology adoption in finance."
   },
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Finance and Artificial intelligence research laB",
     "section": "",
-    "text": "Barry Quinn (Senior Lecturer of Finance, Technology and Data Science) Director\nFearghal Kearney ( Senior Lecturer of Finance) Director\nGareth Campbell (Professor of Finance)\nDeclan Breslin (Honorary Professor of Practice in Financial Services)\nDarren Burrows (CEO Funds-Axis Ltd)\nCarla McGlynn (Director, Head of Markets Data, Business Risks and Controls Technology / Site Lead at Citi Belfast)\nDennis Krupen (SVP, Engineering Strategy, Data and DevOps Lead at Citi)\nClare Guinness (Innovation Director, Belfast Region City Deal)\nPhilip Hamill (Professor of Finance, Associate Provost for Research and Academic Department, Abu Dhabi University)\nPaul Miller (Reader of Computer Science, Deputy Head of the Centre for Secure and Intelligence Technologies)\nHui Wang (Professor of Computer Science)\nLaura Steele (Senior Lecturer of Management)\nClive Walker (Lecturer of Finance)\nByron Graham (Senior Lecturer of Business Analytics)\nQiao (Olivia) Peng (Lecturer of Business Analytics)\n\n\n\nColm Kelly (Machine Learning Researcher, FundAxis Ltd; PhD candidate in financial machine learning and asset pricing, submitting Sept 22)\nAbhishek Pramanick (PhD Candidate in regulatory technology and financial inclusion, incoming Sept 22)\nFei Li (PhD Candidate in XAI and ESG `fair value’ pricing, incoming Sept 22)\nVeronica Zhang (PhD Candidate in Regulatory Implications in the development of the Chinese banking sector (submitting July 2023)\nBart Ruemkens (PhD in climate finance, transition risk and the role in machine learning)a\n\nWe also have an institutional partnership with the Gilmore Center for Financial Technology at Warwick Business School."
+    "text": "Finance\n\n\n\n \n\nTechnology\n\n\n\n \n\nAI\n\n\n\n\n\n  \n\n\nUsing digital technology to drive financial innovation"
+  },
+  {
+    "objectID": "rationale.html",
+    "href": "rationale.html",
+    "title": "Rationale",
+    "section": "",
+    "text": "The financial services industry has witnessed a rapid expansion in the use digital innovation with early estimates suggesting its adoption could generate up to one trillion dollars annually1. As a highly regulated system, the key drives of further technological adoption are:\nAll four drivers have strong links to research areas of AI-safety (in computer science) and risk management (in finance), and financial regulators across the world are grappling with “rules on the books” to provide robust guide rails for this viral-like growth of the digital economy."
   },
   {
     "objectID": "strategy.html",
     "href": "strategy.html",
     "title": "Strategy",
     "section": "",
-    "text": "We will provide thought leadership within the following multidisciplinary research ecosystem. The first diagram outlines the research expertise of the FAB\nA key strategic goal for FAB is to enhance and develop multidisciplinary research through strong links with GII/CSIT. The lab is well positioned provide domain knowledge transfer to the BRCD funded Momentum One Zero Institute in Queen’s. The following diagram highlights expertise linkages (regulatory technology expertise is highlighted in orange):"
+    "text": "We will provide thought leadership within the following multidisciplinary research ecosystem. The first diagram outlines the research expertise of the FAB\n\n\n\n\ngraph LR\n  subgraph FAB\n    A[(FAB)]--> C(Thought Leadership)\n    C-->|in| N[Text as Data]\n    C -->|in| P[Financial Machine Learning]\n    C -->|in| S[Regulatory Technology] --> D[AI and VaR Analytics] & E[AI Ethics in Business] & F[Systemic Risk and AI] & R[ESG *Integrated Value* Analytics]\n    C -->|in| G[Business Analytics]\n    C -->|in| H[Economics of AI] --> Q[Economics of Hybrid Cloud] & L[Causal Inference and XAI]\n  end\n\n\n\n\n\n\n\n\nA key strategic goal for FAB is to enhance and develop multidisciplinary research through strong links with GII/CSIT. The lab is well positioned provide domain expertise to the Belfast Region City Deal funded Global Innovation Institute in Queen’s. The following diagram highlights expertise linkages (regulatory technology expertise is highlighted in orange):\n\n\n\n\ngraph LR\n subgraph FAB connections to GII\n    A[(GIIs)]--> C(Impactful Research)\n    C -->|CSIT + F.A.B. + Criminology| D[Security & Assurance in FinancE]\n    C -->|Management School| E[F.A.B.]\n    E -->|in| F[AI and Tail Risk Analytics]:::reg\n    E -->|in| X[Economics of Hybrid Cloud]:::reg\n    \n    D:::reg & C -->|in| N[Text as Data]:::reg\n    D -->|in| P[Financial Machine Learning]\n    E -->|in| H[Economics of AI] --> L[Econometrics of AI]\n    D --> |in| I(Trade Surveillance):::reg\n    D --> |in| J(Trustworthy AI):::reg\n    D --> |in| K(Systemic Risk and AI):::reg\n    F & L & I & J --> M[eXplainable AI]:::reg\n    classDef reg fill:#f96;\n  end"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Barry Quinn (Senior Lecturer of Finance, Technology and Data Science) Director\nFearghal Kearney (Senior Lecturer of Finance) Director\nGareth Campbell (Professor of Finance)\nDeclan French (Professor of Finance)\nDeclan Breslin (Honorary Professor of Practice in Financial Services)\nDarren Burrows (CEO Funds-Axis Ltd)\nCarla McGlynn (Director, Head of Markets Data, Business Risks and Controls Technology / Site Lead at Citi Belfast)\nDennis Krupen (SVP, Engineering Strategy, Data and DevOps Lead at Citi)\nClare Guinness (Innovation Director, Belfast Region City Deal)\nPhilip Hamill (Professor of Finance, Associate Provost for Research and Academic Department, Abu Dhabi University)\nPaul Miller (Reader of Computer Science, Deputy Head of the Centre for Secure and Intelligence Technologies)\nHui Wang (Professor of Computer Science)\nJesus Martinez Del Rincon (Senior Lecturer of Computer Science)\nRichard Gault (Lecturer in Computer Science)\nLaura Steele (Senior Lecturer of Management)\nClive Walker (Lecturer of Finance)\nYassine Bakar (Lectuer of Finance)\nByron Graham (Senior Lecturer of Business Analytics)\nQiao (Olivia) Peng (Lecturer of Business Analytics)\nColm Kelly (Machine Learning Researcher, FundAxis Ltd; PhD completed 2023 in financial machine learning and asset pricing,)\nAbhishek Pramanick (PhD Candidate in regulatory technology and financial inclusion, started Sept 22)\nFei Li (PhD Candidate in Firm risk and performance implications of ESG, started Sept 22)\nVeronica Zhang (PhD Candidate in Regulatory Implications in the development of the Chinese banking sector (submitting July 2023)\nBart Ruemkens (PhD in climate finance, transition risk and the role of machine learning)\nWeilong Lui (Market manipulation and the role of Supervisory Technology in the Chinese Stock Market)\n\nWe also have an institutional partnership with the Gilmore Center for Financial Technology at Warwick Business School."
+  },
+  {
+    "objectID": "activity.html",
+    "href": "activity.html",
+    "title": "Activities",
+    "section": "",
+    "text": "Research impact\n\nFinancial tail risk, advanced analytics and artificial intelligence KTP with Funds-Axis Ltd.\nAI and regulatory compliance risk R&D project with Citigroup Belfast.\n\n\n\nAcademic\n\nMultidisciplinary workshop series Towards a research agenda for FinTech in Northern Ireland.\nCan LLMs to enhance financial regulation and compliance? (Abhishek Pramanick Hui Wang, Barry Quinn).\nTrader surveillance and AI in Chinese Stock Markets (Weilong Lui, Jesus Del Martinez Rincon, Fearghal Kearney, Barry Quinn).\nXAI and causal inference (Barry Quinn, Fearghal Kearney).\nAI and the Cost of flying the flag: an economic impact assessment of flag flying in Northern Ireland (Barry Quinn, Declan French)."
+  },
+  {
+    "objectID": "rationale.html#footnotes",
+    "href": "rationale.html#footnotes",
+    "title": "Rationale",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nMcKinsey AI Playbook (2019) estimates. See https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-executives-ai-playbook?page=industries/banking/ for more details.↩︎"
+  },
+  {
+    "objectID": "about.html#footnotes",
+    "href": "about.html#footnotes",
+    "title": "About",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nAn overview of this ecosystem can be found here: https://fintech-ni.com/↩︎\nCurrently, Dr Fearghal Kearney and Dr Barry Quinn are Associate Fellows of the Global Innovation Institute at Queen’s. As part of the Belfast Region City Deal (BRCD), the £55M Global Innovation Institute (GII) programme at Queen’s University Belfast (QUB) aims to transform NI’s digital economy by substantially increasing both the volume and range of digital innovation taking place within the region.↩︎"
   }
 ]

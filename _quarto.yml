@@ -12,13 +12,12 @@ website:
         text: Home
       - about.qmd
       - rationale.qmd
-      - strategy.qmd
-      - activities.qmd
+      - activity.qmd
       - people.qmd
 format:
   html:
-    theme: morph
-    css: styles.css
+    theme: journal
+    css: mycss.css
     toc: true
 
 editor: visual

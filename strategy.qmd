@@ -1,13 +1,12 @@
 ---
 title: "Strategy"
-format: html
 ---
 
 We will provide thought leadership within the following multidisciplinary research ecosystem. The first diagram outlines the research expertise of the FAB
 
 ```{mermaid}
 graph LR
-  subgraph 
+  subgraph FAB
     A[(FAB)]--> C(Thought Leadership)
     C-->|in| N[Text as Data]
     C -->|in| P[Financial Machine Learning]
@@ -17,7 +16,7 @@ graph LR
   end
 ```
 
-A key strategic goal for FAB is to enhance and develop multidisciplinary research through strong links with GII/[CSIT](http://www.csit.qub.ac.uk). The lab is well positioned provide domain knowledge transfer to the BRCD funded Momentum One Zero Institute in Queen's. The following diagram highlights expertise linkages (regulatory technology expertise is highlighted in orange):
+A key strategic goal for FAB is to enhance and develop multidisciplinary research through strong links with GII/[CSIT](http://www.csit.qub.ac.uk). The lab is well positioned provide domain expertise to the [Belfast Region City Deal](https://belfastregioncitydeal.co.uk/) funded [Global Innovation Institute](https://www.brcd-innovation.co.uk/projects/gii) in Queen's. The following diagram highlights expertise linkages (regulatory technology expertise is highlighted in orange):
 
 ```{mermaid}
 graph LR
@@ -38,5 +37,3 @@ graph LR
     classDef reg fill:#f96;
   end
 ```
-
-## 

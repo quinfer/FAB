@@ -1,0 +1,21 @@
+---
+title: "Activities"
+---
+
+### Research impact
+
+-   Financial tail risk, advanced analytics and artificial intelligence KTP with [Funds-Axis Ltd](https://funds-axis.com).
+
+-   AI and regulatory compliance risk R&D project with [Citigroup](https://Citigroup.com) Belfast.
+
+### Academic
+
+-   Multidisciplinary workshop series **Towards a research agenda for FinTech in Northern Ireland**.
+
+-   Can LLMs to enhance financial regulation and compliance? (Abhishek Pramanick Hui Wang, Barry Quinn).
+
+-   Trader surveillance and AI in Chinese Stock Markets (Weilong Lui, Jesus Del Martinez Rincon, Fearghal Kearney, Barry Quinn).
+
+-   XAI and causal inference (Barry Quinn, Fearghal Kearney).
+
+-   AI and the Cost of flying the flag: an economic impact assessment of flag flying in Northern Ireland (Barry Quinn, Declan French).

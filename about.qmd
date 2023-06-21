@@ -2,24 +2,24 @@
 title: "About"
 ---
 
-The ***F**inance, technology and **A**rtificial intelligence research la**B*** (hereafter **F.A.B.**) is a cross-disciplinary research project within the finance group of Queen's Management School. The lab will be industry-focused and aims to provide thought leadership for Northern Ireland's vibrant financial technology ecosystem.[^1]
+The ***F**inance and **A**rtificial intelligence research la**B*** (hereafter **FAB**) is a cross-disciplinary research project within the finance group of Queen's Management School. The lab will be industry-focused and aims to provide thought leadership for Northern Ireland's vibrant financial technology ecosystem.[^1]
 
-[^1]: An overview of this ecosystem can be found here: <https://fintechnorthernireland.com/fintech-ecosystem/>
+[^1]: An overview of this ecosystem can be found here: <https://fintech-ni.com/>
 
 ## Mission
 
 The mission is to bridge gaps between information technologies, data science, innovation, and financial decision-making. Our goal is to be a global lab of excellence, uniquely located at the gateway between the UK, and the EU. To achieve this mission the lab has the following strategic goals:
 
-1.  Using technology to drive innovation for the local fintech community.
+1.  Using digital technology to drive innovation for the local fintech community.
 
 2.  Produce internationally acclaimed research in finance, technology and AI.
 
 3.  Produce internationally acclaimed at the intersection of AI-safety, risk management and financial regulation.
 
-4.  Strengthen and develop linkages with School of Electronics, Electrical Engineering and Computer Science.[^2]
+4.  Strengthen and develop links with the School of Electronics, Electrical Engineering and Computer Science.[^2]
 
-5.  Foster national and international partnerships with other research labs in financial technology, AI and data science.
+5.  Foster national and international partnerships with other research labs in financial technology and AI.
 
 6.  Nuclei local fintech companies to inform disruptive research in technology adoption in finance.
 
-[^2]: Currently, Fearghal and Barry are Associate Fellows of the Global Innovation Institute at Queen's. As part of the Belfast Region City Deal (BRCD), the £55M Global Innovation Institute (GII) programme at Queen's University Belfast (QUB) aims to transform NI's digital economy by substantially increasing both the volume and range of digital innovation taking place within the region.
+[^2]: Currently, Dr Fearghal Kearney and Dr Barry Quinn are Associate Fellows of the Global Innovation Institute at Queen's. As part of the Belfast Region City Deal (BRCD), the £55M Global Innovation Institute (GII) programme at Queen's University Belfast (QUB) aims to transform NI's digital economy by substantially increasing both the volume and range of digital innovation taking place within the region.
