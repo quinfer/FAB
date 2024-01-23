@@ -2,7 +2,7 @@
 title: "People"
 ---
 
--   Barry Quinn (Senior Lecturer of Finance, Technology and Data Science) **Director**
+-   Barry Quinn CStat (Senior Lecturer of Finance, Technology and Data Science) **Director**
 
 -   Fearghal Kearney (Senior Lecturer of Finance) **Director**
 
@@ -12,23 +12,25 @@ title: "People"
 
 -   Declan Breslin (Honorary Professor of Practice in Financial Services)
 
+-   Ronan Gallagher CFA (Senior Lecturer of Finance, University of Edinburgh Business School)
+
 -   Darren Burrows (CEO Funds-Axis Ltd)
 
 -   Carla McGlynn (Director, Head of Markets Data, Business Risks and Controls Technology / Site Lead at Citi Belfast)
 
 -   Dennis Krupen (SVP, Engineering Strategy, Data and DevOps Lead at Citi)
 
--   Clare Guinness (Innovation Director, Belfast Region City Deal)
-
 -   Philip Hamill (Professor of Finance, Associate Provost for Research and Academic Department, Abu Dhabi University)
 
--   Paul Miller (Reader of Computer Science, Deputy Head of the Centre for Secure and Intelligence Technologies)
+-   Paul Miller (Reader of Computer Science, Academic Director of the Global Innovation Institute)
 
 -   Hui Wang (Professor of Computer Science)
 
 -   Jesus Martinez Del Rincon (Senior Lecturer of Computer Science)
 
 -   Richard Gault (Lecturer in Computer Science)
+
+-   Michelle Butler (Professor of Criminology)
 
 -   Laura Steele (Senior Lecturer of Management)
 
@@ -50,6 +52,6 @@ title: "People"
 
 -   Bart Ruemkens (PhD in climate finance, transition risk and the role of machine learning)
 
--   Weilong Lui (Market manipulation and the role of Supervisory Technology in the Chinese Stock Market)
+-   Weilong Lui ( postdoctoral candidate at Lingnan College, Sun Yat-sen University, China)
 
 We also have an institutional partnership with the [Gilmore Center for Financial Technology](https://www.wbs.ac.uk/research/research-centres-and-networks/gillmore-centre-financial-technology/) at Warwick Business School.

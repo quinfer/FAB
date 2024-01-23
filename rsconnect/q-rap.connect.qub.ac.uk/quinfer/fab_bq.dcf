@@ -1,0 +1,14 @@
+name: fab_bq
+title: FAB_BQ
+username: quinfer
+account: quinfer
+server: q-rap.connect.qub.ac.uk
+hostUrl: https://q-rap.connect.qub.ac.uk/__api__
+appId: 64
+bundleId: 365
+url: https://q-rap.connect.qub.ac.uk/content/7995242f-bede-448b-ab83-d9428d243cf9/
+when: 1702544683.15054
+lastSyncTime: 1702544683.15055
+asMultiple: FALSE
+asStatic: TRUE
+ignoredFiles: about.html|activity.html|animated_plot.gif|data.png|fraud.html|index_alt.html|index.html|mycss.css|people.html|presenter_slides/Emerging Technologies & Regulation - Queens University.pptx|QUB_QBS_Logo_Red_Landscape.png|rationale.html|search.json|slide_material/econ101.png|slide_material/spoof.png|strategy.html|symposium_advert.html|symposium.html|symposium.pdf|img|site_libs

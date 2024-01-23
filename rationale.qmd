@@ -12,7 +12,7 @@ The financial services industry has witnessed a rapid expansion in the use digit
 
 3.  Cyber security, risk and privacy;
 
-6.  AI and machine learning adoption.
+4.  AI and machine learning adoption.
 
 All four drivers have strong links to research areas of **AI-safety (in computer science) and risk management (in finance)**, and financial regulators across the world are grappling with "rules on the books" to provide robust guide rails for this viral-like growth of the digital economy.
 

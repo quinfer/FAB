@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.353">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -55,7 +74,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
@@ -63,6 +83,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="mycss.css">
 <meta property="og:title" content="FAB - About">
 <meta property="og:description" content="">
+<meta property="og:image" content="./img/QUB_QBS_Logo_Red_Landscape.png">
 <meta property="og:site-name" content="FAB">
 <meta property="og:locale" content="es_ES">
 </head>
@@ -85,16 +106,8 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link active" href="./about.html" rel="" target="" aria-current="page">
  <span class="menu-text">About</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./rationale.html" rel="" target="">
- <span class="menu-text">Rationale</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./activity.html" rel="" target="">
@@ -103,6 +116,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./people.html" rel="" target="">
  <span class="menu-text">People</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./symposium.html" rel="" target="">
+ <span class="menu-text">AI and the Future of Financial Regulation</span></a>
   </li>  
 </ul>
             <div class="quarto-navbar-tools ms-auto">
@@ -120,7 +137,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#mission" id="toc-mission" class="nav-link active" data-scroll-target="#mission">Mission</a></li>
+  <li><a href="#our-mission" id="toc-our-mission" class="nav-link active" data-scroll-target="#our-mission">Our Mission</a></li>
+  <li><a href="#our-vision" id="toc-our-vision" class="nav-link" data-scroll-target="#our-vision">Our Vision</a></li>
+  <li><a href="#our-approach" id="toc-our-approach" class="nav-link" data-scroll-target="#our-approach">Our Approach</a></li>
   </ul>
 </nav>
     </div>
@@ -144,28 +163,47 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>The <em><strong>F</strong>inance and <strong>A</strong>rtificial intelligence research la<strong>B</strong></em> (hereafter <strong>FAB</strong>) is a cross-disciplinary research project within the finance group of Queen’s Management School. The lab will be industry-focused and aims to provide thought leadership for Northern Ireland’s vibrant financial technology ecosystem.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
-<section id="mission" class="level2">
-<h2 class="anchored" data-anchor-id="mission">Mission</h2>
-<p>The mission is to bridge gaps between information technologies, data science, innovation, and financial decision-making. Our goal is to be a global lab of excellence, uniquely located at the gateway between the UK, and the EU. To achieve this mission the lab has the following strategic goals:</p>
-<ol type="1">
-<li><p>Using digital technology to drive innovation for the local fintech community.</p></li>
-<li><p>Produce internationally acclaimed research in finance, technology and AI.</p></li>
-<li><p>Produce internationally acclaimed at the intersection of AI-safety, risk management and financial regulation.</p></li>
-<li><p>Strengthen and develop links with the School of Electronics, Electrical Engineering and Computer Science.<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></p></li>
-<li><p>Foster national and international partnerships with other research labs in financial technology and AI.</p></li>
-<li><p>Nuclei local fintech companies to inform disruptive research in technology adoption in finance.</p></li>
-</ol>
+<p>At the Finance and AI Research Lab, Queen’s Business School, we recognize the application of artificial intelligence in financial services as a <a class="glowinline">wicked problem:</a>,</p>
+<blockquote class="blockquote">
+<p>A problems with combined degrees of conflict <span class="citation" data-cites="Adelson2023">(<a href="#ref-Adelson2023" role="doc-biblioref">Adelson et al. 2023</a>)</span>, complexity <span class="citation" data-cites="Kelly2023">(<a href="#ref-Kelly2023" role="doc-biblioref">Kelly, Malamud, and Zhou 2022</a>)</span> and uncertainty<span class="citation" data-cites="Dotan1985">(<a href="#ref-Dotan1985" role="doc-biblioref">Dotan and Ravid 1985</a>)</span> <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>.</p>
+</blockquote>
+<p><br></p>
+<section id="our-mission" class="level2">
+<h2 class="anchored" data-anchor-id="our-mission">Our Mission</h2>
+<p>Our mission is to delve into this intricate nexus where innovative solutions meet multifarious challenges, a domain where simple answers are elusive, and the ramifications are profound and far-reaching. In this landscape, we are committed to pioneering AI solutions that not only advance financial practices but also address the inherent uncertainties and interdependencies characteristic of wicked problems in finance.</p>
+<p>Our focus extends beyond the technical prowess of AI in predictive analytics and decision-making; we are equally invested in untangling the intertwined issues of ethical AI deployment, regulatory compliance, and social responsibility. We acknowledge that in the realm of AI and finance, the challenges we face are dynamic and evolving, demanding adaptive and forward-thinking strategies.</p>
+</section>
+<section id="our-vision" class="level2">
+<h2 class="anchored" data-anchor-id="our-vision">Our Vision</h2>
+<p>The lab’s vision encompasses not just the development of robust AI models but also the cultivation of frameworks that allow us to ‘constrain our future selves’, a concept central to addressing super wicked problems <span class="citation" data-cites="Levin2012OvercomingTS">(<a href="#ref-Levin2012OvercomingTS" role="doc-biblioref">Levin et al. 2012</a>)</span>. This involves proactive engagement with the long-term implications of our work, ensuring that our innovations in AI are sustainable, equitable, and transparent.</p>
+</section>
+<section id="our-approach" class="level2">
+<h2 class="anchored" data-anchor-id="our-approach">Our Approach</h2>
+<p>Our interdisciplinary approach combines expertise in finance, technology, data science, and ethics, fostering an environment where creative problem-solving thrives. As we tackle these <a class="glowinline">wicked problems</a>, our lab stands as a crucible of innovation, shaping a future where AI in financial services is not just about efficiency and profit, but also about creating a more inclusive and responsible financial ecosystem.</p>
+<p>In this challenging yet exhilarating journey, the Finance and AI Research Lab at Queen’s Business School is dedicated to leading the charge, offering groundbreaking insights and solutions that resonate with the complex, interwoven fabric of modern financial services in an AI-driven era.</p>
+
 
 
 </section>
 
 
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+<p><img src="./img/QUB_QBS_Logo_Red_Landscape.png" class="img-fluid" style="width:50.0%"></p><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-Adelson2023" class="csl-entry" role="listitem">
+Adelson, Caroline, Charlotte Kuller, Cate Tompkins, Ellora Sarkar, Samantha Price, and Marco Iansiti. 2023. <span>“How Wicked Problems Drive Business Performance: A Review of the Academic Literature.”</span> <em>Harvard Business School Working Paper Series</em> 23-064. <a href="https://www.hbs.edu/ris/Publication%20Files/23-064_f10377b2-89e6-4752-ac42-456c0f42136f.pdf">https://www.hbs.edu/ris/Publication%20Files/23-064_f10377b2-89e6-4752-ac42-456c0f42136f.pdf</a>.
+</div>
+<div id="ref-Dotan1985" class="csl-entry" role="listitem">
+Dotan, Amihud, and S Abraham Ravid. 1985. <span>“On the Interaction of Real and Financial Decisions of the Firm Under Uncertainty.”</span> <em>The Journal of Finance</em> 40 (2): 501–17.
+</div>
+<div id="ref-Kelly2023" class="csl-entry" role="listitem">
+Kelly, Bryan T, Semyon Malamud, and Kangying Zhou. 2022. <span>“<span class="nocase">The Virtue of Complexity Everywhere</span>.”</span> <em>Swiss Finance Institue Research Paper No.22-57</em>. <a href="https://doi.org/10.2139/ssrn.4166368">https://doi.org/10.2139/ssrn.4166368</a>.
+</div>
+<div id="ref-Levin2012OvercomingTS" class="csl-entry" role="listitem">
+Levin, Kelly, Benjamin Cashore, Steven Bernstein, and Graeme Auld. 2012. <span>“Overcoming the Tragedy of Super Wicked Problems: Constraining Our Future Selves to Ameliorate Global Climate Change.”</span> <em>Policy Sciences</em> 45: 123–52. <a href="https://doi.org/10.1007/s11077-012-9151-0">https://doi.org/10.1007/s11077-012-9151-0</a>.
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
-<li id="fn1"><p>An overview of this ecosystem can be found here: <a href="https://fintech-ni.com/" class="uri">https://fintech-ni.com/</a><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn2"><p>Currently, Dr Fearghal Kearney and Dr Barry Quinn are Associate Fellows of the Global Innovation Institute at Queen’s. As part of the Belfast Region City Deal (BRCD), the £55M Global Innovation Institute (GII) programme at Queen’s University Belfast (QUB) aims to transform NI’s digital economy by substantially increasing both the volume and range of digital innovation taking place within the region.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn1"><p>Effective approaches for tackling <a class="glowinline">wicked problems</a> apply problem-solving paradigms that consider the complexity and interconnectedness of the problem and are effective when dealing with informational uncertainty.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

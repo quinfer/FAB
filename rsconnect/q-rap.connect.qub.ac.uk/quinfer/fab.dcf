@@ -4,10 +4,11 @@ username: quinfer
 account: quinfer
 server: q-rap.connect.qub.ac.uk
 hostUrl: https://q-rap.connect.qub.ac.uk/__api__
-appId: 47
-bundleId: 300
+appId: 58
+bundleId: 371
 url: https://q-rap.connect.qub.ac.uk/FAB/
-when: 1686295734.68367
-lastSyncTime: 1686295734.68367
+when: 1704985170.76576
+lastSyncTime: 1704985170.76577
 asMultiple: FALSE
 asStatic: TRUE
+ignoredFiles: activity.html|animated_plot.gif|data.png|detection.html|fraud.html|index_alt.html|index.html|QUB_QBS_Logo_Red_Landscape.png|rationale.html|slide_material/econ101.png|slide_material/spoof.png|strategy.html|symposium_advert.html|symposium.pdf

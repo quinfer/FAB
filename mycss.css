@@ -407,3 +407,13 @@ https://www.w3schools.com/howto/howto_css_glowing_text.asp
     -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
     filter: grayscale(100%);
 }
+
+/**********
+slides
+**********/
+
+.swiper-slide img {
+    width: 100%; /* This makes the image fill the slide */
+    height: auto; /* This maintains the image aspect ratio */
+    display: block; /* Removes any default spacing around the image */
+}

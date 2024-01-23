@@ -3,7 +3,10 @@ title: '**F**inance and **A**rtificial intelligence research la**B**'
 ---
 
 <head>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
+```{=html}
 <style>
 * {box-sizing: border-box;}
 body {font-family: Verdana, sans-serif;}
@@ -68,40 +71,53 @@ img {vertical-align: middle;}
   .text {font-size: 11px}
 }
 </style>
+```
 </head>
+
 <body>
 
-<div class="slideshow-container">
+::: slideshow-container
+::: {.mySlides .fade}
+<!-- <div class="numbertext">1 / 3</div> -->
 
-<div class="mySlides fade">
-  <!-- <div class="numbertext">1 / 3</div> -->
-  <img src="img/digital-transformation.jpg" style="width:100%">
-  <div class="text">Finance</div>
-</div>
+<img src="img/digital-transformation.jpg" style="width:100%"/>
 
-<div class="mySlides fade">
-  <!-- <div class="numbertext">2 / 3</div> -->
-  <img src="img/drive-digital-change1.jpg" style="width:100%">
-  <div class="text">Technology</div>
-</div>
+::: text
+Finance
+:::
+:::
 
-<div class="mySlides fade">
-  <!-- <div class="numbertext">3 / 3</div> -->
-  <img src="img/drive-digital-change2.jpg" style="width:100%">
-  <div class="text">AI</div>
-</div>
+::: {.mySlides .fade}
+<!-- <div class="numbertext">2 / 3</div> -->
 
-</div>
+<img src="img/drive-digital-change1.jpg" style="width:100%"/>
+
+::: text
+Technology
+:::
+:::
+
+::: {.mySlides .fade}
+<!-- <div class="numbertext">3 / 3</div> -->
+
+<img src="img/drive-digital-change2.jpg" style="width:100%"/>
+
+::: text
+AI
+:::
+:::
+:::
+
 <br>
 
-<div style="text-align:center">
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-</div>
+::: {style="text-align:center"}
+:::
 
-<div class="salt">Using digital technology to drive financial innovation</div>
+::: salt
+Using digital technology to drive financial innovation
+:::
 
+```{=html}
 <script>
 let slideIndex = 0;
 showSlides();
@@ -124,5 +140,5 @@ function showSlides() {
 }
 
 </script>
-
+```
 </body>

@@ -1,19 +1,19 @@
 project:
   type: website
-
+  
 website:
   title: "**FAB**"
+  body-footer: |
+   ![](/img/QUB_QBS_Logo_Red_Landscape.png){width="50%"}
   open-graph:
     locale: es_ES
     site-name: FAB
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - about.qmd
-      - rationale.qmd
       - activity.qmd
       - people.qmd
+      - symposium.qmd
 format:
   html:
     theme: journal

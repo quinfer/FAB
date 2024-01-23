@@ -2,20 +2,26 @@
 title: "Activities"
 ---
 
-### Research impact
+### Industry collaboration
 
 -   Financial tail risk, advanced analytics and artificial intelligence KTP with [Funds-Axis Ltd](https://funds-axis.com).
 
--   AI and regulatory compliance risk R&D project with [Citigroup](https://Citigroup.com) Belfast.
+-   Leveraging Artificial Intelligence to enhance and understand regulatory compliance in the investment management industry with [Funds-Axis Ltd](https://funds-axis.com).
 
-### Academic
+-   Towards a trustworthy banking approach to AI implementation: Balancing membership trust with operational performance with [Credit Union Development Association](https://www.cuda.ie).
+
+### Academic impact
 
 -   Multidisciplinary workshop series **Towards a research agenda for FinTech in Northern Ireland**.
 
--   Can LLMs to enhance financial regulation and compliance? (Abhishek Pramanick Hui Wang, Barry Quinn).
+-   How will artificial intelligence affect the future of financial regulation? (Abhishek Pramanick, Jesus Martinez Del Rincon, Hui Wang, Barry Quinn).
 
 -   Trader surveillance and AI in Chinese Stock Markets (Weilong Lui, Jesus Del Martinez Rincon, Fearghal Kearney, Barry Quinn).
 
--   XAI and causal inference (Barry Quinn, Fearghal Kearney).
+-   Regulatory complexity or just more regulation? (Abhishek Pramanick, Jesus Martinez Del Rincon, Barry Quinn)
 
 -   AI and the Cost of flying the flag: an economic impact assessment of flag flying in Northern Ireland (Barry Quinn, Declan French).
+
+### Skills impact
+
+-   PG Cert in Financial Technology and AI (September 2024)
