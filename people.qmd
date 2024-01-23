@@ -1,0 +1,57 @@
+---
+title: "People"
+---
+
+-   Barry Quinn CStat (Senior Lecturer of Finance, Technology and Data Science) **Director**
+
+-   Fearghal Kearney (Senior Lecturer of Finance) **Director**
+
+-   Gareth Campbell (Professor of Finance)
+
+-   Declan French (Professor of Finance)
+
+-   Declan Breslin (Honorary Professor of Practice in Financial Services)
+
+-   Ronan Gallagher CFA (Senior Lecturer of Finance, University of Edinburgh Business School)
+
+-   Darren Burrows (CEO Funds-Axis Ltd)
+
+-   Carla McGlynn (Director, Head of Markets Data, Business Risks and Controls Technology / Site Lead at Citi Belfast)
+
+-   Dennis Krupen (SVP, Engineering Strategy, Data and DevOps Lead at Citi)
+
+-   Philip Hamill (Professor of Finance, Associate Provost for Research and Academic Department, Abu Dhabi University)
+
+-   Paul Miller (Reader of Computer Science, Academic Director of the Global Innovation Institute)
+
+-   Hui Wang (Professor of Computer Science)
+
+-   Jesus Martinez Del Rincon (Senior Lecturer of Computer Science)
+
+-   Richard Gault (Lecturer in Computer Science)
+
+-   Michelle Butler (Professor of Criminology)
+
+-   Laura Steele (Senior Lecturer of Management)
+
+-   Clive Walker (Lecturer of Finance)
+
+-   Yassine Bakar (Lectuer of Finance)
+
+-   Byron Graham (Senior Lecturer of Business Analytics)
+
+-   Qiao (Olivia) Peng (Lecturer of Business Analytics)
+
+-   Colm Kelly (Machine Learning Researcher, FundAxis Ltd; PhD completed 2023 in financial machine learning and asset pricing,)
+
+-   Abhishek Pramanick (PhD Candidate in regulatory technology and financial inclusion, started Sept 22)
+
+-   Fei Li (PhD Candidate in Firm risk and performance implications of ESG, started Sept 22)
+
+-   Veronica Zhang (PhD Candidate in Regulatory Implications in the development of the Chinese banking sector (submitting July 2023)
+
+-   Bart Ruemkens (PhD in climate finance, transition risk and the role of machine learning)
+
+-   Weilong Lui ( postdoctoral candidate at Lingnan College, Sun Yat-sen University, China)
+
+We also have an institutional partnership with the [Gilmore Center for Financial Technology](https://www.wbs.ac.uk/research/research-centres-and-networks/gillmore-centre-financial-technology/) at Warwick Business School.

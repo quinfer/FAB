@@ -1,0 +1,58 @@
+---
+title: "Symposium"
+---
+
+## AI and the future of financial regulation
+
+We are excited to invite you to our first **Finance and AI** symposium focused on the evolving landscape of FinTech research in NI. This event, themed around AI and the future of financial regulation, is a prime opportunity for professionals, academics, and industry experts to come together and share insights, research, and innovations.
+
+This event will tackle the theme from three perspectives: the regulators, the academics, and the industry practitioners.
+
+::: content-box-gray
+*Date:* 23/11/2023 1pm-5pm. *Location:* Isbell Courtyard, [Riddel Hall](https://maps.app.goo.gl/h8fhkugWWXXAVHSy5)
+:::
+
+## Schedule
+
+-   *1.00pm to 1.30pm*: Lunch and networking
+-   *1.30pm to 1.45pm*: Introducing the <a style="color:red;">F</a>inance and <a style="color:red;">A</a>I Research La<a style="color:red;">B</a> (hereafter <a style="color:red;">FAB</a>) by Barry Quinn (Co-Director of FAB)
+-   *1.45pm to 2:30pm*: Keynote
+
+::: content-box-red
+-   Emerging technologies and the future of regulation (Pavle Avramovic, Manager Emerging Tech and Research at the FCA[^1])
+:::
+
+[^1]: Pavle leads the Emerging Technologies Hub at the Financial Conduct Authority (FCA). He focuses on providing insights and thought leadership on how emerging technologies could impact financial services markets, consumers and regulators. His areas of focus include quantum computing, privacy enhancing technologies, synthetic data and distributed ledger technologies. Previously he was closely involved in FCA's efforts across RegTech and SupTech, including the TechSprint work programme. He also leads the Digital Regulation Cooperation Forum (DRCF) Horizon Scanning Workstream and is a member of the World Economic Forum Quantum Security Working Group. He holds a MSc in Digital Innovation and Information Systems from the London School of Economics and is an Industrial Fellow at the University of East London. He has co-authored papers for the Harvard Data Science Review, Alan Turing Institute and other organisations, including presenting at major conferences and research seminars.
+
+-   *2:45pm - 3:30pm* Academic Session:
+
+::: content-box-red
+## Presentations
+
+-   *Compliance auditing and AI* [(Hui Wang, Professor of Computer Science, QUB)](https://pure.qub.ac.uk/en/persons/h-wang)
+-   *Financial auditing of DLT, Blockchain and Cryptocurrencies* [(Daniel Broby, Professor of Financial Technology ,Ulster University)](https://pure.ulster.ac.uk/en/persons/daniel-broby/publications/)
+-   *Fraud detection in financial markets* [(Barry Quinn, Senior Lecturer in Finance, Technology and Data Science, QBS)](https://pure.qub.ac.uk/en/persons/barry-quinn)
+:::
+
+-   *3:30pm - 4:15pm*: Panel Discussion- AI in financial services -Opportunities & Risks
+
+::: content-box-red
+## Panelists
+
+-   [Carla McGlynn Citi Belfast (Director, Head of Markets Data, Business Risks and Controls Technology / Site Lead)](https://www.linkedin.com/in/carla-mcglynn-8a479b130)
+-   [Chris Clements FinTrU (Director of Engineering, R&D)](https://www.linkedin.com/in/christopher-clements)
+-   [Pavle Avramovic, (Head Emerging Tech and Research FCA)](https://www.linkedin.com/in/pavleavramovic)
+-   [Adrian Johnson MBE (Director of Strategic Business Partnerships, Catalyst)](https://www.linkedin.com/in/adrian-johnston-mbe-3a442618/)
+-   \[Dr Fearghal Kearney [(Co-Director of <a style="color:red;">FAB</a>)](https://pure.qub.ac.uk/en/persons/fearghal-kearney)
+:::
+
+-   *4:15pm - 5:00pm*: Drinks Reception with Fiddle and Finance Live Trad Music
+
+## Registration link
+
+<br> <a id="Eventzilla-BuyTickets-2138613607" class="ezilla-widget-button ezilla-red ewb-large" href="javascript:void(0);" onclick="EventzillaBuyTickets('2138613607')">Register Now</a>
+
+```{=html}
+<script src='https://d2poexpdc5y9vj.cloudfront.net/embed/js/ez_widgets_v2.js' data-widget-type="eventzilla-evbutton-p" data-target-id="2138613607"></script>
+```
+<br>

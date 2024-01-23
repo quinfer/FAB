@@ -1,0 +1,779 @@
+[
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Barry Quinn CStat (Senior Lecturer of Finance, Technology and Data Science) Director\nFearghal Kearney (Senior Lecturer of Finance) Director\nGareth Campbell (Professor of Finance)\nDeclan French (Professor of Finance)\nDeclan Breslin (Honorary Professor of Practice in Financial Services)\nRonan Gallagher CFA (Senior Lecturer of Finance, University of Edinburgh Business School)\nDarren Burrows (CEO Funds-Axis Ltd)\nCarla McGlynn (Director, Head of Markets Data, Business Risks and Controls Technology / Site Lead at Citi Belfast)\nDennis Krupen (SVP, Engineering Strategy, Data and DevOps Lead at Citi)\nPhilip Hamill (Professor of Finance, Associate Provost for Research and Academic Department, Abu Dhabi University)\nPaul Miller (Reader of Computer Science, Academic Director of the Global Innovation Institute)\nHui Wang (Professor of Computer Science)\nJesus Martinez Del Rincon (Senior Lecturer of Computer Science)\nRichard Gault (Lecturer in Computer Science)\nMichelle Butler (Professor of Criminology)\nLaura Steele (Senior Lecturer of Management)\nClive Walker (Lecturer of Finance)\nYassine Bakar (Lectuer of Finance)\nByron Graham (Senior Lecturer of Business Analytics)\nQiao (Olivia) Peng (Lecturer of Business Analytics)\nColm Kelly (Machine Learning Researcher, FundAxis Ltd; PhD completed 2023 in financial machine learning and asset pricing,)\nAbhishek Pramanick (PhD Candidate in regulatory technology and financial inclusion, started Sept 22)\nFei Li (PhD Candidate in Firm risk and performance implications of ESG, started Sept 22)\nVeronica Zhang (PhD Candidate in Regulatory Implications in the development of the Chinese banking sector (submitting July 2023)\nBart Ruemkens (PhD in climate finance, transition risk and the role of machine learning)\nWeilong Lui ( postdoctoral candidate at Lingnan College, Sun Yat-sen University, China)\n\nWe also have an institutional partnership with the Gilmore Center for Financial Technology at Warwick Business School."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Finance and Artificial intelligence research laB",
+    "section": "",
+    "text": "Finance\n\n\n\n\n\n\nTechnology\n\n\n\n\n\n\nAI\n\n\n\n\n\n\n\n\nUsing digital technology to drive financial innovation"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "At the Finance and AI Research Lab, Queen’s Business School, we recognize the application of artificial intelligence in financial services as a wicked problem:,"
+  },
+  {
+    "objectID": "about.html#mission",
+    "href": "about.html#mission",
+    "title": "About",
+    "section": "Mission",
+    "text": "Mission\nOur mission is to serve as a pivotal nexus, integrating the realms of information technology, data science, innovation, and financial expertise. We aim to establish ourselves as a premier global laboratory, strategically positioned at the crossroads of the UK and the EU. Our dedication is to:\n- Catalyze innovation within the local fintech sector through cutting-edge digital technology.\n- Conduct groundbreaking research that garners international recognition in the fields of finance, technology, and artificial intelligence.\n- Lead in producing renowned research at the confluence of AI safety, risk management, and financial regulation.\n- Strengthen and expand our connection with the School of Electronics, Electrical Engineering and Computer Science.\n- Build robust national and international collaborations with fellow research entities in the spheres of financial technology and AI.\n- Guide local fintech firms to pioneer disruptive research that promotes the adoption of new technologies in finance."
+  },
+  {
+    "objectID": "about.html#footnotes",
+    "href": "about.html#footnotes",
+    "title": "About",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nEffective approaches for tackling wicked problems apply problem-solving paradigms that consider the complexity and interconnectedness of the problem and are effective when dealing with informational uncertainty.↩︎"
+  },
+  {
+    "objectID": "rationale.html",
+    "href": "rationale.html",
+    "title": "Rationale",
+    "section": "",
+    "text": "The financial services industry has witnessed a rapid expansion in the use digital innovation with early estimates suggesting its adoption could generate up to one trillion dollars annually1. As a highly regulated system, the key drives of further technological adoption are:\nAll four drivers have strong links to research areas of AI-safety (in computer science) and risk management (in finance), and financial regulators across the world are grappling with “rules on the books” to provide robust guide rails for this viral-like growth of the digital economy."
+  },
+  {
+    "objectID": "rationale.html#footnotes",
+    "href": "rationale.html#footnotes",
+    "title": "Rationale",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nMcKinsey AI Playbook (2019) estimates. See https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-executives-ai-playbook?page=industries/banking/ for more details.↩︎"
+  },
+  {
+    "objectID": "activity.html",
+    "href": "activity.html",
+    "title": "Activities",
+    "section": "",
+    "text": "Industry collaboration\n\nFinancial tail risk, advanced analytics and artificial intelligence KTP with Funds-Axis Ltd.\nLeveraging Artificial Intelligence to enhance and understand regulatory compliance in the investment management industry with Funds-Axis Ltd.\nTowards a trustworthy banking approach to AI implementation: Balancing membership trust with operational performance with Credit Union Development Association.\n\n\n\nAcademic impact\n\nMultidisciplinary workshop series Towards a research agenda for FinTech in Northern Ireland.\nHow will artificial intelligence affect the future of financial regulation? (Abhishek Pramanick, Jesus Martinez Del Rincon, Hui Wang, Barry Quinn).\nTrader surveillance and AI in Chinese Stock Markets (Weilong Lui, Jesus Del Martinez Rincon, Fearghal Kearney, Barry Quinn).\nRegulatory complexity or just more regulation? (Abhishek Pramanick, Jesus Martinez Del Rincon, Barry Quinn)\nAI and the Cost of flying the flag: an economic impact assessment of flag flying in Northern Ireland (Barry Quinn, Declan French).\n\n\n\nSkills impact\n\nPG Cert in Financial Technology and AI (September 2024)"
+  },
+  {
+    "objectID": "strategy.html",
+    "href": "strategy.html",
+    "title": "Strategy",
+    "section": "",
+    "text": "We will provide thought leadership within the following multidisciplinary research ecosystem. The first diagram outlines the research expertise of the FAB\n\n\n\n\ngraph LR\n  subgraph FAB\n    A[(FAB)]--&gt; C(Thought Leadership)\n    C--&gt;|in| N[Text as Data]\n    C --&gt;|in| P[Financial Machine Learning]\n    C --&gt;|in| S[Regulatory Technology] --&gt; D[AI and VaR Analytics] & E[AI Ethics in Business] & F[Systemic Risk and AI] & R[ESG *Integrated Value* Analytics]\n    C --&gt;|in| G[Business Analytics]\n    C --&gt;|in| H[Economics of AI] --&gt; Q[Economics of Hybrid Cloud] & L[Causal Inference and XAI]\n  end\n\n\n\n\n\nA key strategic goal for FAB is to enhance and develop multidisciplinary research through strong links with GII/CSIT. The lab is well positioned provide domain expertise to the Belfast Region City Deal funded Global Innovation Institute in Queen’s. The following diagram highlights expertise linkages (regulatory technology expertise is highlighted in orange):\n\n\n\n\ngraph LR\n subgraph FAB connections to GII\n    A[(GIIs)]--&gt; C(Impactful Research)\n    C --&gt;|CSIT + F.A.B. + Criminology| D[Security & Assurance in FinancE]\n    C --&gt;|Management School| E[F.A.B.]\n    E --&gt;|in| F[AI and Tail Risk Analytics]:::reg\n    E --&gt;|in| X[Economics of Hybrid Cloud]:::reg\n    \n    D:::reg & C --&gt;|in| N[Text as Data]:::reg\n    D --&gt;|in| P[Financial Machine Learning]\n    E --&gt;|in| H[Economics of AI] --&gt; L[Econometrics of AI]\n    D --&gt; |in| I(Trade Surveillance):::reg\n    D --&gt; |in| J(Trustworthy AI):::reg\n    D --&gt; |in| K(Systemic Risk and AI):::reg\n    F & L & I & J --&gt; M[eXplainable AI]:::reg\n    classDef reg fill:#f96;\n  end"
+  },
+  {
+    "objectID": "FAB Events.html",
+    "href": "FAB Events.html",
+    "title": "FAB Symposium",
+    "section": "",
+    "text": "How will AI affect the future of financial regulation?\nWe are excited to invite you to our upcoming symposium focused on the evolving landscape of FinTech research in NI. This is a prime opportunity for professionals, academics, and industry experts to come together and share insights, research, and innovations.\nThis event will tackle the theme from three perspectives: the regulators, the academics, and the industry practitioners.\n&gt;**Date:** 23/11/2023 1pm-5pm. **Location:** Isbell Courtyard, Riddel Hall\n## **Schedule**\n| Time | Event |Details|\n|:---------------:|:----:|:--|\n|1:00pm - 1:30pm | Networking and Lunch| |\n| 1:30pm - 1:45pm| Introducing FAB (Finance and AI Research lab) | |\n| 1:45pm - 2:30pm| Keynote|FCA’s emerging regulatory approaches to AI (FCA Rep)|\n| 2:30pm - 2:45pm| Coffee Break||\n| 2:45pm - 3:30pm| Academic Sessions | *The autonomy of a fraudulent trade* (Dr Barry Quinn) &lt;br&gt; *Financial compliance and AI* (Professor Hui Wang) &lt;br&gt; *Regulatory technology: a market view* (Abhishek Pramanick (PhD Candidate)) |\n| 3:30pm - 4:15pm| Panel Discussion|FinTech innovations, AI, industry challenges|\n| 4:15pm - 5:00pm| Drinks Reception|Fiddle and Finance Live Trad Music|\n## Academic perspective\n## Panelist\n- Carla McFlynn Citi Belfast (Director, Head of Markets Data, Business Risks and Controls Technology / Site Lead)\n- Chris Clements FinTru (Director of Engineering, R&D)\nWe look forward to seeing you there!\n[Register Now Placeholder]([Registration Link])"
+  },
+  {
+    "objectID": "FAB Events.html#finance-and-ai-symposium-how-will-ai-affect-the-future-of-financial-regulation",
+    "href": "FAB Events.html#finance-and-ai-symposium-how-will-ai-affect-the-future-of-financial-regulation",
+    "title": "FAB Symposium",
+    "section": "Finance and AI Symposium: How will AI affect the future of financial regulation?",
+    "text": "Finance and AI Symposium: How will AI affect the future of financial regulation?\nWe are excited to invite you to our upcoming symposium focused on the evolving landscape of FinTech research in NI. This is a prime opportunity for professionals, academics, and industry experts to come together and share insights, research, and innovations.\nThis event will tackle the theme from three perspectives: the regulators, the academics, and the industry practitioners.\n\nDate: 23/11/2023 1pm-5pm. Location: Isbell Courtyard, Riddel Hall"
+  },
+  {
+    "objectID": "FAB Events.html#schedule",
+    "href": "FAB Events.html#schedule",
+    "title": "FAB Symposium",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\n\n\n\n\n\nTime\nEvent\nDetails\n\n\n\n\n1:00pm - 1:30pm\nNetworking and Lunch\n\n\n\n1:30pm - 1:45pm\nIntroducing FAB (Finance and AI Research lab)\n\n\n\n1:45pm - 2:30pm\nKeynote\nFCA’s emerging regulatory approaches to AI (FCA Rep)\n\n\n2:30pm - 2:45pm\nCoffee Break\n\n\n\n2:45pm - 3:30pm\nAcademic Sessions\nThe autonomy of a fraudulent trade (Dr Barry Quinn)  Financial compliance and AI (Professor Hui Wang)  Regulatory technology: a market view (Abhishek Pramanick (PhD Candidate))\n\n\n3:30pm - 4:15pm\nPanel Discussion\nFinTech innovations, AI, industry challenges\n\n\n4:15pm - 5:00pm\nDrinks Reception\nFiddle and Finance Live Trad Music"
+  },
+  {
+    "objectID": "FAB Events.html#academic-perspective",
+    "href": "FAB Events.html#academic-perspective",
+    "title": "FAB Symposium",
+    "section": "Academic perspective",
+    "text": "Academic perspective"
+  },
+  {
+    "objectID": "FAB Events.html#panelist",
+    "href": "FAB Events.html#panelist",
+    "title": "FAB Symposium",
+    "section": "Panelist",
+    "text": "Panelist\n\nCarla McFlynn Citi Belfast (Director, Head of Markets Data, Business Risks and Controls Technology / Site Lead)\nChris Clements FinTru (Director of Engineering, R&D)\n\nWe look forward to seeing you there!\nRegister Now Placeholder"
+  },
+  {
+    "objectID": "symposium.html#finance-and-ai-symposium-how-will-ai-affect-the-future-of-financial-regulation",
+    "href": "symposium.html#finance-and-ai-symposium-how-will-ai-affect-the-future-of-financial-regulation",
+    "title": "**FAB**",
+    "section": "",
+    "text": "We are excited to invite you to our upcoming symposium focused on the evolving landscape of FinTech research in NI. This is a prime opportunity for professionals, academics, and industry experts to come together and share insights, research, and innovations.\nThis event will tackle the theme from three perspectives: the regulators, the academics, and the industry practitioners.\n\nDate: 23/11/2023 1pm-5pm. Location: Isbell Courtyard, Riddel Hall"
+  },
+  {
+    "objectID": "symposium.html#schedule",
+    "href": "symposium.html#schedule",
+    "title": "Symposium",
+    "section": "Schedule",
+    "text": "Schedule\n\n1.00pm to 1.30pm: Lunch and networking\n1.30pm to 1.45pm: Introducing the Finance and AI Research LaB (hereafter FAB) by Barry Quinn (Co-Director of FAB)\n1.45pm to 2:30pm: Keynote\n\n\n\nEmerging technologies and the future of regulation (Pavle Avramovic, Manager Emerging Tech and Research at the FCA1)\n\n\n\n2:45pm - 3:30pm Academic Session:"
+  },
+  {
+    "objectID": "symposium.html#academic-perspective",
+    "href": "symposium.html#academic-perspective",
+    "title": "**FAB**",
+    "section": "Academic perspective",
+    "text": "Academic perspective"
+  },
+  {
+    "objectID": "symposium.html#panelist",
+    "href": "symposium.html#panelist",
+    "title": "FinTech Symposium:",
+    "section": "",
+    "text": "Carla McFlynn Citi Belfast (Director, Head of Markets Data, Business Risks and Controls Technology / Site Lead)\nChris Clements FinTru (Director of Engineering, R&D)\nPavle Avramovic, (Head Emerging Tech and Research FCA) We look forward to seeing you there!\n\nRegister Now Placeholder"
+  },
+  {
+    "objectID": "index_alt.html",
+    "href": "index_alt.html",
+    "title": "**FAB**",
+    "section": "",
+    "text": "Finance and AI research LaB"
+  },
+  {
+    "objectID": "symposium.html",
+    "href": "symposium.html",
+    "title": "AI and the Future of Financial Regulation",
+    "section": "",
+    "text": "From right to left: Barry Quinn (QBS), Chris Clements (FinTrU), Adrian Johnston (Catalyst Inc), Pavle Avramovic (FCA),Carla McGlynn (Citi), Fearghal Kearney (QBS), Daniel Broby (UU)\nFrom right to left: Barry Quinn (QBS), Chris Clements (FinTrU), Adrian Johnston (Catalyst Inc), Pavle Avramovic (FCA), Carla McGlynn (Citi), Fearghal Kearney(QBS), Daniel Broby (UU)\nIt marked the first outing for our lab, wrapping up six months of hard graft and preparation. The vibe of the afternoon? Smart-casual to a tee. Insightful talks from keynote speakers and academics bringing the ‘smart’, all set against the backdrop of our laid-back organisers (Fearghal and Barry) adding a good dollop of ‘casual’.\nWe drew in a diverse crowd, from the big names in FinTech like Citi Belfast, Kainos, and Davy’s Wealth Managers, to the sharp minds at Cardinal Analytics, FD Technologies, and FinTrU. Not to mention the folks from PWC, College Green Ventures, Resourceful Planner, and the legal eagles at Baker McKenzie and AI Goodbody. And of course, our supporters from InvestNI, Belfast Chamber of Trade and Commerce, and the Software Alliance.\nWe tackled the hot topic of AI and financial regulation from every angle - the regulators, the academics, and the industry practitioners. It was an enjoyable afternoon and a fantastic way to set the ball rolling for our wee lab.\nWhat a great afternoon we had on the 23rd of November at Riddel Hall, where we officially launched our wee Finance AI Research Lab with our first symposium!"
+  },
+  {
+    "objectID": "symposium.html#finance-and-ai-symposium",
+    "href": "symposium.html#finance-and-ai-symposium",
+    "title": "**FAB**",
+    "section": "",
+    "text": "We are excited to invite you to our upcoming symposium focused on the evolving landscape of FinTech research in NI. This is a prime opportunity for professionals, academics, and industry experts to come together and share insights, research, and innovations.\nThis event will tackle the theme from three perspectives: the regulators, the academics, and the industry practitioners.\n\nDate: 23/11/2023 1pm-5pm. Location: Isbell Courtyard, Riddel Hall"
+  },
+  {
+    "objectID": "symposium.html#how-will-ai-affect-the-future-of-financial-regulation",
+    "href": "symposium.html#how-will-ai-affect-the-future-of-financial-regulation",
+    "title": "FinTech Symposium:",
+    "section": "",
+    "text": "We are excited to invite you to our upcoming symposium focused on the evolving landscape of FinTech research in NI. This is a prime opportunity for professionals, academics, and industry experts to come together and share insights, research, and innovations.\nThis event will tackle the theme from three perspectives: the regulators, the academics, and the industry practitioners.\n\nDate: 23/11/2023 1pm-5pm. Location: Isbell Courtyard, Riddel Hall"
+  },
+  {
+    "objectID": "symposium.html#ai-and-the-future-of-financial-regulation.",
+    "href": "symposium.html#ai-and-the-future-of-financial-regulation.",
+    "title": "Symposium",
+    "section": "",
+    "text": "We are excited to invite you to our upcoming symposium focused on the evolving landscape of FinTech research in NI. This is a prime opportunity for professionals, academics, and industry experts to come together and share insights, research, and innovations.\nThis event will tackle the theme from three perspectives: the regulators, the academics, and the industry practitioners.\n\nDate: 23/11/2023 1pm-5pm. Location: Isbell Courtyard, Riddel Hall"
+  },
+  {
+    "objectID": "symposium.html#fintech-symposium-ai-and-the-future-of-financial-regulation.",
+    "href": "symposium.html#fintech-symposium-ai-and-the-future-of-financial-regulation.",
+    "title": "Symposium",
+    "section": "",
+    "text": "We are excited to invite you to our upcoming symposium focused on the evolving landscape of FinTech research in NI. This is a prime opportunity for professionals, academics, and industry experts to come together and share insights, research, and innovations.\nThis event will tackle the theme from three perspectives: the regulators, the academics, and the industry practitioners.\n\nDate: 23/11/2023 1pm-5pm. Location: Isbell Courtyard, Riddel Hall"
+  },
+  {
+    "objectID": "symposium.html#register-now",
+    "href": "symposium.html#register-now",
+    "title": "Symposium",
+    "section": "Register Now",
+    "text": "Register Now\nRegister Now"
+  },
+  {
+    "objectID": "fraud.html",
+    "href": "fraud.html",
+    "title": "Fraudulent trading and statistical fraud detection",
+    "section": "",
+    "text": "import plotly.graph_objects as go\n\n# Define the locations and names of the stock exchanges\nstock_exchanges = {\n    'New York': {'lat': 40.7128, 'lon': -74.0060, 'info': 'Placeholder for NY statistics'},\n    'London': {'lat': 51.5074, 'lon': -0.1278, 'info': 'Placeholder for London statistics'},\n    'Hong Kong': {'lat': 22.3193, 'lon': 114.1694, 'info': 'Placeholder for Hong Kong statistics'},\n    'Tokyo': {'lat': 35.6895, 'lon': 139.6917, 'info': 'Placeholder for Tokyo statistics'},\n    # Add other major stock exchanges as needed\n}\n\n# Create a list of the data for plotting\ndata = []\nfor city, values in stock_exchanges.items():\n    data.append(\n        go.Scattergeo(\n            lon=[values['lon']],\n            lat=[values['lat']],\n            text=[f\"{city}: {values['info']}\"],\n            marker=dict(\n                size=10,\n                color='red',\n                line_color='black',\n                line_width=0.5,\n                sizemode='area'\n            ),\n            name=f\"{city} Stock Exchange\"\n        )\n    )\n\n# Define the layout of the map\nlayout = go.Layout(\n    title=dict(text='Global Financial Market Importance', x=0.5),\n    geo=dict(\n        resolution=50,\n        scope='world',\n        showframe=False,\n        showcoastlines=True,\n        landcolor='rgb(217, 217, 217)',\n        countrycolor='rgb(204, 204, 204)',\n    ),\n    annotations=[\n        dict(\n            x=0,\n            y=0.1,\n            xref='paper',\n            yref='paper',\n            text='Trust and Integrity in Markets - Placeholder for global impact statistics',\n            showarrow=False\n        )\n    ]\n)\n\n# Create the figure with data and layout\nfig = go.Figure(data=data, layout=layout)\n\n# Show the figure\nfig.show()"
+  },
+  {
+    "objectID": "fraud.html#introduction",
+    "href": "fraud.html#introduction",
+    "title": "Fraudulent trading and statistical fraud detection",
+    "section": "",
+    "text": "import plotly.graph_objects as go\n\n# Define the locations and names of the stock exchanges\nstock_exchanges = {\n    'New York': {'lat': 40.7128, 'lon': -74.0060, 'info': 'Placeholder for NY statistics'},\n    'London': {'lat': 51.5074, 'lon': -0.1278, 'info': 'Placeholder for London statistics'},\n    'Hong Kong': {'lat': 22.3193, 'lon': 114.1694, 'info': 'Placeholder for Hong Kong statistics'},\n    'Tokyo': {'lat': 35.6895, 'lon': 139.6917, 'info': 'Placeholder for Tokyo statistics'},\n    # Add other major stock exchanges as needed\n}\n\n# Create a list of the data for plotting\ndata = []\nfor city, values in stock_exchanges.items():\n    data.append(\n        go.Scattergeo(\n            lon=[values['lon']],\n            lat=[values['lat']],\n            text=[f\"{city}: {values['info']}\"],\n            marker=dict(\n                size=10,\n                color='red',\n                line_color='black',\n                line_width=0.5,\n                sizemode='area'\n            ),\n            name=f\"{city} Stock Exchange\"\n        )\n    )\n\n# Define the layout of the map\nlayout = go.Layout(\n    title=dict(text='Global Financial Market Importance', x=0.5),\n    geo=dict(\n        resolution=50,\n        scope='world',\n        showframe=False,\n        showcoastlines=True,\n        landcolor='rgb(217, 217, 217)',\n        countrycolor='rgb(204, 204, 204)',\n    ),\n    annotations=[\n        dict(\n            x=0,\n            y=0.1,\n            xref='paper',\n            yref='paper',\n            text='Trust and Integrity in Markets - Placeholder for global impact statistics',\n            showarrow=False\n        )\n    ]\n)\n\n# Create the figure with data and layout\nfig = go.Figure(data=data, layout=layout)\n\n# Show the figure\nfig.show()"
+  },
+  {
+    "objectID": "symposium.html#ai-and-the-future-of-financial-regulation",
+    "href": "symposium.html#ai-and-the-future-of-financial-regulation",
+    "title": "Symposium",
+    "section": "",
+    "text": "We are excited to invite you to our first Finance and AI symposium focused on the evolving landscape of FinTech research in NI. This event, themed around AI and the future of financial regulation, is a prime opportunity for professionals, academics, and industry experts to come together and share insights, research, and innovations.\nThis event will tackle the theme from three perspectives: the regulators, the academics, and the industry practitioners.\n\nDate: 23/11/2023 1pm-5pm. Location: Isbell Courtyard, Riddel Hall"
+  },
+  {
+    "objectID": "symposium.html#register-here",
+    "href": "symposium.html#register-here",
+    "title": "Symposium",
+    "section": "Register Here",
+    "text": "Register Here\n Register Now"
+  },
+  {
+    "objectID": "symposium.html#registration-link",
+    "href": "symposium.html#registration-link",
+    "title": "Symposium",
+    "section": "Registration link",
+    "text": "Registration link\n Register Now"
+  },
+  {
+    "objectID": "symposium.html#academic-presenters",
+    "href": "symposium.html#academic-presenters",
+    "title": "Symposium",
+    "section": "Academic Presenters",
+    "text": "Academic Presenters\n\nCompliance auditing and AI (Hui Wang, Professor of Computer Science, QUB)\nFinancial auditing of DLT, Blockchain and Cryptocurrencies (Daniel Broby, Professor of Financial Technology ,Ulster University)\nFraud detection in financial markets (Barry Quinn, Senior Lecturer in Finance, Technology and Data Science, QBS)"
+  },
+  {
+    "objectID": "symposium.html#panelists",
+    "href": "symposium.html#panelists",
+    "title": "Symposium",
+    "section": "Panelists",
+    "text": "Panelists\n\nCarla McGlynn Citi Belfast (Director, Head of Markets Data, Business Risks and Controls Technology / Site Lead)\nChris Clements FinTrU (Director of Engineering, R&D)\nPavle Avramovic, (Head Emerging Tech and Research FCA)\nAdrian Johnson MBE (Director of Strategic Business Partnerships, Catalyst)\n[Dr Fearghal Kearney (Co-Director of FAB)"
+  },
+  {
+    "objectID": "symposium.html#footnotes",
+    "href": "symposium.html#footnotes",
+    "title": "Symposium",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nPavle leads the Emerging Technologies Hub at the Financial Conduct Authority (FCA). He focuses on providing insights and thought leadership on how emerging technologies could impact financial services markets, consumers and regulators. His areas of focus include quantum computing, privacy enhancing technologies, synthetic data and distributed ledger technologies. Previously he was closely involved in FCA’s efforts across RegTech and SupTech, including the TechSprint work programme. He also leads the Digital Regulation Cooperation Forum (DRCF) Horizon Scanning Workstream and is a member of the World Economic Forum Quantum Security Working Group. He holds a MSc in Digital Innovation and Information Systems from the London School of Economics and is an Industrial Fellow at the University of East London. He has co-authored papers for the Harvard Data Science Review, Alan Turing Institute and other organisations, including presenting at major conferences and research seminars.↩︎"
+  },
+  {
+    "objectID": "symposium.html#presentations",
+    "href": "symposium.html#presentations",
+    "title": "Symposium",
+    "section": "Presentations",
+    "text": "Presentations\n\nCompliance auditing and AI (Hui Wang, Professor of Computer Science, QUB)\nFinancial auditing of DLT, Blockchain and Cryptocurrencies (Daniel Broby, Professor of Financial Technology ,Ulster University)\nFraud detection in financial markets (Barry Quinn, Senior Lecturer in Finance, Technology and Data Science, QBS)"
+  },
+  {
+    "objectID": "detection.html#introduction-to-f.a.b",
+    "href": "detection.html#introduction-to-f.a.b",
+    "title": "FAB symposium",
+    "section": "Introduction to F.A.B",
+    "text": "Introduction to F.A.B"
+  },
+  {
+    "objectID": "detection.html#mission",
+    "href": "detection.html#mission",
+    "title": "FAB symposium",
+    "section": "Mission",
+    "text": "Mission\n\nExploring AI Frontiers in Finance: Tackling complex, ever-evolving AI challenges in financial services.\nInnovative and Responsible AI Solutions: Advancing financial practices with robust, ethical AI applications.\nInterdisciplinary Approach: Merging finance, technology, and ethics for comprehensive solutions.\nFuture-Focused Strategies: Prioritizing long-term sustainability and responsibility in AI integration.\nLeadership in AI and Finance: Pioneering change, driving innovation, shaping an inclusive financial future."
+  },
+  {
+    "objectID": "detection.html#activities",
+    "href": "detection.html#activities",
+    "title": "FAB symposium",
+    "section": "Activities",
+    "text": "Activities\n\nFinancial tail risk, advanced analytics and artificial intelligence Knowledge Transfer Project (UKRI) with Funds-Axis Ltd.\nLeveraging Artificial Intelligence to enhance and understand regulatory compliance in the investment management industry with Funds-Axis Ltd.\nTowards a trustworthy banking approach to AI implementation: Balancing membership trust with operational performance with Credit Union Development Association."
+  },
+  {
+    "objectID": "detection.html#outline",
+    "href": "detection.html#outline",
+    "title": "FAB symposium",
+    "section": "Outline",
+    "text": "Outline\n\nCapital market importance\nTheory of a market\nTypes of market abuse\nSome detection examples\nUK statistics for market abuse"
+  },
+  {
+    "objectID": "detection.html#global-capital-markets",
+    "href": "detection.html#global-capital-markets",
+    "title": "FAB symposium",
+    "section": "Global capital markets",
+    "text": "Global capital markets\n\n\nFigure 1 is high-level view of financial markets’ importance.\nTrust and integrity are foundation to their functioning of these markets.\n\n\n\nFigure 1: Relative size of capital markets (2022)"
+  },
+  {
+    "objectID": "detection.html#global-capital-market-spread",
+    "href": "detection.html#global-capital-market-spread",
+    "title": "FAB symposium",
+    "section": "Global Capital Market Spread",
+    "text": "Global Capital Market Spread\n\n\n\n\n\n\n\n(a) Equities\n\n\n\n\n\n\n\n(b) Fixed Income\n\n\n\n\nFigure 2: The global spread of capital markets"
+  },
+  {
+    "objectID": "detection.html#economics-101",
+    "href": "detection.html#economics-101",
+    "title": "FAB symposium",
+    "section": "Economics 101",
+    "text": "Economics 101\n\nFigure 2: Economic view of markets"
+  },
+  {
+    "objectID": "detection.html#economics-101-1",
+    "href": "detection.html#economics-101-1",
+    "title": "FAB symposium",
+    "section": "Economics 101",
+    "text": "Economics 101\n\nIn principle the process of arriving at an equilibrium point is accomplished by an auctioneer.\nAuctioneer calls out the price and asks:\nWho wants to buy at this price ?\nWho wants to sell at this price ?\nAuctioneer then adjust the price until supply and demand are in balance.\nAnd the market clears."
+  },
+  {
+    "objectID": "detection.html#economics-101-2",
+    "href": "detection.html#economics-101-2",
+    "title": "FAB symposium",
+    "section": "Economics 101",
+    "text": "Economics 101\n\nStock markets are often mentioned as settings that closely approximate this ideal.\nStocks are held by thousands of investors and thousands more might be standing by as potential investors.\nIn reality though this model breaks down.\nMillions of people may hold securities but few may actively participate in the market when we wanted to trade.\nThere may be as few as two; you and a counterparty."
+  },
+  {
+    "objectID": "detection.html#economics-101-3",
+    "href": "detection.html#economics-101-3",
+    "title": "FAB symposium",
+    "section": "Economics 101",
+    "text": "Economics 101\n\nNow, the large number of perfect competition ideals breaks down, and market participants’ behaviour becomes strategic:\nThis idea forms the basis of the theory of market microstructure.\nTaking into account that their actions can now change the price (can endogenously determine prices)\nWe have seen how the largest part of trading costs is the adverse effect on prices; called the implementation shortfall.\nThe theory allows us to classify a illegal trader as an insider (some with private information).\nMost of the time, there is no one acting as Auctioneer.\nMost trading occurs during continuous trading sessions.\nIn these interactions, the market procedures and rules matter very much."
+  },
+  {
+    "objectID": "detection.html#fraud-and-its-evolution",
+    "href": "detection.html#fraud-and-its-evolution",
+    "title": "FAB symposium",
+    "section": "Fraud and its evolution",
+    "text": "Fraud and its evolution\n\nFraud, defined as criminal deception for unjust advantage, has evolved with technology (Bolton and Hand 2002).\nFraud detection usually works along side fraud prevention, where there is a necessity for detection methods when prevention fails.\nClassic prevention methods include:\n\n\n\nElaborate designs on banknotes such as fluorescent fibers, multitone drawings, watermarks, laminated metal strips, and holograms.\nPersonal identification numbers (PINs) for bankcards.\nInternet security systems for credit card transactions.\nSubscriber Identity Module (SIM) cards for mobile phones.\nPasswords for computer systems and telephone bank accounts.\n\n\n\nFraud detection is a continuous and evolving process, necessary because criminals adapt and develop new strategies to circumvent existing detection methods."
+  },
+  {
+    "objectID": "detection.html#key-illegal-trading-practices",
+    "href": "detection.html#key-illegal-trading-practices",
+    "title": "FAB symposium",
+    "section": "Key Illegal trading practices",
+    "text": "Key Illegal trading practices\n\nFinancial market trading\nIllegal trading practices, including insider trading, closing price manipulation, and spoofing, undermine the financial market’s integrity.\nThere’s a growing body of empirical evidence highlighting various illegal trading strategies.(James, Leung, and Prokhorov 2023)"
+  },
+  {
+    "objectID": "detection.html#definition-of-market-abuse",
+    "href": "detection.html#definition-of-market-abuse",
+    "title": "FAB symposium",
+    "section": "Definition of market abuse",
+    "text": "Definition of market abuse\n\nInside information is defined as non-public information that could significantly impact an investor’s decisions if it were public.\nUK MAR prohibits using inside information for trading or influencing others to trade, including altering or canceling orders.\nUnlawful disclosure of inside information under UK MAR is any non-employment related sharing of such information.\nDisclosures during market soundings are protected under UK MAR, provided they adhere to regulatory requirements.\nMarket manipulation is explicitly forbidden by UK MAR, including attempts at manipulation and certain transactions in benchmarks and spot commodities."
+  },
+  {
+    "objectID": "detection.html#market-manipulation-definitions",
+    "href": "detection.html#market-manipulation-definitions",
+    "title": "FAB symposium",
+    "section": "Market manipulation definitions",
+    "text": "Market manipulation definitions\n\nSpoofing and closing price manipulation are both forms of market manipulation but they differ in their methods and objectives.\nSpoofing is an especially prevasive problem in US stock markets where 97% of orders are cancelled before they trade (Khomyn and Putniņš 2021)\nJP Morgan paid over $900Million in fines for spoofing activity in the commodities markets during 2008-2016 (Debie et al. 2023)"
+  },
+  {
+    "objectID": "detection.html#what-is-spoofing",
+    "href": "detection.html#what-is-spoofing",
+    "title": "FAB symposium",
+    "section": "What is Spoofing",
+    "text": "What is Spoofing\n\nDefinition: Spoofing involves placing large orders to buy or sell a security with no intention of executing them. The goal is to create a false impression of high demand or supply, thereby manipulating the market price.\nMethod: Traders place large orders that they plan to cancel before execution. These orders are usually placed just outside the current bid or ask price to influence other market participants without actually executing any trades.\nObjective: The primary goal is to influence the behavior of other traders. For example, by creating an illusion of increased demand, the spoofer may drive up prices, at which point they can sell at an artificially inflated price."
+  },
+  {
+    "objectID": "detection.html#price-impact-of-spoofing",
+    "href": "detection.html#price-impact-of-spoofing",
+    "title": "FAB symposium",
+    "section": "Price impact of spoofing",
+    "text": "Price impact of spoofing\n\n\n - This is an actual FINRA manipulation case from 2016(Zhai, Cao, and Ding 2018)\n\nIn this example quote stuffing was used to create an impression of strong buying interest.\n\n\n\nMarket status: Ask price: 101.35; Bid price: 101.24.\nThe purpose of the manipulator is to execute a sell order at a high price of 101.32.\nStep 1: Manipulator add a bona fide sell order with 1000 shares at 101.32.\nStep 2: The manipulator adds a series of non-bona fide buy orders to push up the bid - price to 101.31.\nStep 3: Some investors, encouraged by the (fake) bid price changes, responded to the sell order. Thus, some of the 1000 shares of the sell order are executed at the expected price of 101.32.\nStep 4: The Manipulator cancelled all the buy orders. Thus, the bid price went down to 101.24."
+  },
+  {
+    "objectID": "detection.html#closing-price-manipulation",
+    "href": "detection.html#closing-price-manipulation",
+    "title": "FAB symposium",
+    "section": "Closing Price Manipulation",
+    "text": "Closing Price Manipulation\n\nDefinition: This involves conducting trades or placing orders near the market’s close to affect the closing price of a security.\nMethod: Trades are executed or orders are placed in the last moments of trading to influence the closing price. This can be done by either buying or selling in significant volumes.\nObjective: The manipulation of the closing price can be used for several purposes, such as improving the appearance of a portfolio’s performance (since portfolios are often valued based on closing prices) or to influence the price of derivatives that are valued based on the underlying asset’s closing price."
+  },
+  {
+    "objectID": "detection.html#comparing-insider-trading-with-spoofing-closing-price-manipulation",
+    "href": "detection.html#comparing-insider-trading-with-spoofing-closing-price-manipulation",
+    "title": "FAB symposium",
+    "section": "Comparing Insider Trading with Spoofing & Closing Price Manipulation",
+    "text": "Comparing Insider Trading with Spoofing & Closing Price Manipulation\n\nInsider Trading\n\nDefinition: Trading based on non-public, material information about a company.\nMethod: Utilizing confidential info (e.g., about earnings, mergers) for trading.\nObjective: To profit or avoid loss using material, non-public information.\nLegal Aspect: Illegal due to breaching equal information access principles.\n\nSpoofing & Closing Price Manipulation\n\nNature: Creating false market activity impressions, not necessarily using non-public info.\nObjective: To manipulate market prices or volumes for personal gain.\nLegal Aspect: Illegal due to market manipulation, not based on confidential information exploitation."
+  },
+  {
+    "objectID": "detection.html#statistical-fraud-detection-techniques",
+    "href": "detection.html#statistical-fraud-detection-techniques",
+    "title": "FAB symposium",
+    "section": "Statistical fraud detection techniques",
+    "text": "Statistical fraud detection techniques\n\nThese techniques are not just reactive (detecting fraud after it has occurred) but can also be proactive, using predictive analytics to identify patterns that are indicative of fraudulent behavior before it causes widespread harm."
+  },
+  {
+    "objectID": "detection.html#market-surveillance-practices",
+    "href": "detection.html#market-surveillance-practices",
+    "title": "FAB symposium",
+    "section": "Market Surveillance Practices",
+    "text": "Market Surveillance Practices\n\nImportance: Effective market surveillance is crucial for improving financial market quality.\nChallenges: Identifying illegal trading activity is difficult due to the rarity of confirmed cases amidst legitimate transactions.\nIn Practice:\n\nAdvanced Analytics: Utilization of sophisticated data analysis tools and algorithms to detect unusual trading patterns.\nReal-Time Monitoring: Continuous surveillance of market activities to quickly identify and investigate suspicious transactions."
+  },
+  {
+    "objectID": "detection.html#inudustry-market-surveillance-tool",
+    "href": "detection.html#inudustry-market-surveillance-tool",
+    "title": "FAB symposium",
+    "section": "Inudustry market surveillance tool",
+    "text": "Inudustry market surveillance tool\n\nIn practice market surveillance divsions use automated rule-based expert system algorithms such as NASDAQ SMARTS and ONETICK.\nThe goal being to kept the Type I error (false positive) rate of the as low as reasonably possible to ensure human analysts are not overwhelmed by false alerts.\nThese expert systems embed knowledge of illegal trading practices via a pre-set dictionary of human defined rules.\nA weakness of these systems is that the structure of illegal trading activity needs to be well defined ex-ante"
+  },
+  {
+    "objectID": "detection.html#academic-detection-approaches",
+    "href": "detection.html#academic-detection-approaches",
+    "title": "FAB symposium",
+    "section": "Academic detection approaches",
+    "text": "Academic detection approaches\n\nTradition detection approaches assume that insider trading moves prices because the insider’s private information is reveal to the market through the trading process\nThese approaches then use principled time series econometrics techniques such as ARMA(1,1)(Park 2010) or structural break analysis of a linear regression capital asset pricing models (Olmo 2011)\nThe limitation of these approaches is that they are designed to detect long-lived insider (illegal) trading over several months ahead of corporate announcements or unexpected news releases\nMore sophisticate anomaly detection algorithms such as Nearest Neighbour Dynamic Time Warping (James, Leung, and Prokhorov 2023), Ensemble Gaussian Mixture Model(Emmott et al. 2015), an Isolation Forest and One Class Support Vector Machine.\nIn a recent research collaboration with Citi Bank’s FX surveillance team QUB built a principled BERT model, which help to reduce their false positive rate for alerts."
+  },
+  {
+    "objectID": "detection.html#uk-market-abuse-statistics",
+    "href": "detection.html#uk-market-abuse-statistics",
+    "title": "FAB symposium",
+    "section": "UK Market Abuse Statistics",
+    "text": "UK Market Abuse Statistics\n\nUp to 2017, the FCA published a single metric to gauge market abuse in equity trading.\nMarket cleanliness is the percentage of UK takeover announcements that show abnormal price movements in the 2-day period ahead of announcement."
+  },
+  {
+    "objectID": "detection.html#uk-market-abuse-statistics-1",
+    "href": "detection.html#uk-market-abuse-statistics-1",
+    "title": "FAB symposium",
+    "section": "UK Market Abuse Statistics",
+    "text": "UK Market Abuse Statistics\n\nThe above statistics is limited to equity trading only, and due to its small sample size, can be unreliable in times of high volatility.\nIntroduced in 2018/19, Abnormal Trading Volume Ratio (ATV) captures derivative trading where the underlying is the relevant equity.\nIt measures if there is a statistically significant difference in trading volumes between two periods: the Benchmark Period and the Announcement Period.\nThe test used is the Welch Variation of the standard T-Test, which is appropriate for samples of different sizes and likely unequal variances.\nThe ratio is calculated as the number of announcements where the null hypothesis (that there is no significant difference between trading volumes in the Benchmark and Announcement Periods) is rejected, divided by the total number of announcements tested\n\n\\[ATV(\\%)=\\frac{\\text{No. of rejected Null hypothesis}}{\\text{Total number of announcements tested}}\\]\n\nAbnormal Trading Volume Ratio | FCA"
+  },
+  {
+    "objectID": "detection.html#abnormal-trading-ratio",
+    "href": "detection.html#abnormal-trading-ratio",
+    "title": "FAB symposium",
+    "section": "Abnormal Trading Ratio",
+    "text": "Abnormal Trading Ratio"
+  },
+  {
+    "objectID": "detection.html#uk-market-abuse-statistics-2",
+    "href": "detection.html#uk-market-abuse-statistics-2",
+    "title": "FAB symposium",
+    "section": "UK Market Abuse Statistics",
+    "text": "UK Market Abuse Statistics\n\nFinally, in financial year 2019/20 the FCA introduced the Potentially Anomalous Trading Ratio (PATR).\nPATR examines trading around announcements with significant price changes (PPSNAs)1.\nIt focuses on accounts demonstrating anomalous trading compared to their historical behavior.\nAnomalous behavior includes not typically trading in the instrument, trading significantly more in the direction of the announcement, and significant profits from positions established just prior to the announcement.\nThe ratio is calculated as the value of trading activity considered potentially anomalous during the Pre-Announcement period over the total trading activity in the same period\n\nPotentially Anomalous Trading Ratio 2019/20 | FCA."
+  },
+  {
+    "objectID": "detection.html#patr",
+    "href": "detection.html#patr",
+    "title": "FAB symposium",
+    "section": "PATR",
+    "text": "PATR"
+  },
+  {
+    "objectID": "detection.html#concluding-remarks",
+    "href": "detection.html#concluding-remarks",
+    "title": "FAB symposium",
+    "section": "Concluding remarks",
+    "text": "Concluding remarks\n\nTrader’s who act illegal can be thought of as be informed in theory, which can help make statistical detection more tractable.\nThere is a huge statistical imbalance in any labelled datasets used to build models as market abuse cases are rare (less than 1% in most dataset).\nRegulators must balance between public reporting of fraud cases and regulatory arbitrage of illegal traders.\nMore work is need to better understand the pyschology of a rogue trader."
+  },
+  {
+    "objectID": "detection.html#a-plug",
+    "href": "detection.html#a-plug",
+    "title": "FAB symposium",
+    "section": "A Plug",
+    "text": "A Plug\nAI and the future of financial regulation (FCA Keynote)\nDate: 23/11/2023 1pm-5pm. Location: Isbell Courtyard, Riddel Hall\nhttps://q-rap.connect.qub.ac.uk/FAB/symposium.html"
+  },
+  {
+    "objectID": "detection.html#references",
+    "href": "detection.html#references",
+    "title": "FAB symposium",
+    "section": "References",
+    "text": "References\n\n\n\n\n\n\n\nAdelson, Caroline, Charlotte Kuller, Cate Tompkins, Ellora Sarkar, Samantha Price, and Marco Iansiti. 2023. “How Wicked Problems Drive Business Performance: A Review of the Academic Literature.” Harvard Business School Working Paper Series 23-064. https://www.hbs.edu/ris/Publication%20Files/23-064_f10377b2-89e6-4752-ac42-456c0f42136f.pdf.\n\n\nBolton, Richard J., and David J. Hand. 2002. “Statistical Fraud Detection: A Review.” Statistical Science 17 (3): 235–55. https://doi.org/10.1214/ss/1042727940.\n\n\nDebie, Philippe, Cornelis Gardebroek, Stephan Hageboeck, Paul Leeuwen, Lorenzo Moneta, Axel Naumann, Joost M. E. Pennings, Andres A. Trujillo‐Barrera, and Marjolein E. Verhulst. 2023. “Unravelling the JPMorgan spoofing case using particle physics visualization methods.” European Financial Management 29 (1): 288–326. https://doi.org/10.1111/eufm.12353.\n\n\nDotan, Amihud, and S Abraham Ravid. 1985. “On the Interaction of Real and Financial Decisions of the Firm Under Uncertainty.” The Journal of Finance 40 (2): 501–17.\n\n\nKelly, Bryan T, Semyon Malamud, and Kangying Zhou. 2022. “The Virtue of Complexity Everywhere.” Swiss Finance Institue Research Paper No.22-57. https://doi.org/10.2139/ssrn.4166368.\n\n\nKhomyn, Marta, and Tālis J. Putniņš. 2021. “Algos gone wild: What drives the extreme order cancellation rates in modern markets?” Journal of Banking & Finance 129 (August): 106170. https://doi.org/10.1016/j.jbankfin.2021.106170.\n\n\nZhai, Jie, Yong Cao, and Xiaohui Ding. 2018. “Data Analytic Approach for Manipulation Detection in Stock Market.” Review of Quantitative Finance and Accounting 50: 897–932. https://doi.org/10.1007/s11156-017-0650-0."
+  },
+  {
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "About",
+    "section": "Our Mission",
+    "text": "Our Mission\nOur mission is to delve into this intricate nexus where innovative solutions meet multifarious challenges, a domain where simple answers are elusive, and the ramifications are profound and far-reaching. In this landscape, we are committed to pioneering AI solutions that not only advance financial practices but also address the inherent uncertainties and interdependencies characteristic of wicked problems in finance.\nOur focus extends beyond the technical prowess of AI in predictive analytics and decision-making; we are equally invested in untangling the intertwined issues of ethical AI deployment, regulatory compliance, and social responsibility. We acknowledge that in the realm of AI and finance, the challenges we face are dynamic and evolving, demanding adaptive and forward-thinking strategies."
+  },
+  {
+    "objectID": "about.html#our-vision",
+    "href": "about.html#our-vision",
+    "title": "About",
+    "section": "Our Vision",
+    "text": "Our Vision\nThe lab’s vision encompasses not just the development of robust AI models but also the cultivation of frameworks that allow us to ‘constrain our future selves’, a concept central to addressing super wicked problems (Levin et al. 2012). This involves proactive engagement with the long-term implications of our work, ensuring that our innovations in AI are sustainable, equitable, and transparent."
+  },
+  {
+    "objectID": "about.html#our-approach",
+    "href": "about.html#our-approach",
+    "title": "About",
+    "section": "Our Approach",
+    "text": "Our Approach\nOur interdisciplinary approach combines expertise in finance, technology, data science, and ethics, fostering an environment where creative problem-solving thrives. As we tackle these wicked problems, our lab stands as a crucible of innovation, shaping a future where AI in financial services is not just about efficiency and profit, but also about creating a more inclusive and responsible financial ecosystem.\nIn this challenging yet exhilarating journey, the Finance and AI Research Lab at Queen’s Business School is dedicated to leading the charge, offering groundbreaking insights and solutions that resonate with the complex, interwoven fabric of modern financial services in an AI-driven era."
+  },
+  {
+    "objectID": "detection.html#statistical-terms-explained",
+    "href": "detection.html#statistical-terms-explained",
+    "title": "FAB symposium",
+    "section": "Statistical Terms Explained",
+    "text": "Statistical Terms Explained\n\nAbnormal Price Movements (APMs): Analysis of unusual price or volume changes before sensitive announcements.\nDifferentiating News Types: Separating expected news (like scheduled reports) from unexpected news (unscheduled, surprising events).\nBenchmarking APMs: Comparing observed movements to historical averages to identify significant deviations.\nAdvanced Statistical Analysis: Utilizing regression models, volatility assessments, etc., to evaluate the likelihood of movements occurring by chance.\nMarket Cleanliness Metric: Proportion of announcements with preceding APMs as an indicator of potential insider trading.\nComparative Trends: Analyzing changes over time or across market segments to identify patterns.\nConfidence Intervals & Significance Testing: Ensuring robustness of findings through statistical testing.\n\n\nFCA highlight the limitations of this measure, for example, its high volatility due to small sample size"
+  },
+  {
+    "objectID": "detection.html#footnotes",
+    "href": "detection.html#footnotes",
+    "title": "FAB symposium",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nPotentially Anomalous Trading Ratio 2019/20 | FCA.↩︎"
+  },
+  {
+    "objectID": "detection.html#fab",
+    "href": "detection.html#fab",
+    "title": "FAB symposium",
+    "section": "FAB",
+    "text": "FAB\nAt the Finance and AI Research Lab, Queen’s Business School, we recognize the application of artificial intelligence in financial services as a wicked problem:\n\n\nA problems with combined degrees of conflict (Adelson et al. 2023), complexity (Kelly, Malamud, and Zhou 2022) and uncertainty(Dotan and Ravid 1985)."
+  },
+  {
+    "objectID": "detection.html#vision",
+    "href": "detection.html#vision",
+    "title": "FAB symposium",
+    "section": "Vision",
+    "text": "Vision\n\nRobust AI Model Development: Focusing on creating advanced and reliable AI solutions.\nCultivating Future-Constraining Frameworks: Building systems to address ‘super wicked problems’ as outlined by Levin et al. (2012).\nProactive Long-term Engagement: Actively considering the far-reaching impacts of our AI innovations.\nSustainability Commitment: Ensuring our AI advancements are sustainable over the long term.\nEquitable Solutions: Striving for fairness and inclusivity in all AI applications.\nTransparency in Innovation: Maintaining openness and clarity in our AI development processes."
+  },
+  {
+    "objectID": "detection.html#approach",
+    "href": "detection.html#approach",
+    "title": "FAB symposium",
+    "section": "Approach",
+    "text": "Approach\n\nInterdisciplinary Expertise: Merging finance, technology, data science, and ethics for holistic problem-solving.\nCreative Problem-Solving Environment: Encouraging innovative thinking in tackling complex challenges.\nAddressing Wicked Problems: Confronting intricate issues with a focus on innovation and forward-thinking solutions.\nShaping a Responsible Financial Ecosystem: Moving beyond efficiency and profit to foster inclusivity and responsibility in AI-driven financial services.\nResonating with Modern Financial Services: Tailoring solutions to the nuanced needs of a rapidly evolving, AI-integrated financial landscape."
+  },
+  {
+    "objectID": "detection.html#statistical-fraud-detection",
+    "href": "detection.html#statistical-fraud-detection",
+    "title": "FAB symposium",
+    "section": "Statistical fraud detection",
+    "text": "Statistical fraud detection\n\nCapital market importance\nTheory of a market\nTypes of market abuse\nSome detection examples\nUK statistics for market abuse"
+  },
+  {
+    "objectID": "detection.html#economics-101-microstructure",
+    "href": "detection.html#economics-101-microstructure",
+    "title": "FAB symposium",
+    "section": "Economics 101 Microstructure",
+    "text": "Economics 101 Microstructure\n\nNow, the large number of perfect competition ideals breaks down, and market participants’ behaviour becomes strategic:\nThis idea forms the basis of the theory of market microstructure.\nTaking into account that their actions can now change the price (can endogenously determine prices)\nWe have seen how the largest part of trading costs is the adverse effect on prices; called the implementation shortfall.\nThe theory allows us to classify a illegal trader as an insider (some with private information).\nMost of the time, there is no one acting as Auctioneer.\nMost trading occurs during continuous trading sessions.\nIn these interactions, the market procedures and rules matter very much."
+  },
+  {
+    "objectID": "detection.html#paradox-of-markets",
+    "href": "detection.html#paradox-of-markets",
+    "title": "FAB symposium",
+    "section": "Paradox of markets",
+    "text": "Paradox of markets"
+  },
+  {
+    "objectID": "detection.html#days-in-us-equity-trading",
+    "href": "detection.html#days-in-us-equity-trading",
+    "title": "FAB symposium",
+    "section": "30 days in US equity trading",
+    "text": "30 days in US equity trading\n\n\nData sourced from BATS"
+  },
+  {
+    "objectID": "detection.html#paradox-of-the-markets",
+    "href": "detection.html#paradox-of-the-markets",
+    "title": "FAB symposium",
+    "section": "Paradox of the markets",
+    "text": "Paradox of the markets\n\nParadox of the markets"
+  },
+  {
+    "objectID": "detection.html#paradox-of-the-markets-1",
+    "href": "detection.html#paradox-of-the-markets-1",
+    "title": "FAB symposium",
+    "section": "Paradox of the markets",
+    "text": "Paradox of the markets\n\n\n\n\n\nMuch like Groucho Mark’s refusal to join a club that would have him as a member,\nEveryone should refuse to transact with anyone willing to transact with them!"
+  },
+  {
+    "objectID": "detection.html#financial-market-participants",
+    "href": "detection.html#financial-market-participants",
+    "title": "FAB symposium",
+    "section": "Financial market participants",
+    "text": "Financial market participants"
+  },
+  {
+    "objectID": "detection.html#speculators",
+    "href": "detection.html#speculators",
+    "title": "FAB symposium",
+    "section": "Speculators",
+    "text": "Speculators"
+  },
+  {
+    "objectID": "detection.html#detection-market-manipulation-in-the-chinese-stock-market",
+    "href": "detection.html#detection-market-manipulation-in-the-chinese-stock-market",
+    "title": "FAB symposium",
+    "section": "Detection market manipulation in the chinese stock market",
+    "text": "Detection market manipulation in the chinese stock market\nData\n\nWe have extracted information from the official announcement of administrative penalties.\nWhich stock was manipulated on which day?\n\n\n\n\n\n\n\nImportant\n\n\n\nDeclaration and transaction of shares of “Yunnan Copper” on 25 October 2010. On 25 October 2010, the “Su Yan Xiang” account group declared 15 buy orders for 6,350,000 shares, accounting for 5.42% of the total number of buy orders in the market throughout the day, ranking first in buy orders. 9.25%."
+  },
+  {
+    "objectID": "detection.html#data-1",
+    "href": "detection.html#data-1",
+    "title": "FAB symposium",
+    "section": "Data",
+    "text": "Data\n\nTimeframe of the administrative penalty decision letter:From 2014-01-01 to 2022-12-31 (165 files)\nTimeframe of manipulation cases: From 2012-01-01 to 2020-12-31. (287 stocks)\nIf a stock was manipulated on a particular day, we downloaded a full year’s worth of data for that stock.\nEach day of data for a stock is considered a sample.\nThe manipulated date is marked as abnormal data."
+  },
+  {
+    "objectID": "detection.html#sample",
+    "href": "detection.html#sample",
+    "title": "FAB symposium",
+    "section": "Sample",
+    "text": "Sample\n\nFor each sample, a 5-minute interval of high-frequency trading data is taken as input data.\nA Big dataset of labelled manipulations."
+  },
+  {
+    "objectID": "detection.html#sample-1",
+    "href": "detection.html#sample-1",
+    "title": "FAB symposium",
+    "section": "Sample",
+    "text": "Sample\n\nWe obtained 43,045 samples, of which 1872 are manipulation cases.\nInput: One day time series data for one stock.\nMatrix (number of time steps x number of features)\n5 minutes sampling, approximately 50 time steps per day.\nOutput: Normal (0) or abnormal (1)."
+  },
+  {
+    "objectID": "detection.html#model",
+    "href": "detection.html#model",
+    "title": "FAB symposium",
+    "section": "Model",
+    "text": "Model\n\nWe use a Long Short Term, a non-stationary algorithmic approach to financial time series data.\nOne of the most popular off-the-shelf models to predict financial markets (Josh et al. 2022)\n\n ## Results\n ## Results\n ## Next steps\n\nSample imbalance\nDevelop a trade BERT framework for market manipulatio in spoofing\nUsing market mircostructure theory to inform financial feature engineering"
+  },
+  {
+    "objectID": "detection.html#fraud-detection-in-financial-markets",
+    "href": "detection.html#fraud-detection-in-financial-markets",
+    "title": "FAB symposium",
+    "section": "Fraud detection in Financial Markets",
+    "text": "Fraud detection in Financial Markets\n\nA collobarative research project with ::: {.saltinline}\nWeilong Lui (Shenzhen University)\nFearghal Kearney (FAB at QBS)\nJesus Martinez Del Rincon ( GII at EEECS) :::"
+  },
+  {
+    "objectID": "detection.html#market-manipulation-in-capital-markets",
+    "href": "detection.html#market-manipulation-in-capital-markets",
+    "title": "FAB symposium",
+    "section": "Market manipulation in capital markets",
+    "text": "Market manipulation in capital markets\n\nA collobarative research project with\n\n\n\nWeilong Lui (Shenzhen University)\nFearghal Kearney (FAB at QBS)\nJesus Martinez Del Rincon ( GII at EEECS)"
+  },
+  {
+    "objectID": "detection.html#data",
+    "href": "detection.html#data",
+    "title": "FAB symposium",
+    "section": "Data",
+    "text": "Data\n\nWe have extracted information from the official announcement of administrative penalties.\nWhich stock was manipulated on which day?\n\n\n\n\n\n\n\nImportant\n\n\n\nDeclaration and transaction of shares of “Yunnan Copper” on 25 October 2010. On 25 October 2010, the “Su Yan Xiang” account group declared 15 buy orders for 6,350,000 shares, accounting for 5.42% of the total number of buy orders in the market throughout the day, ranking first in buy orders. 9.25%."
+  },
+  {
+    "objectID": "detection.html#economics-101-market-microstructure-theory",
+    "href": "detection.html#economics-101-market-microstructure-theory",
+    "title": "FAB symposium",
+    "section": "Economics 101 market microstructure theory",
+    "text": "Economics 101 market microstructure theory\n\nNow, the large number of perfect competition ideals breaks down, and market participants’ behaviour becomes strategic:\nThis idea forms the basis of the theory of market microstructure.\nTaking into account that their actions can now change the price (can endogenously determine prices)\nWe have seen how the largest part of trading costs is the adverse effect on prices; called the implementation shortfall.\nThe theory allows us to classify a illegal trader as an insider (some with private information).\nMost of the time, there is no one acting as Auctioneer.\nMost trading occurs during continuous trading sessions.\nIn these interactions, the market procedures and rules matter very much."
+  },
+  {
+    "objectID": "symposium_summary.html",
+    "href": "symposium_summary.html",
+    "title": "AI and the Future of Financial Regulation",
+    "section": "",
+    "text": "From right to left: Barry Quinn (QMS), Chris Clements(FinTrU), Adrian Johnston (Catalyst Inc), Pavle Avramovic (FCA),Carla McGlynn, Fearghal Kearney(QBS), (Citi),Daniel Broby (UU)\nWhat a cracking afternoon we had on the 23rd of November at Riddel Hall, where we officially launched our wee Finance AI Research Lab with our first symposium!\nIt marked the first outing for our lab, and what a splendid start it was, wrapping up six months of hard graft and preparation. The vibe of the afternoon? Smart-casual to a tee. Picture this: insightful talks from keynote speakers and academics bringing the ‘smart’, all set against the backdrop of our laid-back organisers (Fearghal and Barry) adding a good dollop of ‘casual’.\nWe drew in a diverse crowd, from the big names in fintech like Citi Belfast, Kainos, and Davy’s Wealth Managers, to the sharp minds at Cardinal Analytics, FD Technologies, and FinTrU. Not to mention the folks from PWC, College Green Ventures, Resourceful Planner, and the legal eagles at Baker McKenzie and AI Goodbody. And of course, our supporters from InvestNI, Belfast Chamber of Trade and Commerce, and the Software Alliance.\nWe tackled the hot topic of AI and financial regulation from every angle - the regulators, the academics, and the industry practitioners all threw in their two pence. It was a enjoyable afternoon and a fantastic way to set the ball rolling for our lab."
+  },
+  {
+    "objectID": "symposium_summary.html#introduction",
+    "href": "symposium_summary.html#introduction",
+    "title": "AI and the Future of Financial Regulation",
+    "section": "",
+    "text": "On the afternoon of the 23rd November in Riddel Hall, we the Business School’s Finance AI Research LaB with our first symposium. Theme around the future of financial regulation the event attractive a diverse audience of fintech stakeholders including; Citi Belfast, Kainos, Davy’s Wealth Managers, Cardinal Analytics, FD Technologies, FinTrU, PWC, College Green Ventures, Resourceful Planner, Baker McKenzie, AI Goodbody, InvestNI, Belfast Chamber of Commerce, and the Software Alliance.\nThis event tackle the the theme of AI and financial regulation from three perspectives: the regulators, the academics, and the industry practitioners."
+  },
+  {
+    "objectID": "symposium_summary.html#financial-conduct-authority-fca-keynote",
+    "href": "symposium_summary.html#financial-conduct-authority-fca-keynote",
+    "title": "AI and the Future of Financial Regulation",
+    "section": "Financial Conduct Authority (FCA) Keynote",
+    "text": "Financial Conduct Authority (FCA) Keynote\n\n\n\nPavle Avramovic (Manager of Emerging Tech and Research in Innovation Department of the FCA)\n\n\nSo, let’s dive into the “Emerging Technologies & Regulation” keynote, a real brain-teaser that digs into the tricky dance between cutting-edge tech and keeping things above board with regulations. First off, it throws a spotlight on how key it is for regulatory bodies, like the big players at the Financial Conduct Authority (FCA), to get chummy with new tech. The FCA’s Innovation department is right at the heart of this, juggling the task of getting these newfangled technologies to play nice with the rules.\nNow, here’s where it gets juicy. The presentation takes a deep dive into stuff like synthetic data and Privacy Enhancing Technologies (PETs) – big news in the finance world. These are the secret sauce for keeping our data safe and sound, a must-have in today’s world where data’s worth its weight in gold. The FCA isn’t just sitting on its hands either; they’ve got this Horizon Scanning Framework, a nifty tool for keeping an eye out on how tech trends could shake up the financial scene for businesses and us regular folks.\nBut wait, there’s more. We get into the nitty-gritty of some real mind-bending tech like Quantum Computing and Decentralized Finance (DeFi). The talk’s all about figuring out how these innovations could stir the pot and the headaches they might cause for the rule books. The FCA isn’t just watching from the sidelines - they’re right in there, working with all sorts to make sure innovation gets a green light while still keeping things square for us and the market.\nPlus, the presentation doesn’t just stop at the now; it takes a peek into what’s coming. It lays out the FCA’s game plan for rolling these tech wonders into their rule-making playbook. It’s all about teaming up and staying nimble, making sure the rules can keep up with the tech without putting the brakes on new ideas.\nIn a nutshell, this talk gives you the whole picture of how tech, money, and rules are doing this intricate tango, highlighting why we need to stay sharp and work together to keep things moving in the right direction.\nFull slide deck can be found here"
+  },
+  {
+    "objectID": "symposium_summary.html#academic-presentations",
+    "href": "symposium_summary.html#academic-presentations",
+    "title": "AI and the Future of Financial Regulation",
+    "section": "Academic Presentations",
+    "text": "Academic Presentations\n Alright, let’s switch gears to Professor Wang’s presentation on “AI + Compliance Audit”. This one dives deep into the techy side of using AI in making sure everyone’s playing by the rules in auditing. We’re talking about some seriously smart AI stuff here.\nFirst up, there’s advanced Natural Language Processing (NLP). This isn’t your everyday chit-chat AI; it’s like giving a super-brain the ability to chew through complex legal jargon and regulations. Imagine a machine that can make sense of all that legal mumbo-jumbo. Pretty nifty, right?\nThen, we’ve got Machine Learning algorithms – the kind that can spot the odd one out in heaps of data. These clever algorithms are like detectives, sniffing out anything fishy that might point to someone bending the rules.\nAnd don’t forget about Computer Vision. This isn’t just about giving computers eyes; it’s about teaching them to be eagle-eyed when it comes to scanning documents and images. They’re making sure every ‘i’ is dotted and every ‘t’ is crossed for compliance.\nBut, it’s not all smooth sailing. The presentation doesn’t shy away from the tough bits, like making sure the data’s up to scratch and keeping the AI’s decision-making clear as day. Plus, there’s the big question of ethics – how do we use AI without stepping on privacy toes or shaking up jobs in the auditing world?\nIn short, Professor Wang’s talk is a deep dive into the cool, complex world of AI in compliance auditing, blending the high-tech with the high-stakes of keeping things on the straight and narrow.\n\n\n\nProfessor Daniel Broby (Ulster Business School)\n\n\nAlright, let’s chat about Daniel’s presentation, titled “Financial Auditing of Distributed Ledgers, Blockchain, and Cryptocurrencies”. This one’s a real eye-opener, diving into the twisty world of auditing in the age of blockchain and crypto.\nDaniel kicks off with transaction malleability in blockchain. It sounds like a mouthful, but think of it as the art of making sure each transaction is what it claims to be, even when the blockchain’s being a bit slippery.\nNext, he moves onto the wild west of Digital Autonomous Organizations (DAOs). Auditing these bad boys is like trying to herd cats, with their decentralized, headless nature throwing up all sorts of challenges.\nThen there’s the drama of blockchain forks. Imagine auditing a road that suddenly splits in two – which path do you take? Daniel discusses the auditors’ headaches when the blockchain decides to go this way and that.\nAuditors in blockchain custody is another hot topic. In this new world, auditors are like the guardians of the blockchain, making sure everything’s above board and secure.\nCross-chain transactions? Now that’s a tricky one. It’s like auditing a deal that happens across multiple countries, each with its own rules. How do you even start to keep track of all that?\nDaniel doesn’t stop there. He dives into the nitty-gritty of time-locked and multi-signature transactions, which are like those puzzles where you need two keys to open a treasure chest. And let’s not forget the rollercoaster ride that is cryptocurrency volatility. This stuff makes auditing a whole new ball game.\nIn essence, Daniel’s talk is a deep dive into the new frontier of financial auditing. It’s a world where everything’s digital, decentralized, and a bit unpredictable, highlighting just how much auditors need to up their game to keep up with these techy trends.\n\n\n\nDr Barry Quinn (Co-Director of Finance and AI research Lab at Queen’s Business School)"
+  },
+  {
+    "objectID": "symposium_summary.html#intro",
+    "href": "symposium_summary.html#intro",
+    "title": "AI and the Future of Financial Regulation",
+    "section": "",
+    "text": "On the afternoon of the 23rd November in Riddel Hall, we the Business School’s Finance AI Research LaB with our first symposium. Theme around the future of financial regulation the event attractive a diverse audience of fintech stakeholders including; Citi Belfast, Kainos, Davy’s Wealth Managers, Cardinal Analytics, FD Technologies, FinTrU, PWC, College Green Ventures, Resourceful Planner, Baker McKenzie, AI Goodbody, InvestNI, Belfast Chamber of Commerce, and the Software Alliance.\nThis event tackle the the theme of AI and financial regulation from three perspectives: the regulators, the academics, and the industry practitioners."
+  },
+  {
+    "objectID": "symposium_summary.html#industry-panel",
+    "href": "symposium_summary.html#industry-panel",
+    "title": "AI and the Future of Financial Regulation",
+    "section": "Industry panel",
+    "text": "Industry panel"
+  },
+  {
+    "objectID": "symposium_summary.html#event-slideshow",
+    "href": "symposium_summary.html#event-slideshow",
+    "title": "AI and the Future of Financial Regulation",
+    "section": "Event Slideshow",
+    "text": "Event Slideshow"
+  },
+  {
+    "objectID": "symposium.html#financial-conduct-authority-fca-keynote",
+    "href": "symposium.html#financial-conduct-authority-fca-keynote",
+    "title": "AI and the Future of Financial Regulation",
+    "section": "Financial Conduct Authority (FCA) Keynote",
+    "text": "Financial Conduct Authority (FCA) Keynote\n\n\n\nPavle Avramovic (Manager of Emerging Tech and Research in Innovation Department of the FCA)\n\n\nSo, let’s dive into the “Emerging Technologies & Regulation” keynote, a real brain-teaser that digs into the tricky dance between cutting-edge tech and keeping things above board with regulators. First off, it throws a spotlight on how key it is for regulatory bodies, like the big players at the Financial Conduct Authority (FCA), to understand new tech. The FCA’s Innovation department is right at the heart of this, juggling the task of getting these newfangled technologies to play nice with the rules.\nNow, getting into the weeds, the presentation takes a deep dive into synthetic data and Privacy Enhancing Technologies (PETs) – emerging solutions to some wicked problems in the finance world. These are the secret sauce for keeping our data safe and sound, a issues that is front and centre as the FCA grapple with Big Tech as the gatekeepers of our financial data. The FCA isn’t just sitting on its hands either; they’ve got this Horizon Scanning Framework, a nifty tool for keeping an eye out on how tech trends could shake up the financial scene for businesses and us regular folks.\nBut wait, the weeds get more complex. We get into the nitty-gritty of some real mind-bending tech like Quantum Computing and Decentralized Finance (DeFi). The talk’s all about figuring out how these innovations could stir the pot and the headaches they might cause for the rule books. The FCA isn’t just watching from the sidelines - they’re right in there, working with all sorts to make sure innovation gets a green light while still keeping things square for us and the market.\nPlus, the presentation doesn’t just stop at the now; it takes a peek into what’s coming. It lays out the FCA’s game plan for rolling these tech wonders into their rule-making playbook. It’s all about teaming up and staying nimble, making sure the rules can keep up with the tech without putting the brakes on new ideas. At FAB, we are excited about the follow-on action points in this space.\nIn a nutshell, this talk gives you the whole picture of how tech, money, and rules are doing this intricate tango, highlighting why we need to stay sharp ,and research in collaboration with regulators and businesses, to keep things moving in the right direction.\nFull slide deck can be found here"
+  },
+  {
+    "objectID": "symposium.html#academic-presentations",
+    "href": "symposium.html#academic-presentations",
+    "title": "AI and the Future of Financial Regulation",
+    "section": "Academic Presentations",
+    "text": "Academic Presentations\n Alright, let’s switch gears to Professor Wang’s presentation on “AI and Compliance Audit”. As a professor of AI Hui dives deep into the techy side of using AI in making sure everyone’s playing by the rules in auditing. We’re talking about some technologies that AI brings to this wicked problem.\nFirst up, there’s advances in Natural Language Processing (NLP). This isn’t your everyday chattty AI; it’s like giving a super-brain the ability to chew through complex legal jargon and regulations. A machine that can potentially make sense of all that legal “rules on the book” using logic based algorithms.\nThen, comes machine learning algorithms,the kind that can spot the odd one out in heaps of data. These clever algorithms are like detectives, sniffing out anything fishy that might point to someone bending the rules.\nAnd don’t forget about Computer Vision. This isn’t just about giving computers eyes; it’s about teaching them to be eagle-eyed when it comes to scanning documents and images. They’re making sure every ‘i’ is dotted and every ‘t’ is crossed for compliance.\nBut, it’s not all about the gushy AI hype. The presentation doesn’t shy away from the tough bits, like making sure the data’s up to scratch and keeping the AI’s decision-making clear as day. Plus, there’s the big question of ethics – how do we use AI without stepping on privacy toes or shaking up jobs in the auditing world?\nIn short, Professor Wang’s talk is a deep dive into the cool, complex world of AI in compliance auditing, blending the high-tech with the high-stakes of keeping things on the straight and narrow.\nFull slide deck can be found here\n\n\n\nProfessor Daniel Broby (Ulster Business School)\n\n\nDaniel’s presentation tackled the topic of “Financial Auditing of Distributed Ledgers, Blockchain, and Cryptocurrencies”. This one’s a real eye-opener, diving into the twisty world of auditing in the age of blockchain and crypto.\nDaniel kicks off with transaction malleability in blockchain. It sounds like a mouthful, but think of it as the art of making sure each transaction is what it claims to be, even when the blockchain’s being a bit slippery.\nNext, he moves onto the wild west of Digital Autonomous Organizations (DAOs). Auditing these bad boys is like trying to herd cats (or academics!), with their decentralized, headless nature throwing up all sorts of challenges.\nThen there’s the melodrama of blockchain forks. Imagine auditing a road that suddenly splits in two – which path do you take? Daniel discusses the auditors’ headaches when the blockchain decides to go this way and that.\nAuditors in blockchain custody is another hot topic. In this new world, auditors are like the guardians of the blockchain, making sure everything’s above board and secure. Cross-chain transactions are wicked problem in this space. It’s like auditing a deal that happens across multiple countries, each with its own rules. How do you even start to keep track of all that? Does the theory of international finance help here?\nDaniel doesn’t stop there. He dives into the nitty-gritty of time-locked and multi-signature transactions, which are like those puzzles where you need two keys to open a treasure chest. And let’s not forget the rollercoaster ride that is cryptocurrency volatility. This stuff makes auditing a whole new ball game.\nIn essence, Daniel’s talk is a deep dive into the new frontier of financial auditing. It’s a world where everything’s digital, decentralized, and a bit unpredictable, highlighting just how much auditors need to up their game to keep up with these techy trends.\nFull slide deck can be found here\n\n\n\nDr Barry Quinn (Co-Director of Finance and AI research Lab at Queen’s Business School)"
+  },
+  {
+    "objectID": "symposium.html#industry-panel",
+    "href": "symposium.html#industry-panel",
+    "title": "AI and the Future of Financial Regulation",
+    "section": "Industry panel",
+    "text": "Industry panel"
+  },
+  {
+    "objectID": "symposium.html#event-slideshow",
+    "href": "symposium.html#event-slideshow",
+    "title": "AI and the Future of Financial Regulation",
+    "section": "Event Slideshow",
+    "text": "Event Slideshow"
+  },
+  {
+    "objectID": "symposium_advert.html",
+    "href": "symposium_advert.html",
+    "title": "Symposium",
+    "section": "",
+    "text": "We are excited to invite you to our first Finance and AI symposium focused on the evolving landscape of FinTech research in NI. This event, themed around AI and the future of financial regulation, is a prime opportunity for professionals, academics, and industry experts to come together and share insights, research, and innovations.\nThis event will tackle the theme from three perspectives: the regulators, the academics, and the industry practitioners.\n\nDate: 23/11/2023 1pm-5pm. Location: Isbell Courtyard, Riddel Hall"
+  },
+  {
+    "objectID": "symposium_advert.html#ai-and-the-future-of-financial-regulation",
+    "href": "symposium_advert.html#ai-and-the-future-of-financial-regulation",
+    "title": "Symposium",
+    "section": "",
+    "text": "We are excited to invite you to our first Finance and AI symposium focused on the evolving landscape of FinTech research in NI. This event, themed around AI and the future of financial regulation, is a prime opportunity for professionals, academics, and industry experts to come together and share insights, research, and innovations.\nThis event will tackle the theme from three perspectives: the regulators, the academics, and the industry practitioners.\n\nDate: 23/11/2023 1pm-5pm. Location: Isbell Courtyard, Riddel Hall"
+  },
+  {
+    "objectID": "symposium_advert.html#schedule",
+    "href": "symposium_advert.html#schedule",
+    "title": "Symposium",
+    "section": "Schedule",
+    "text": "Schedule\n\n1.00pm to 1.30pm: Lunch and networking\n1.30pm to 1.45pm: Introducing the Finance and AI Research LaB (hereafter FAB) by Barry Quinn (Co-Director of FAB)\n1.45pm to 2:30pm: Keynote\n\n\n\nEmerging technologies and the future of regulation (Pavle Avramovic, Manager Emerging Tech and Research at the FCA1)\n\n\n\n2:45pm - 3:30pm Academic Session:"
+  },
+  {
+    "objectID": "symposium_advert.html#presentations",
+    "href": "symposium_advert.html#presentations",
+    "title": "Symposium",
+    "section": "Presentations",
+    "text": "Presentations\n\nCompliance auditing and AI (Hui Wang, Professor of Computer Science, QUB)\nFinancial auditing of DLT, Blockchain and Cryptocurrencies (Daniel Broby, Professor of Financial Technology ,Ulster University)\nFraud detection in financial markets (Barry Quinn, Senior Lecturer in Finance, Technology and Data Science, QBS)"
+  },
+  {
+    "objectID": "symposium_advert.html#panelists",
+    "href": "symposium_advert.html#panelists",
+    "title": "Symposium",
+    "section": "Panelists",
+    "text": "Panelists\n\nCarla McGlynn Citi Belfast (Director, Head of Markets Data, Business Risks and Controls Technology / Site Lead)\nChris Clements FinTrU (Director of Engineering, R&D)\nPavle Avramovic, (Head Emerging Tech and Research FCA)\nAdrian Johnson MBE (Director of Strategic Business Partnerships, Catalyst)\n[Dr Fearghal Kearney (Co-Director of FAB)"
+  },
+  {
+    "objectID": "symposium_advert.html#registration-link",
+    "href": "symposium_advert.html#registration-link",
+    "title": "Symposium",
+    "section": "Registration link",
+    "text": "Registration link\n Register Now"
+  },
+  {
+    "objectID": "symposium_advert.html#footnotes",
+    "href": "symposium_advert.html#footnotes",
+    "title": "Symposium",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nPavle leads the Emerging Technologies Hub at the Financial Conduct Authority (FCA). He focuses on providing insights and thought leadership on how emerging technologies could impact financial services markets, consumers and regulators. His areas of focus include quantum computing, privacy enhancing technologies, synthetic data and distributed ledger technologies. Previously he was closely involved in FCA’s efforts across RegTech and SupTech, including the TechSprint work programme. He also leads the Digital Regulation Cooperation Forum (DRCF) Horizon Scanning Workstream and is a member of the World Economic Forum Quantum Security Working Group. He holds a MSc in Digital Innovation and Information Systems from the London School of Economics and is an Industrial Fellow at the University of East London. He has co-authored papers for the Harvard Data Science Review, Alan Turing Institute and other organisations, including presenting at major conferences and research seminars.↩︎"
+  },
+  {
+    "objectID": "detection.html",
+    "href": "detection.html",
+    "title": "FAB symposium",
+    "section": "",
+    "text": "At the Finance and AI Research Lab, Queen’s Business School, we recognize the application of artificial intelligence in financial services as a wicked problem:\n\n\nA problems with combined degrees of conflict (Adelson et al. 2023), complexity (Kelly, Malamud, and Zhou 2022) and uncertainty(Dotan and Ravid 1985)."
+  },
+  {
+    "objectID": "symposium.html#further-material",
+    "href": "symposium.html#further-material",
+    "title": "AI and the Future of Financial Regulation",
+    "section": "Further Material",
+    "text": "Further Material"
+  },
+  {
+    "objectID": "symposium.html#academic-presentation",
+    "href": "symposium.html#academic-presentation",
+    "title": "AI and the Future of Financial Regulation",
+    "section": "Academic Presentation",
+    "text": "Academic Presentation\n Alright, let’s switch gears to Professor Wang’s presentation on “AI and Compliance Audit”. As a professor of AI, Hui dives deep into the techy side of using AI in making sure everyone’s playing by the rules in auditing. We’re talking about some technologies that AI brings to this wicked problem.\nFirst up, there’s advances in Natural Language Processing (NLP). This isn’t your everyday chattty AI; it’s like giving a super-brain the ability to chew through complex legal jargon and regulations. A machine that can potentially make sense of all that legal “rules on the book” using logic-based algorithms.\nThen, comes the machine learning algorithms,the kind that can spot the odd one out in heaps of data. These clever algorithms are like detectives, sniffing out anything fishy that might point to someone bending the rules.\nAnd don’t forget about Computer Vision. This isn’t just about giving computers eyes; it’s about teaching them to be eagle-eyed when it comes to scanning documents and images. They’re making sure every ‘i’ is dotted and every ‘t’ is crossed for compliance.\nBut,it’s not all about the gushy AI hype. The presentation doesn’t shy away from the tough bits, like making sure the data’s up to scratch and keeping the AI’s decision-making clear as day. Plus, there’s the big question of ethics – how do we use AI without stepping on privacy toes or shaking up jobs in the auditing world?\nIn short, Professor Wang’s talk is a deep dive into the cool, complex world of AI in compliance auditing, blending the high-tech with the high-stakes of keeping things on the straight and narrow.\nFull slide deck can be found here\n\n\n\nProfessor Daniel Broby (Ulster Business School)\n\n\nDaniel’s presentation tackled the topic of “Financial Auditing of Distributed Ledgers, Blockchain, and Cryptocurrencies”. This one’s a real eye-opener, diving into the twisty world of auditing in the age of blockchain and crypto.\nDaniel kicks off with transaction malleability in the blockchain. It sounds like a mouthful, but think of it as the art of making sure each transaction is what it claims to be, even when the blockchain’s being a bit slippery.\nNext, he moves onto the Wild West of Digital Autonomous Organizations (DAOs). Auditing these bad boys is like trying to herd cats (or academics!), with their decentralised, headless nature throwing up all sorts of challenges.\nThen there’s the melodrama of blockchain forks. Imagine auditing a road that suddenly splits in two – which path do you take? Daniel discusses the auditors’ headaches when the blockchain decides to go this way and that.\nAuditors in blockchain custody is another hot topic. In this new world, auditors are like the blockchain’s guardians, making sure everything’s above board and secure. Cross-chain transactions are wicked problem in this space. It’s like auditing a deal that happens across multiple countries, each with its own rules. How do you even start to keep track of all that? Do the theories of international finance help here?\nDaniel doesn’t stop there. He dives into the nitty-gritty of time-locked and multi-signature transactions, like those puzzles where you need two keys to open a treasure chest. And let’s not forget the rollercoaster ride that is cryptocurrency volatility. This stuff makes auditing a whole new ball game.\nDaniel’s talk is a deep dive into the new frontier of financial auditing. It’s a world where everything’s digital, decentralised, and a bit unpredictable, highlighting just how much auditors need to up their game to keep up with these techy trends.\nThe full slide deck can be found here"
+  },
+  {
+    "objectID": "symposium.html#panel-discussion-on-ai-in-financial-services-opportunities-risks",
+    "href": "symposium.html#panel-discussion-on-ai-in-financial-services-opportunities-risks",
+    "title": "AI and the Future of Financial Regulation",
+    "section": "Panel discussion on AI in financial services: Opportunities & Risks",
+    "text": "Panel discussion on AI in financial services: Opportunities & Risks\n\n\n\nPanelists from left to right: Fearghal Kearney (QBS), Pavle Armanovic (FCA), Chris Clements (FinTrU), Adrian Johnston (Catalyst Inc), Carla McGlynn (Citi Belfast)\n\n\nAnd for the grand finale of the event, we had a cracking 45-minute panel discussion. Picture this: some of the brightest sparks from Northern Ireland’s buzzing private sector, all gathered to share their two cents. We had the big brains like Pavle Avramovic, who’s into Emerging Tech & Research at the FCA; Chris Clements, the whiz behind Product Development at FinTrU; Dr Adrian Johnston MBE, the strategic mastermind at Catalyst; and Carla McGlynn, the guru of Data, Business Risks, and Controls Technology at Citi Belfast. Leading this dream team was Dr Fearghal Kearney, and he wasn’t messing about – he hit them with two big questions:\n\nWhat’s the score with AI in Financial Services? What golden opportunities can Northern Ireland grab with both hands?\nAnd the flip side – what are the big risks and headaches of mixing AI into Financial Services?\n\nThe debate that kicked off was nothing short of lively. Adrian chipped in with his take on the top-notch research and innovation collabs already happening in Northern Ireland, not to mention some exciting prospects brewing up in the North West. When it came to the nitty-gritty of risks and challenges, Chris was on point, stressing how we’ve got to stop working in our own little bubbles. And Dr Kearney, the chair, had a cracker of a point – it’s high time for Data Scientists to stop lurking in the corner of the playground.\nCarla dropped a gem too, reminding everyone that sometimes what we need from AI can be pretty straightforward, like getting those never-ending documents summed up for the busy bees at the top. All in all, it was a top-shelf discussion that really got the cogs turning on how Northern Ireland can play its cards right with AI in the financial game."
+  }
+]
