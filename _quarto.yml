@@ -2,7 +2,7 @@ project:
   type: website
   
 website:
-  title: "**FAB**"
+  title: FAB
   body-footer: |
    ![](/img/QUB_QBS_Logo_Red_Landscape.png){width="50%"}
   open-graph:
@@ -14,6 +14,8 @@ website:
       - activity.qmd
       - people.qmd
       - symposium.qmd
+      - opportunities.qmd
+      - pracademic.qmd
 format:
   html:
     theme: journal

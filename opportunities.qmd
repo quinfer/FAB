@@ -1,0 +1,65 @@
+---
+title: "PhD Opportunities"
+author: "Barry Quinn"
+css: mycssblend.css
+---
+
+## Fully Funded PhD Studentship in Finance and AI at Queen's Business School, Belfast
+
+![](img/Finance%20and%20AI%20Lab%202.jpeg){width="30%" style="float: left; margin-right: 10px;"}
+
+[Are you a dedicated and capable individual with a strong interest in the rigorous study of Finance and Artificial Intelligence? We offer a serious opportunity for you to undertake a PhD in this challenging and intellectually demanding field. This is a path for those committed to deep academic inquiry and the pursuit of knowledge at the intersection of these two critical disciplines. Join us to contribute meaningfully to the advancement of this important area of study.]{.handy}
+
+<br>
+
+::: callout
+### The Offer
+
+We are offering a fully funded PhD studentship in Finance and AI at Queen's Business School, Belfast. The studentship is funded by the NI Department for the Economy Co-operative Award in Science and Technology and covers all fees and provides a stipend for living expenses.
+:::
+
+::: callout
+### Am I Eligible?
+
+Candidates must meet nationality/residency requirements, academic criteria, and other eligibility rules around prior postgraduate study. The awards cover fees, living expenses and research costs for full-time PhD. The eligibility can be summarises as followings:
+
+**Nationality and residency:**
+
+-   UK nationals and Irish nationals who have been ordinarily resident in the UK for 3 years prior to the start of the course.
+-   EU nationals with settled or pre-settled status under the EU Settlement Scheme who have been ordinarily resident in the UK for 3 years prior to the start of the course.
+-   EU nationals with settled or pre-settled status who don't meet the 3 year UK residency may be eligible for "fees only" awards if they have 3 years residency in the UK, Gibraltar, EEA and Switzerland.\
+-   Non-EU nationals must have settled status in the UK before the closing date for applications.
+
+**Academic criteria:**
+
+-   Research and CAST PhD studentships require a 1st or 2:1 undergraduate degree or equivalent.
+-   Taught MRes studentships require at least a 2:1 undergraduate degree or equivalent.
+
+**Other criteria:**
+
+-   Candidates cannot already hold a doctoral degree or have undertaken significant postgraduate study.
+-   Studentships are full-time and 3 years in duration for PhDs, 1 year for MRes.
+-   Studentships cover tuition fees, maintenance grants and research support grants.
+:::
+
+::: callout
+## The Project
+
+Our research project combines computer science, finance, and political geography to explore the spatial distribution of public expressions of cultural identity and quantify the welfare costs of these displays. As a PhD candidate, you will apply computer vision and machine learning techniques to street view imagery to identify and geolocate cultural identifiers. You will also have the opportunity to work closely with academic supervisors and the NI Executive Office (TEO) to gain a wealth of experience from working alongside statistical and policy staff.
+:::
+
+::: callout
+### Skills Needed
+
+The ideal candidate should hold or be in the process of completing a Master's degree in economics, finance, geography, politics, or maths/computer science or a related degree. Alternatively, applicants with an undergraduate degree may be considered if they have completed substantive quantitative training as part of that degree and can demonstrate significant post-graduation research experience.
+:::
+
+::: callout
+### The "Dets"
+
+-   The studentship is for a duration of 3 years, starting on October 1, 2024.
+-   The successful candidate will be based in Belfast and will be part of the vibrant and highly supportive research culture within Queen's Business School.
+-   To apply, please submit your CV and a one-page explanation of why you are ideal for this studentship [here](https://www.qub.ac.uk/courses/postgraduate-research/phd-opportunities/finance-and-ai-research-lab.html).
+-   Informal enquiries may be directed to Dr. Barry Quinn (b.quinn\@qub.ac.uk) or Prof. Declan French (declan.french\@qub.ac.uk).
+-   Salary Scale: Full award (covering full fees, stipend, and travel costs). The UKRI full stipend for 2023-24 is £18,622 (tax-free) pa.
+:::

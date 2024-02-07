@@ -6,8 +6,15 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Weilong Liu">
+<meta name="author" content="Yong Zhang">
+<meta name="author" content="Kailong Liu">
+<meta name="author" content="Barry Quinn">
+<meta name="author" content="Xingyu Yang">
+<meta name="author" content="Qiao Peng">
+<meta name="dcterms.date" content="2024-10-01">
 
-<title>FAB - Strategy</title>
+<title>FAB - Evolutionary Multi-Objective Optimisation for Large-Scale Portfolio Selection With Both Random and Uncertain Returns</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -59,15 +66,12 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script src="site_libs/quarto-diagram/mermaid.min.js"></script>
-<script src="site_libs/quarto-diagram/mermaid-init.js"></script>
-<link href="site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="mycss.css">
-<meta property="og:title" content="FAB - Strategy">
+<meta property="og:title" content="FAB - Evolutionary Multi-Objective Optimisation for Large-Scale Portfolio Selection With Both Random and Uncertain Returns">
 <meta property="og:description" content="">
-<meta property="og:image" content="./img/QUB_QBS_Logo_Red_Landscape.png">
+<meta property="og:image" content="img/tec.png">
 <meta property="og:site-name" content="FAB">
 <meta property="og:locale" content="es_ES">
 </head>
@@ -80,7 +84,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title"><strong>FAB</strong></span>
+    <span class="navbar-title">FAB</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -109,6 +113,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./opportunities.html" rel="" target="">
  <span class="menu-text">PhD Opportunities</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./pracademic.html" rel="" target="">
+ <span class="menu-text">The Practical Intellectualist</span></a>
+  </li>  
 </ul>
             <div class="quarto-navbar-tools ms-auto">
 </div>
@@ -121,76 +129,141 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section"><img src="img/tec.png" class="img-fluid"></a></li>
+  <li><a href="#the-academic-take" id="toc-the-academic-take" class="nav-link" data-scroll-target="#the-academic-take">The academic take</a></li>
+  <li><a href="#my-practitioner-take" id="toc-my-practitioner-take" class="nav-link" data-scroll-target="#my-practitioner-take">My practitioner take</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Strategy</h1>
+<h1 class="title">Evolutionary Multi-Objective Optimisation for Large-Scale Portfolio Selection With Both Random and Uncertain Returns</h1>
 </div>
 
 
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Authors</div>
+  <div class="quarto-title-meta-heading">Affiliations</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author">Weilong Liu </p>
+  </div>
+    <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            School of Management, Guangdong University of Technology, Guangzhou, China
+          </p>
+        <p class="affiliation">
+            FAB
+          </p>
+      </div>
+      <div class="quarto-title-meta-contents">
+    <p class="author">Yong Zhang </p>
+  </div>
+    <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            School of Management, Guangdong University of Technology, Guangzhou, China
+          </p>
+      </div>
+      <div class="quarto-title-meta-contents">
+    <p class="author">Kailong Liu </p>
+  </div>
+    <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            School of Control Science and Engineering, Shandong University, Jinan, China
+          </p>
+      </div>
+      <div class="quarto-title-meta-contents">
+    <p class="author">Barry Quinn </p>
+  </div>
+    <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Queen’s Business School, Queen’s University Belfast, Belfast, UK
+          </p>
+        <p class="affiliation">
+            FAB
+          </p>
+      </div>
+      <div class="quarto-title-meta-contents">
+    <p class="author">Xingyu Yang </p>
+  </div>
+    <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            School of Management, Guangdong University of Technology, Guangzhou, China
+          </p>
+      </div>
+      <div class="quarto-title-meta-contents">
+    <p class="author">Qiao Peng </p>
+  </div>
+    <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Group of Information Technology, Analytics and Operations, Queen’s University Belfast, Belfast, UK
+          </p>
+        <p class="affiliation">
+            FAB
+          </p>
+      </div>
+    </div>
 
 <div class="quarto-title-meta">
 
-    
+      
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">October 1, 2024</p>
+    </div>
+  </div>
   
     
+    <div>
+    <div class="quarto-title-meta-heading">Doi</div>
+    <div class="quarto-title-meta-contents">
+      <p class="doi">
+        <a href="https://doi.org/10.1109/TEVC.2023.3349073">10.1109/TEVC.2023.3349073</a>
+      </p>
+    </div>
+  </div>
   </div>
   
 
 </header>
 
-<p>We will provide thought leadership within the following multidisciplinary research ecosystem. The first diagram outlines the research expertise of the FAB</p>
-<div class="cell">
-<div class="cell-output-display">
-<div>
-<div>
-<pre class="mermaid mermaid-js">graph LR
-  subgraph FAB
-    A[(FAB)]--&gt; C(Thought Leadership)
-    C--&gt;|in| N[Text as Data]
-    C --&gt;|in| P[Financial Machine Learning]
-    C --&gt;|in| S[Regulatory Technology] --&gt; D[AI and VaR Analytics] &amp; E[AI Ethics in Business] &amp; F[Systemic Risk and AI] &amp; R[ESG *Integrated Value* Analytics]
-    C --&gt;|in| G[Business Analytics]
-    C --&gt;|in| H[Economics of AI] --&gt; Q[Economics of Hybrid Cloud] &amp; L[Causal Inference and XAI]
-  end
-</pre>
-</div>
-</div>
-</div>
-</div>
-<p>A key strategic goal for FAB is to enhance and develop multidisciplinary research through strong links with GII/<a href="http://www.csit.qub.ac.uk">CSIT</a>. The lab is well positioned provide domain expertise to the <a href="https://belfastregioncitydeal.co.uk/">Belfast Region City Deal</a> funded <a href="https://www.brcd-innovation.co.uk/projects/gii">Global Innovation Institute</a> in Queen’s. The following diagram highlights expertise linkages (regulatory technology expertise is highlighted in orange):</p>
-<div class="cell">
-<div class="cell-output-display">
-<div>
-<div>
-<pre class="mermaid mermaid-js">graph LR
- subgraph FAB connections to GII
-    A[(GIIs)]--&gt; C(Impactful Research)
-    C --&gt;|CSIT + F.A.B. + Criminology| D[Security &amp; Assurance in FinancE]
-    C --&gt;|Management School| E[F.A.B.]
-    E --&gt;|in| F[AI and Tail Risk Analytics]:::reg
-    E --&gt;|in| X[Economics of Hybrid Cloud]:::reg
-    
-    D:::reg &amp; C --&gt;|in| N[Text as Data]:::reg
-    D --&gt;|in| P[Financial Machine Learning]
-    E --&gt;|in| H[Economics of AI] --&gt; L[Econometrics of AI]
-    D --&gt; |in| I(Trade Surveillance):::reg
-    D --&gt; |in| J(Trustworthy AI):::reg
-    D --&gt; |in| K(Systemic Risk and AI):::reg
-    F &amp; L &amp; I &amp; J --&gt; M[eXplainable AI]:::reg
-    classDef reg fill:#f96;
-  end
-</pre>
-</div>
-</div>
-</div>
-</div>
+<p>This paper was published in IEEE Transactions on Evolutionary Computation, an ABS 4 ranking journal with the following journal metrics:</p>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"><img src="img/tec.png" class="img-fluid"></h2>
+</section>
+<section id="the-academic-take" class="level2">
+<h2 class="anchored" data-anchor-id="the-academic-take">The academic take</h2>
+<ul>
+<li><p>The paper proposes a new multi-objective portfolio optimisation model for large-scale investments involving both long-term listed securities (with sufficient historical return data) and newly listed securities (with limited return data). The model uses mean, variance, and skewness of returns as objectives and incorporates practical trading constraints.</p></li>
+<li><p>The returns of long-term securities are treated as random variables, while returns of new securities are modeled as uncertain variables estimated by experts. The concept of uncertain random variables is used to jointly model the randomness and uncertainty.</p></li>
+<li><p>To solve the complex constrained optimisation model, the paper develops an encoder-decoder method to convert it into an unconstrained model. This allows arbitrary multi-objective algorithms to be applied.</p></li>
+<li><p>A novel large-scale multi-objective evolutionary algorithm (LSWOEA) is proposed, using techniques like decision space reduction and a dispersed target-guided search strategy. Experiments show LSWOEA outperforms other state-of-the-art algorithms.</p></li>
+<li><p>The proposed model and LSWOEA algorithm effectively handles portfolio optimisation problems with up to 1000 securities. This advances the field of computational finance and enables large-scale portfolio management for practical applications.</p></li>
+<li><p>Overall, the paper makes significant research contributions in modeling large-scale portfolio optimisation under uncertainty, developing specialised algorithms, and demonstrating superior performance on problems with hundreds of assets. This pushes the boundaries of portfolio optimisation and evolutionary computation.</p></li>
+</ul>
+</section>
+<section id="my-practitioner-take" class="level2">
+<h2 class="anchored" data-anchor-id="my-practitioner-take">My practitioner take</h2>
+<ul>
+<li><p>This research develops new portfolio optimisation tools for large institutional investors managing thousands of assets, an increasingly common challenge in asset management.</p></li>
+<li><p>The model incorporates statistical return forecasts for established assets along with subjective expert views on new assets lacking historical data. This hybrid approach reflects real-world data limitations.</p></li>
+<li><p>The proposed optimisation algorithm can efficiently handle portfolios with hundreds or thousands of assets, overcoming computational barriers facing large institutional investors.</p></li>
+<li><p>Tests show the algorithm consistently finds better optimal portfolios compared to existing methods, demonstrating value for practitioners.</p></li>
+<li><p>Capability to optimise very large portfolios allows diversification across more assets, which can potentially improve risk-adjusted returns.</p></li>
+<li><p>For asset managers, employing these advanced techniques could lead to better portfolio construction versus traditional methods, improving outcomes for institutional clients.</p></li>
+<li><p>Overall, this research represents an important step towards effective large-scale portfolio optimisation for institutional investors, bringing academic advances closer to practice.</p></li>
+</ul>
 
 
+</section>
 
 <p><img src="./img/QUB_QBS_Logo_Red_Landscape.png" class="img-fluid" style="width:50.0%"></p></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
