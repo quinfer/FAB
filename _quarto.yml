@@ -1,5 +1,12 @@
 project:
   type: website
+  render: 
+    - about.qmd
+    - activity.qmd
+    - people.qmd
+    - symposium.qmd
+    - opportunities.qmd
+    - pracademic.qmd
   
 website:
   title: FAB
@@ -19,8 +26,7 @@ website:
 format:
   html:
     theme: journal
-    css: mycss.css
+    css: mycssblend.css
     toc: true
 
 editor: visual
-

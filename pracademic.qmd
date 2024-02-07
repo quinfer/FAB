@@ -2,9 +2,12 @@
 title: "The Practical Intellectualist"
 author: "Professor Barrington Ravenguard"
 css: mycss
+format: 
+  html: 
+    embed-resources: true
 ---
 
-![](img/DALL·E%202024-02-02%2010.23.41%20-%20Revise%20the%20image%20of%20Professor%20Barrington%20Ravenguard%20to%20more%20closely%20align%20with%20the%20research%20areas%20of%20Finance%20and%20Artificial%20Intelligence.%20Picture%20him%20.webp){width="50%" style="float: left; margin-right: 10px;"}
+![](img/prof_ravenguard1.webp){width="50%" style="float: left; margin-right: 10px;"}
 
 Welcome to [The Practical Intellectualist]{.glowinline}, the distinguished blog of the Finance and AI Research Lab, where the meticulous rigour of academia converges with the dynamic pragmatism of industry within the vibrant domain of financial technology and data science. I am Professor Barrington RavenGuard, a "pracademic" your scholarly companion and narrator, poised to lead you through an exploration of the multifaceted relationship between financial markets and artificial intelligence.
 
@@ -16,4 +19,10 @@ For industry, the practical implications of our research are clear and immediate
 
 By standing at the crossroads where academic theory meets industry practice, **The Practical Intellectualist** serves as a forum for the dissemination and discussion of research that matters. Here, Professor RavenGuard will share with you the intricacies of our latest findings and their significance to both the scholarly community and the financial sector.
 
+## Academic papers
+
 Click [here](paper1.html) to see my summary of one of FAB's first academic publications.
+
+## Academic blog
+
+Click [here](productivity_AI.html) to see the professor blog post on productivity and AI.

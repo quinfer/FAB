@@ -1,0 +1,62 @@
+---
+title: "Evolutionary Multi-Objective Optimisation for Large-Scale Portfolio Selection With Both Random and Uncertain Returns"
+author: 
+    - name: "Weilong Liu" 
+      affiliations: 
+      - "School of Management, Guangdong University of Technology, Guangzhou, China"
+      - "FAB"
+    - name: "Yong Zhang"
+      affiliations: 
+      - "School of Management, Guangdong University of Technology, Guangzhou, China" 
+    - name: "Kailong Liu"
+      affiliations:  
+      - "School of Control Science and Engineering, Shandong University, Jinan, China"
+    - name: "Barry Quinn"
+      affiliations:  
+      - "Queen’s Business School, Queen’s University Belfast, Belfast, UK"
+      - "FAB"
+    - name: "Xingyu Yang"
+      affiliations:  
+      - "School of Management, Guangdong University of Technology, Guangzhou, China"
+    - name: "Qiao Peng"
+      affiliations: 
+      - "Group of Information Technology, Analytics and Operations, Queen’s University Belfast, Belfast, UK"
+      - "FAB"
+    
+date: 10/01/2024
+doi: 10.1109/TEVC.2023.3349073
+---
+
+This paper was published in IEEE Transactions on Evolutionary Computation, an ABS 4 ranking journal with the following journal metrics:
+
+## ![](img/tec.png)
+
+## The academic take
+
+-   The paper proposes a new multi-objective portfolio optimisation model for large-scale investments involving both long-term listed securities (with sufficient historical return data) and newly listed securities (with limited return data). The model uses mean, variance, and skewness of returns as objectives and incorporates practical trading constraints.
+
+-   The returns of long-term securities are treated as random variables, while returns of new securities are modeled as uncertain variables estimated by experts. The concept of uncertain random variables is used to jointly model the randomness and uncertainty.
+
+-   To solve the complex constrained optimisation model, the paper develops an encoder-decoder method to convert it into an unconstrained model. This allows arbitrary multi-objective algorithms to be applied.
+
+-   A novel large-scale multi-objective evolutionary algorithm (LSWOEA) is proposed, using techniques like decision space reduction and a dispersed target-guided search strategy. Experiments show LSWOEA outperforms other state-of-the-art algorithms.
+
+-   The proposed model and LSWOEA algorithm effectively handles portfolio optimisation problems with up to 1000 securities. This advances the field of computational finance and enables large-scale portfolio management for practical applications.
+
+-   Overall, the paper makes significant research contributions in modeling large-scale portfolio optimisation under uncertainty, developing specialised algorithms, and demonstrating superior performance on problems with hundreds of assets. This pushes the boundaries of portfolio optimisation and evolutionary computation.
+
+## My practitioner take
+
+-   This research develops new portfolio optimisation tools for large institutional investors managing thousands of assets, an increasingly common challenge in asset management.
+
+-   The model incorporates statistical return forecasts for established assets along with subjective expert views on new assets lacking historical data. This hybrid approach reflects real-world data limitations.
+
+-   The proposed optimisation algorithm can efficiently handle portfolios with hundreds or thousands of assets, overcoming computational barriers facing large institutional investors.
+
+-   Tests show the algorithm consistently finds better optimal portfolios compared to existing methods, demonstrating value for practitioners.
+
+-   Capability to optimise very large portfolios allows diversification across more assets, which can potentially improve risk-adjusted returns.
+
+-   For asset managers, employing these advanced techniques could lead to better portfolio construction versus traditional methods, improving outcomes for institutional clients.
+
+-   Overall, this research represents an important step towards effective large-scale portfolio optimisation for institutional investors, bringing academic advances closer to practice.
