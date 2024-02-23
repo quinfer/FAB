@@ -1,7 +1,0 @@
----
-title: ""
----
-
-::: salt
-**F**inance and **A**I research La**B**
-:::

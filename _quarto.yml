@@ -1,13 +1,6 @@
 project:
   type: website
-  render: 
-    - about.qmd
-    - activity.qmd
-    - people.qmd
-    - symposium.qmd
-    - opportunities.qmd
-    - pracademic.qmd
-  
+
 website:
   title: FAB
   body-footer: |
