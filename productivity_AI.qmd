@@ -1,5 +1,5 @@
 ---
-title: "The Allure and Limitations of Productivity Metrics in AI"
+title: "The Allure and Limitations of Productivity Metrics for AI"
 author: "Professor Barrington Ravenguard"
 bibliography: refs.bib
 format: 
@@ -23,7 +23,7 @@ Meanwhile, operational research employs granular operational metrics like utiliz
 
 When analyzing new technologies like AI, operations research techniques have clear advantages [@agrawal2021prediction]. That's because AI's benefits manifest indirectly through enhancements to decision making, risk reduction, quality improvements, and innovation. These are complex, system-level effects not capturable by the linear corporate finance models underpinning traditional productivity metrics [@hulten2021measurement].
 
-In contrast, an operations research approach can account for AI’s full range of returns [@brynjolfsson2022ai]. By benchmarking against multi-dimensional best practice frontiers, operations research can quantify the process enhancements, increased automation, reduced waste, and improved worker output achieved by AI adoption. This technical productivity measurement aligns with how AI creates organizational value - via engineering, not just financial returns.
+In contrast, an operations research approach can account for AI’s full range of returns [@brynjolfsson2018artificial;@crozet2022ai]. By benchmarking against multi-dimensional best practice frontiers, operations research can quantify the process enhancements, increased automation, reduced waste, and improved worker output achieved by AI adoption. This technical productivity measurement aligns with how AI creates organizational value - via engineering, not just financial returns.
 
 ## The Need for New Metrics
 

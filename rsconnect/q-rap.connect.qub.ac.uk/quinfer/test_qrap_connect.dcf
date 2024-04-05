@@ -5,8 +5,9 @@ account: quinfer
 server: q-rap.connect.qub.ac.uk
 hostUrl: https://q-rap.connect.qub.ac.uk/__api__
 appId: 71
-bundleId: 436
+bundleId: 440
 url: https://q-rap.connect.qub.ac.uk/FAB/
-version: 1
+when: 1708719934.37654
+lastSyncTime: 1708719934.37655
 asMultiple: FALSE
 asStatic: TRUE

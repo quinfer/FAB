@@ -121,7 +121,7 @@
   {
     "objectID": "productivity_AI.html",
     "href": "productivity_AI.html",
-    "title": "The Allure and Limitations of Productivity Metrics in AI",
+    "title": "The Allure and Limitations of Productivity Metrics for AI",
     "section": "",
     "text": "We love to measure productivity. As managers and analysts, quantifying output feels comforting - it gives us concrete data to make decisions with. However, when evaluating new technologies like algorithms and AI, our traditional productivity metrics often come up short (Wilson, Daugherty, and Morini-Bianzino 2021).\nOn the surface, these technologies seem like automation tools to drive efficiency. However, as MIT research has shown, the real power of AI is its ability to uncover hidden insights and make broad improvements across entire systems (Chui, Henke, and Miremadi 2018). Yet such diffuse, indirect benefits do not fit neatly into typical productivity analyses that focus on volume and speed."
   },
@@ -156,21 +156,21 @@
   {
     "objectID": "productivity_AI.html#the-distinction-between-approaches",
     "href": "productivity_AI.html#the-distinction-between-approaches",
-    "title": "The Allure and Limitations of Productivity Metrics in AI",
+    "title": "The Allure and Limitations of Productivity Metrics for AI",
     "section": "The Distinction Between Approaches",
     "text": "The Distinction Between Approaches\nWhen assessing productivity, corporate finance and operational research take related but distinct approaches (Farrell 1957). The corporate finance approach relies on firm-level financial performance measures like revenue growth and profit margins. It analyzes historical accounting data to benchmark a firm’s efficiency in converting inputs into financial outputs (Siegel 2020).\nMeanwhile, operational research employs granular operational metrics like utilization rates, throughput, and defect rates (Foster 2022). It focuses on optimizing the operations and processes that transform resources into products and services."
   },
   {
     "objectID": "productivity_AI.html#which-approach-is-better-for-evaluating-ai-productivity",
     "href": "productivity_AI.html#which-approach-is-better-for-evaluating-ai-productivity",
-    "title": "The Allure and Limitations of Productivity Metrics in AI",
+    "title": "The Allure and Limitations of Productivity Metrics for AI",
     "section": "Which Approach Is Better for Evaluating AI Productivity?",
-    "text": "Which Approach Is Better for Evaluating AI Productivity?\nWhen analyzing new technologies like AI, operations research techniques have clear advantages (Agrawal, Gans, and Goldfarb 2021). That’s because AI’s benefits manifest indirectly through enhancements to decision making, risk reduction, quality improvements, and innovation. These are complex, system-level effects not capturable by the linear corporate finance models underpinning traditional productivity metrics (Hulten 2021).\nIn contrast, an operations research approach can account for AI’s full range of returns (Brynjolfsson 2022). By benchmarking against multi-dimensional best practice frontiers, operations research can quantify the process enhancements, increased automation, reduced waste, and improved worker output achieved by AI adoption. This technical productivity measurement aligns with how AI creates organizational value - via engineering, not just financial returns."
+    "text": "Which Approach Is Better for Evaluating AI Productivity?\nWhen analyzing new technologies like AI, operations research techniques have clear advantages (Agrawal, Gans, and Goldfarb 2021). That’s because AI’s benefits manifest indirectly through enhancements to decision making, risk reduction, quality improvements, and innovation. These are complex, system-level effects not capturable by the linear corporate finance models underpinning traditional productivity metrics (Hulten 2021).\nIn contrast, an operations research approach can account for AI’s full range of returns (brynjolfsson2018artificial?; crozet2022ai?). By benchmarking against multi-dimensional best practice frontiers, operations research can quantify the process enhancements, increased automation, reduced waste, and improved worker output achieved by AI adoption. This technical productivity measurement aligns with how AI creates organizational value - via engineering, not just financial returns."
   },
   {
     "objectID": "productivity_AI.html#the-need-for-new-metrics",
     "href": "productivity_AI.html#the-need-for-new-metrics",
-    "title": "The Allure and Limitations of Productivity Metrics in AI",
+    "title": "The Allure and Limitations of Productivity Metrics for AI",
     "section": "The Need for New Metrics",
     "text": "The Need for New Metrics\nReturning to our original example, let’s see how this applies. A new predictive maintenance algorithm may slightly slow a production line. By traditional productivity measures focused on volume and speed, it scores poorly. But by reducing downstream disruptions and failures, it better optimises the entire supply chain - a benefit that standard metrics miss. As analysts at McKinsey have pointed out, new AI recruiting tools may take more upfront time to implement than prior systems (Bughin et al. 2021). But by surfacing better candidates, they drive dramatic improvements in quality and retention that pay dividends over years.\nIn short, multiple research studies have shown that applying conventional productivity lenses often underestimates the gains AI can drive (Agrawal, Gans, and Goldfarb 2021). While efficiency benchmarks have their place, they insufficiently measure AI’s systemic, widespread improvements that raise overall performance. To capture its true value, productivity metrics must become more holistic. Rather than just simplistic speed and volume counts, we need multidimensional measures that account for enhanced decision making, reduced risk, higher quality, better experiences, and increased innovation, as researchers at Stanford have suggested (Cockburn, Henderson, and Stern 2018).\nOnly with better metrics can we escape the illusion that algorithms and AI are merely automation tools (Wilson, Daugherty, and Morini-Bianzino 2021). In reality, their indirect, higher-order benefits make them drivers of progress unmatched by any productivity-enhancing technology we have adopted in decades. But we cannot manage and optimise what we do not measure. As stewards of progress, we must develop metrics as innovative and far-reaching as the technologies we aim to implement."
   },
