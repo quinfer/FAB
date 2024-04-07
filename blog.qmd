@@ -1,0 +1,8 @@
+---
+title: "Pracademic Blog"
+author: "Professor Barrington Ravinguard"
+listing:
+  contents: posts
+  type: grid
+  categories: true
+---

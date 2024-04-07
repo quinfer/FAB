@@ -1,0 +1,29 @@
+[
+  {
+    "listing": "/activity.html",
+    "items": [
+      "/activities/collaborations.html",
+      "/activities/symposium.html",
+      "/activities/opportunities.html"
+    ]
+  },
+  {
+    "listing": "/pubs.html",
+    "items": [
+      "/publications/evol_comp.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/productivity_AI.html"
+    ]
+  },
+  {
+    "listing": "/eduAIseries.html",
+    "items": [
+      "/finai-edu/Call to arms.html",
+      "/finai-edu/fined-ai-partone.html"
+    ]
+  }
+]

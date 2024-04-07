@@ -3,6 +3,9 @@ project:
 
 website:
   title: FAB
+  favicon: /img/QUB_QBS_Logo_Red_Landscape.png
+  twitter-card: true
+  site-url: https://q-rap.connect.qub.ac.uk/FAB/
   body-footer: |
    ![](/img/QUB_QBS_Logo_Red_Landscape.png){width="50%"}
   open-graph:
@@ -10,12 +13,23 @@ website:
     site-name: FAB
   navbar:
     left:
-      - about.qmd
-      - activity.qmd
-      - people.qmd
-      - symposium.qmd
-      - opportunities.qmd
-      - pracademic.qmd
+      - text: "Home"
+        file: index.qmd
+      - text: "People"
+        menu:
+          - people.qmd
+      - text: "Activities"
+        file: activity.qmd
+      - text: "The Practical Intellectualist" 
+        menu:
+          - text: "About"
+            file: pracademic.qmd
+          - text: "Pracdemic Blog"
+            file: blog.qmd
+          - text: "AI and the Future of Education Series"
+            file: eduAIseries.qmd
+      - text: "Publications"
+        file: pubs.qmd
 format:
   html:
     theme: journal

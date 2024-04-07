@@ -1,0 +1,29 @@
+---
+title: "Call to arms"
+author: "Prof. Barington Ravenguard"
+image: ../img/prof_ravenguard1.webp
+---
+
+## A Call to Arms 🚀
+
+As a "pracademic" and leader of the Finance and AI Research Lab, I have witnessed firsthand the transformative potential and mounting challenge AI presents to the world of finance. For educators, this signifies both an opportunity and an obligation. An opportunity to equip the next generation with essential skills to navigate a complex financial landscape increasingly shaped by algorithms and data analytics. An obligation to ensure our instructional paradigms align with this rapidly evolving reality.
+
+**A Question of Approach**
+
+The question is not whether AI should play a role in finance education, but how we can best leverage its capacities to enhance the learning experience. This requires not merely an understanding of AI techniques themselves, but a thorough examination of how they complement and potentially upend traditional educational strategies within the context of finance.
+
+**Insights from Beyond Our Discipline**
+
+This series will cast a wide net, borrowing insights from the broader educational landscape where research into applied AI has already yielded profound findings. Here, we may discover best practices for personalized learning, interactive simulation, and adaptive assessment using AI in ways relevant to financial domains.
+
+**Theory into Practice – A Two-Way Street**
+
+The AI and Finance Education series, in the spirit of the Finance and AI Research Lab, is not a one-directional dissemination of theory into the classroom. Instead, it's an invitation to engage in a collaborative dialogue. Our work will be enriched by the experiences and perspectives of practitioners in the field – those on the front lines of finance education who can shape the future of our research agenda.
+
+**A Call to Action**
+
+I invite you, whether you are an academic, a student, or an industry veteran, to join us on this journey. Together, let us explore how we can forge a new breed of financial specialists: data-savvy, AI-literate, and armed with the tools and understanding to drive innovation in a world where human intellect and artificial intelligence converge.
+
+Stay tuned for the next installment where we will begin investigating the practical applications of AI to transform teaching and learning in areas such as risk assessment, portfolio optimization, and algorithmic trading.
+
+Until then, I wish you well in your intellectual pursuits.

@@ -1,0 +1,9 @@
+---
+title: "AI and the Future of Financial Education Series"
+author: "Prof. Barington Ravenguard"
+listing:
+  contents: "finai-edu"
+  type: grid
+---
+
+Greetings, esteemed colleagues and inquisitive minds! It is with great enthusiasm that I announce a new exploration here on The Practical Intellectualist – the "AI and Finance Education" series. This endeavor delves into the imperative task of integrating artificial intelligence into the very fabric of financial education.

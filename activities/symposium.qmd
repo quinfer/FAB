@@ -1,0 +1,197 @@
+---
+title: "FAB Symposium 2023"
+subtitle: "AI and the Future of Financial Regulation"
+image: "../img/ATA_0414.jpg"
+author: 
+  - Barry Quinn
+  - Fearghal Kearney
+format: 
+  html: 
+    css: [../mycss.css]
+    toc: true
+---
+
+![From right to left: Barry Quinn (QBS), Chris Clements (FinTrU), Adrian Johnston (Catalyst Inc), Pavle Avramovic (FCA),Carla McGlynn (Citi), Fearghal Kearney (QBS), Daniel Broby (UU)](../img/ATA_0702.jpg)
+
+From right to left: Barry Quinn (QBS), Chris Clements (FinTrU), Adrian Johnston (Catalyst Inc), Pavle Avramovic (FCA), Carla McGlynn (Citi), Fearghal Kearney(QBS), Daniel Broby (UU)
+
+It marked the first outing for our lab, wrapping up six months of hard graft and preparation. The vibe of the afternoon? Smart-casual to a tee. Insightful talks from keynote speakers and academics bringing the ‘smart’, all set against the backdrop of our laid-back organisers (Fearghal and Barry) adding a good dollop of ‘casual’.
+
+We drew in a diverse crowd, from the big names in FinTech like Citi Belfast, Kainos, and Davy’s Wealth Managers, to the sharp minds at Cardinal Analytics, FD Technologies, and FinTrU. Not to mention the folks from PWC, College Green Ventures, Resourceful Planner, and the legal eagles at Baker McKenzie and AI Goodbody. And of course, our supporters from InvestNI, Belfast Chamber of Trade and Commerce, and the Software Alliance.
+
+We tackled the hot topic of AI and financial regulation from every angle - the regulators, the academics, and the industry practitioners. It was an enjoyable afternoon and a fantastic way to set the ball rolling for our wee lab.
+
+What a great afternoon we had on the 23rd of November at Riddel Hall, where we officially launched our wee Finance AI Research Lab with our first symposium!
+
+## Financial Conduct Authority (FCA) Keynote
+
+![Pavle Avramovic (Manager of Emerging Tech and Research in Innovation Department of the FCA)](img/ATA_0580.jpg)
+
+So, let's dive into the "Emerging Technologies & Regulation" keynote, a real brain-teaser that digs into the tricky dance between cutting-edge tech and keeping things above board with regulators. First off, it throws a spotlight on how key it is for regulatory bodies, like the big players at the Financial Conduct Authority (FCA), to understand new tech. The FCA's Innovation department is right at the heart of this, juggling the task of getting these newfangled technologies to play nice with the rules.
+
+Now, getting into the weeds, the presentation takes a deep dive into synthetic data and Privacy Enhancing Technologies (PETs) – emerging solutions to some [wicked problems](https://q-rap.connect.qub.ac.uk/detection/detection.html#/fab) in the finance world. These are the secret sauce for keeping our data safe and sound, a issues that is front and centre as the FCA grapple with [Big Tech as the gatekeepers of our financial data](https://www.fca.org.uk/publication/feedback/fs23-4.pdf). The FCA isn’t just sitting on its hands either; they’ve got this Horizon Scanning Framework, a nifty tool for keeping an eye out on how tech trends could shake up the financial scene for businesses and us regular folks.
+
+But wait, the weeds get more complex. We get into the nitty-gritty of some real mind-bending tech like Quantum Computing and Decentralized Finance (DeFi). The talk's all about figuring out how these innovations could stir the pot and the headaches they might cause for the rule books. The FCA isn’t just watching from the sidelines - they’re right in there, working with all sorts to make sure innovation gets a green light while still keeping things square for us and the market.
+
+Plus, the presentation doesn’t just stop at the now; it takes a peek into what’s coming. It lays out the FCA's game plan for rolling these tech wonders into their rule-making playbook. It's all about teaming up and staying nimble, making sure the rules can keep up with the tech without putting the brakes on new ideas. **At FAB, we are excited about the follow-on action points in this space.**
+
+In a nutshell, this talk gives you the whole picture of how tech, money, and rules are doing this intricate tango, highlighting why we need to stay sharp ,and research in collaboration with regulators and businesses, to keep things moving in the right direction.
+
+Full slide deck can be found [here](presenter_slides/Emerging%20Technologies%20&%20Regulation%20-%20Queens%20University.pptx)
+
+## Academic Presentation
+
+![Professor Hui Wang (from QUB EEECS School)](img/ATA_0460.jpg) Alright, let's switch gears to Professor Wang's presentation on "AI and Compliance Audit". As a professor of AI, Hui dives deep into the techy side of using AI in making sure everyone's playing by the rules in auditing. We're talking about some technologies that AI brings to this wicked problem.
+
+First up, there's advances in Natural Language Processing (NLP). This isn't your everyday chattty AI; it’s like giving a super-brain the ability to chew through complex legal jargon and regulations. A machine that can potentially make sense of all that legal "rules on the book" using logic-based algorithms.
+
+Then, comes the machine learning algorithms,the kind that can spot the odd one out in heaps of data. These clever algorithms are like detectives, sniffing out anything fishy that might point to someone bending the rules.
+
+And don’t forget about Computer Vision. This isn’t just about giving computers eyes; it’s about teaching them to be eagle-eyed when it comes to scanning documents and images. They’re making sure every 'i' is dotted and every 't' is crossed for compliance.
+
+But,it's not all about the gushy AI hype. The presentation doesn’t shy away from the tough bits, like making sure the data's up to scratch and keeping the AI's decision-making clear as day. Plus, there’s the big question of ethics – how do we use AI without stepping on privacy toes or shaking up jobs in the auditing world?
+
+In short, Professor Wang's talk is a deep dive into the cool, complex world of AI in compliance auditing, blending the high-tech with the high-stakes of keeping things on the straight and narrow.
+
+Full slide deck can be found [here](presenter_slides/AI+ComplianceAudit%5B16%5D.pptx)
+
+![Professor Daniel Broby (Ulster Business School)](img/ATA_0482.jpg)
+
+Daniel's presentation tackled the topic of "Financial Auditing of Distributed Ledgers, Blockchain, and Cryptocurrencies". This one's a real eye-opener, diving into the twisty world of auditing in the age of blockchain and crypto.
+
+Daniel kicks off with transaction malleability in the blockchain. It sounds like a mouthful, but think of it as the art of making sure each transaction is what it claims to be, even when the blockchain's being a bit slippery.
+
+Next, he moves onto the Wild West of Digital Autonomous Organizations (DAOs). Auditing these bad boys is like trying to herd cats (or academics!), with their decentralised, headless nature throwing up all sorts of challenges.
+
+Then there's the melodrama of blockchain forks. Imagine auditing a road that suddenly splits in two – which path do you take? Daniel discusses the auditors' headaches when the blockchain decides to go this way and that.
+
+Auditors in blockchain custody is another hot topic. In this new world, auditors are like the blockchain's guardians, making sure everything's above board and secure. Cross-chain transactions are wicked problem in this space. It's like auditing a deal that happens across multiple countries, each with its own rules. How do you even start to keep track of all that? Do the theories of international finance help here?
+
+Daniel doesn't stop there. He dives into the nitty-gritty of time-locked and multi-signature transactions, like those puzzles where you need two keys to open a treasure chest. And let's not forget the rollercoaster ride that is cryptocurrency volatility. This stuff makes auditing a whole new ball game.
+
+Daniel's talk is a deep dive into the new frontier of financial auditing. It's a world where everything's digital, decentralised, and a bit unpredictable, highlighting just how much auditors need to up their game to keep up with these techy trends.
+
+The full slide deck can be found [here](presenter_slides/AI%20LAb.pdf)
+
+<!-- ![Dr Barry Quinn (Co-Director of Finance and AI research Lab at Queen's Business School)](img/ATA_0478.jpg) -->
+
+## Panel discussion on AI in financial services: Opportunities & Risks
+
+![Panelists from left to right: Fearghal Kearney (QBS), Pavle Armanovic (FCA), Chris Clements (FinTrU), Adrian Johnston (Catalyst Inc), Carla McGlynn (Citi Belfast)](img/ATA_0570.jpg)
+
+And for the grand finale of the event, we had a cracking 45-minute panel discussion. Picture this: some of the brightest sparks from Northern Ireland's buzzing private sector, all gathered to share their two cents. We had the big brains like Pavle Avramovic, who's into Emerging Tech & Research at the FCA; Chris Clements, the whiz behind Product Development at FinTrU; Dr Adrian Johnston MBE, the strategic mastermind at Catalyst; and Carla McGlynn, the guru of Data, Business Risks, and Controls Technology at Citi Belfast. Leading this dream team was Dr Fearghal Kearney, and he wasn't messing about – he hit them with two big questions:
+
+1.  What's the score with AI in Financial Services? What golden opportunities can Northern Ireland grab with both hands?
+2.  And the flip side – what are the big risks and headaches of mixing AI into Financial Services?
+
+The debate that kicked off was nothing short of lively. Adrian chipped in with his take on the top-notch research and innovation collabs already happening in Northern Ireland, not to mention some exciting prospects brewing up in the North West. When it came to the nitty-gritty of risks and challenges, Chris was on point, stressing how we've got to stop working in our own little bubbles. And Dr Kearney, the chair, had a cracker of a point – it’s high time for Data Scientists to stop lurking in the corner of the playground.
+
+Carla dropped a gem too, reminding everyone that sometimes what we need from AI can be pretty straightforward, like getting those never-ending documents summed up for the busy bees at the top. All in all, it was a top-shelf discussion that really got the cogs turning on how Northern Ireland can play its cards right with AI in the financial game.
+
+<!-- Some common themes emerged from the subsequent discussions. -->
+
+<!-- ![](img/ATA_0584.jpg){width="30%" vertical-align:"middle"} Pavle kicked off with thoughts on how Northern Ireland has an important role to play to develop and innovate with regulatory technologies. He suggested that the "bug" of brexit is actually an innovation "feature" when it comes to AI sandbox environment for regulatory access into both the UK and the EU. Pavle highlighted how the FCA collaborate across bodies and borders, the former via the [Digital Regulation Cooperation Forum](https://www.drcf.org.uk/about-us) and the latter via the [International Organization of Securities Commissions](https://www.iosco.org).  -->
+
+<!-- ![](img/ATA_0589.jpg){width="30%" vertical-align:"middle"} Chris Clements, Director of Product Development for [FinTrU](https://www.fintru.com), argues that AI can join up disparate businesses process in fintechs. He spoke of the traditional approach where Data scientists are siloed from product engineers and regulatory domain experts and explains how AI can be used to "tool up" bridges to developed and end-to-end product lifecycle.   -->
+
+<!-- ![](img/ATA_0604.jpg){width="30%" vertical-align:"middle"} Adrian Johnston MBE, Director of Strategic Partnership for [Catalyst](https://wearecatalyst.org), with his strategic cap on described some exciting developments in the North West. There are exciting plans to develop a "supercluster" for regulatory technology, allowing experience from regulatory challenges in one sector to inform research and development in others.  Adrian explains who Northern Ireland continues to punch above their weight in private sector technological innovation despite political instability.  He also highlights are unique positioning as a potential R&D laboratory for multiple regulatory landscape simulations.  -->
+
+<!-- ![](img/ATA_0622.jpg){width="30%" vertical-align:"middle"} Finally, Carla McGlynn, Director, Head of Markets Data, Business Risks and Controls Technology / Site Lead at Citi Belfast, provides the fintech consumer viewpoint and discussed how Citi are sifting through the Generative AI hype. In Citi they are thinking about micro productivity wins in their business risk and controls analytics, and markets data curation. -->
+
+<!-- In terms of risks, the labour displacement issues was important for all the panel members. -->
+
+## Event Slideshow
+
+```{=html}
+<!-- Swiper -->
+<div class="swiper mySwiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide">
+    <img src="img/ATA_0414.jpg">
+    </div>
+    <div class="swiper-slide">
+    <img src="img/ATA_0460.jpg">
+    </div>
+    <div class="swiper-slide">
+    <img src="img/ATA_0469.jpg">
+    </div>
+      <div class="swiper-slide">
+    <img src="img/ATA_0475.jpg">
+    </div>
+    <div class="swiper-slide">
+    <img src="img/ATA_0478.jpg">
+    </div>
+    <div class="swiper-slide">
+    <img src="img/ATA_0482.jpg">
+    </div>
+    <div class="swiper-slide">
+    <img src="img/ATA_0536.jpg">
+    </div>
+    <div class="swiper-slide">
+    <img src="img/ATA_0570.jpg">
+    </div>
+     <div class="swiper-slide">
+    <img src="img/ATA_0580.jpg">
+    </div>
+    <div class="swiper-slide">
+    <img src="img/ATA_0584.jpg">
+    </div>
+    <div class="swiper-slide">
+    <img src="img/ATA_0589.jpg">
+    </div>
+    <div class="swiper-slide">
+    <img src="img/ATA_0592.jpg">
+    </div>
+    <div class="swiper-slide">
+    <img src="img/ATA_0598.jpg">
+    </div>
+    <div class="swiper-slide">
+    <img src="img/ATA_0604.jpg">
+    </div>
+    <div class="swiper-slide">
+    <img src="img/ATA_0609.jpg">
+    </div>
+    <div class="swiper-slide">
+    <img src="img/ATA_0622.jpg">
+    </div>
+    <div class="swiper-slide">
+    <img src="img/ATA_0643.jpg">
+    </div>
+    <div class="swiper-slide">
+    <img src="img/ATA_0687.jpg">
+    </div>
+    <div class="swiper-slide">
+    <img src="img/ATA_0702.jpg">
+    </div>
+    <div class="swiper-slide">
+    <img src="img/ATA_0723.jpg">
+    </div>
+ </div>
+ <!-- Add Pagination -->
+ <div class="swiper-pagination"></div>
+ <!-- Add Navigation -->
+ <div class="swiper-button-next"></div>
+ <div class="swiper-button-prev"></div>
+ <!-- Add Scrollbar -->
+ <div class="swiper-scrollbar"></div>
+
+<script>
+  var swiper = new Swiper('.mySwiper', {
+    // Optional parameters
+    direction: 'horizontal',
+    loop: true,
+
+    // If you want to use navigation, pagination, or scrollbar
+    pagination: {
+      el: '.swiper-pagination',
+    },
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+    scrollbar: {
+      el: '.swiper-scrollbar',
+    },
+  });
+</script>
+```

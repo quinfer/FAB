@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Professor Barrington Ravenguard">
 
-<title>FAB - Activities</title>
+<title>FAB - The Allure and Limitations of Productivity Metrics for AI</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,28 +21,45 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href=".//img/QUB_QBS_Logo_Red_Landscape.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="..//img/QUB_QBS_Logo_Red_Landscape.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -62,46 +80,17 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<link rel="stylesheet" href="mycssblend.css">
-<meta property="og:title" content="FAB - Activities">
-<meta property="og:image" content="https://q-rap.connect.qub.ac.uk/FAB/img/digital-transformation.jpg">
+<link rel="stylesheet" href="../mycssblend.css">
+<meta property="og:title" content="FAB - The Allure and Limitations of Productivity Metrics for AI">
+<meta property="og:description" content="">
+<meta property="og:image" content="https://q-rap.connect.qub.ac.uk/FAB/img/prof_ravenguard_productivityAI.webp">
 <meta property="og:site-name" content="FAB">
 <meta property="og:locale" content="es_ES">
-<meta name="twitter:title" content="FAB - Activities">
-<meta name="twitter:image" content="https://q-rap.connect.qub.ac.uk/FAB/img/digital-transformation.jpg">
+<meta name="twitter:title" content="FAB - The Allure and Limitations of Productivity Metrics for AI">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="https://q-rap.connect.qub.ac.uk/FAB/img/prof_ravenguard_productivityAI.webp">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -112,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">FAB</span>
     </a>
   </div>
@@ -123,7 +112,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
+    <a class="nav-link" href="../index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -132,13 +121,13 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-people">    
         <li>
-    <a class="dropdown-item" href="./people.html" rel="" target="">
+    <a class="dropdown-item" href="../people.html" rel="" target="">
  <span class="dropdown-text">People</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" href="./activity.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="../activity.html" rel="" target="">
  <span class="menu-text">Activities</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -147,21 +136,21 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-the-practical-intellectualist">    
         <li>
-    <a class="dropdown-item" href="./pracademic.html" rel="" target="">
+    <a class="dropdown-item" href="../pracademic.html" rel="" target="">
  <span class="dropdown-text">About</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./blog.html" rel="" target="">
+    <a class="dropdown-item" href="../blog.html" rel="" target="">
  <span class="dropdown-text">Pracdemic Blog</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./eduAIseries.html" rel="" target="">
+    <a class="dropdown-item" href="../eduAIseries.html" rel="" target="">
  <span class="dropdown-text">AI and the Future of Education Series</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./pubs.html" rel="" target="">
+    <a class="nav-link" href="../pubs.html" rel="" target="">
  <span class="menu-text">Publications</span></a>
   </li>  
 </ul>
@@ -185,7 +174,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section"></a></li>
+  <li><a href="#the-distinction-between-approaches" id="toc-the-distinction-between-approaches" class="nav-link active" data-scroll-target="#the-distinction-between-approaches">The Distinction Between Approaches</a></li>
+  <li><a href="#which-approach-is-better-for-evaluating-ai-productivity" id="toc-which-approach-is-better-for-evaluating-ai-productivity" class="nav-link" data-scroll-target="#which-approach-is-better-for-evaluating-ai-productivity">Which Approach Is Better for Evaluating AI Productivity?</a></li>
+  <li><a href="#the-need-for-new-metrics" id="toc-the-need-for-new-metrics" class="nav-link" data-scroll-target="#the-need-for-new-metrics">The Need for New Metrics</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
 </nav>
     </div>
@@ -194,13 +186,24 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Activities</h1>
-</div>
+<h1 class="title">The Allure and Limitations of Productivity Metrics for AI</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">AI</div>
+    <div class="quarto-category">Productivity</div>
+    <div class="quarto-category">Metrics</div>
+  </div>
+  </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Professor Barrington Ravenguard </p>
+          </div>
+  </div>
     
   
     
@@ -209,86 +212,60 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="section" class="level3">
-<h3 class="anchored" data-anchor-id="section"></h3>
+<p>We love to measure productivity. As managers and analysts, quantifying output feels comforting - it gives us concrete data to make decisions with. However, when evaluating new technologies like algorithms and AI, our traditional productivity metrics often come up short <span class="citation" data-cites="wilson2021jobs">(<a href="#ref-wilson2021jobs" role="doc-biblioref">Wilson, Daugherty, and Morini-Bianzino 2021</a>)</span>.</p>
+<p>On the surface, these technologies seem like automation tools to drive efficiency. However, as MIT research has shown, the real power of AI is its ability to uncover hidden insights and make broad improvements across entire systems <span class="citation" data-cites="chui2018most">(<a href="#ref-chui2018most" role="doc-biblioref">Chui, Henke, and Miremadi 2018</a>)</span>. Yet such diffuse, indirect benefits do not fit neatly into typical productivity analyses that focus on volume and speed.</p>
+<section id="the-distinction-between-approaches" class="level2">
+<h2 class="anchored" data-anchor-id="the-distinction-between-approaches">The Distinction Between Approaches</h2>
+<p>When assessing productivity, corporate finance and operational research take related but distinct approaches <span class="citation" data-cites="farrell1957measurement">(<a href="#ref-farrell1957measurement" role="doc-biblioref">Farrell 1957</a>)</span>. The corporate finance approach relies on firm-level financial performance measures like revenue growth and profit margins. It analyzes historical accounting data to benchmark a firm’s efficiency in converting inputs into financial outputs <span class="citation" data-cites="siegel2020productivity">(<a href="#ref-siegel2020productivity" role="doc-biblioref">Siegel 2020</a>)</span>.</p>
+<p>Meanwhile, operational research employs granular operational metrics like utilization rates, throughput, and defect rates <span class="citation" data-cites="foster2022measuring">(<a href="#ref-foster2022measuring" role="doc-biblioref">Foster 2022</a>)</span>. It focuses on optimizing the operations and processes that transform resources into products and services.</p>
+</section>
+<section id="which-approach-is-better-for-evaluating-ai-productivity" class="level2">
+<h2 class="anchored" data-anchor-id="which-approach-is-better-for-evaluating-ai-productivity">Which Approach Is Better for Evaluating AI Productivity?</h2>
+<p>When analyzing new technologies like AI, operations research techniques have clear advantages <span class="citation" data-cites="agrawal2021prediction">(<a href="#ref-agrawal2021prediction" role="doc-biblioref">Agrawal, Gans, and Goldfarb 2021</a>)</span>. That’s because AI’s benefits manifest indirectly through enhancements to decision making, risk reduction, quality improvements, and innovation. These are complex, system-level effects not capturable by the linear corporate finance models underpinning traditional productivity metrics <span class="citation" data-cites="hulten2021measurement">(<a href="#ref-hulten2021measurement" role="doc-biblioref">Hulten 2021</a>)</span>.</p>
+<p>In contrast, an operations research approach can account for AI’s full range of returns <span class="citation" data-cites="brynjolfsson2018artificial crozet2022ai">(<a href="#ref-brynjolfsson2018artificial" role="doc-biblioref"><strong>brynjolfsson2018artificial?</strong></a>; <a href="#ref-crozet2022ai" role="doc-biblioref"><strong>crozet2022ai?</strong></a>)</span>. By benchmarking against multi-dimensional best practice frontiers, operations research can quantify the process enhancements, increased automation, reduced waste, and improved worker output achieved by AI adoption. This technical productivity measurement aligns with how AI creates organizational value - via engineering, not just financial returns.</p>
+</section>
+<section id="the-need-for-new-metrics" class="level2">
+<h2 class="anchored" data-anchor-id="the-need-for-new-metrics">The Need for New Metrics</h2>
+<p>Returning to our original example, let’s see how this applies. A new predictive maintenance algorithm may slightly slow a production line. By traditional productivity measures focused on volume and speed, it scores poorly. But by reducing downstream disruptions and failures, it better optimises the entire supply chain - a benefit that standard metrics miss. As analysts at McKinsey have pointed out, new AI recruiting tools may take more upfront time to implement than prior systems <span class="citation" data-cites="bughin2021promise">(<a href="#ref-bughin2021promise" role="doc-biblioref">Bughin et al. 2021</a>)</span>. But by surfacing better candidates, they drive dramatic improvements in quality and retention that pay dividends over years.</p>
+<p>In short, multiple research studies have shown that applying conventional productivity lenses often underestimates the gains AI can drive <span class="citation" data-cites="agrawal2021prediction">(<a href="#ref-agrawal2021prediction" role="doc-biblioref">Agrawal, Gans, and Goldfarb 2021</a>)</span>. While efficiency benchmarks have their place, they insufficiently measure AI’s systemic, widespread improvements that raise overall performance. To capture its true value, productivity metrics must become more holistic. Rather than just simplistic speed and volume counts, we need multidimensional measures that account for enhanced decision making, reduced risk, higher quality, better experiences, and increased innovation, as researchers at Stanford have suggested <span class="citation" data-cites="cockburn2018impact">(<a href="#ref-cockburn2018impact" role="doc-biblioref">Cockburn, Henderson, and Stern 2018</a>)</span>.</p>
+<p>Only with better metrics can we escape the illusion that algorithms and AI are merely automation tools <span class="citation" data-cites="wilson2021jobs">(<a href="#ref-wilson2021jobs" role="doc-biblioref">Wilson, Daugherty, and Morini-Bianzino 2021</a>)</span>. In reality, their indirect, higher-order benefits make them drivers of progress unmatched by any productivity-enhancing technology we have adopted in decades. But we cannot manage and optimise what we do not measure. As stewards of progress, we must develop metrics as innovative and far-reaching as the technologies we aim to implement.</p>
+</section>
+<section id="references" class="level2">
+
 
 
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1712322965074" data-listing-reading-time-sort="1">
-<a href="./activities/collaborations.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./img/digital-transformation.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Collaborative Research
-</h5>
-<div class="card-text listing-description">
-Financial tail risk, advanced analytics and artificial intelligence KTP with Funds-Axis Ltd.
+<p><img src="../img/QUB_QBS_Logo_Red_Landscape.png" class="img-fluid" style="width:50.0%"></p><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-agrawal2021prediction" class="csl-entry" role="listitem">
+Agrawal, Ajay, Joshua Gans, and Avi Goldfarb. 2021. <em>Prediction Machines: The Simple Economics of Artificial Intelligence</em>. Harvard Business Press.
 </div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-Barry Quinn, Fearghal Kearney
+<div id="ref-bughin2021promise" class="csl-entry" role="listitem">
+Bughin, Jacques, Jeongmin Seong, James Manyika, Lari Hämäläinen, Eric Windhagen, and Eric Hazan. 2021. <span>“The Promise and Challenge of the Age of Artificial Intelligence.”</span> McKinsey Global Institute.
 </div>
+<div id="ref-chui2018most" class="csl-entry" role="listitem">
+Chui, Michael, Nicolaus Henke, and Mehdi Miremadi. 2018. <span>“Most of AI’s Business Uses Will Be in Two Areas.”</span> <em>Harvard Business Review</em> 12.
 </div>
+<div id="ref-cockburn2018impact" class="csl-entry" role="listitem">
+Cockburn, Iain M., Rebecca Henderson, and Scott Stern. 2018. <span>“The Impact of Artificial Intelligence on Innovation.”</span> In <em>The Economics of Artificial Intelligence: An Agenda</em>, 115–46. University of Chicago Press.
 </div>
+<div id="ref-farrell1957measurement" class="csl-entry" role="listitem">
+Farrell, MJ. 1957. <span>“The Measurement of Productive Efficiency.”</span> <em>Journal of the Royal Statistical Society: Series A (General)</em> 120 (3): 253–81.
 </div>
-</a>
+<div id="ref-foster2022measuring" class="csl-entry" role="listitem">
+Foster, Andrew. 2022. <em>Measuring Productivity in Operations: The Operations Productivity Index</em>. Springer Nature.
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1712322867169" data-listing-reading-time-sort="12">
-<a href="./activities/symposium.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./img/ATA_0414.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-FAB Symposium 2023
-</h5>
-<div class="card-text listing-description">
-From…
+<div id="ref-hulten2021measurement" class="csl-entry" role="listitem">
+Hulten, Charles R. 2021. <span>“The Measurement of Capital and Productivity: What You Get Depends on How You Slice It!”</span> In <em>The Economics of Artificial Intelligence: An Agenda</em>, 83–114. University of Chicago Press.
 </div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-Barry Quinn, Fearghal Kearney
+<div id="ref-siegel2020productivity" class="csl-entry" role="listitem">
+Siegel, Donald S. 2020. <span>“Productivity Measurement in Corporate Finance.”</span> In <em>The Oxford Handbook of Productivity Analysis</em>, 183–215. Oxford University Press.
 </div>
+<div id="ref-wilson2021jobs" class="csl-entry" role="listitem">
+Wilson, H. James, Paul R Daugherty, and Nicola Morini-Bianzino. 2021. <span>“The Jobs That Artificial Intelligence Will Create.”</span> <em>MIT Sloan Management Review</em> 62 (4): 14–16.
 </div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1712322795536" data-listing-reading-time-sort="3">
-<a href="./activities/opportunities.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./img/Finance and AI Lab 2.jpeg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-PhD Opportunities
-</h5>
-<div class="card-text listing-description">
-<span class="handy">Are you a dedicated and capable individual with a strong interest in the rigorous study of Finance and Artificial Intelligence? We offer a serious opportunity for you to…</span>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-Barry Quinn, Fearghal Kearney
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div><p><img src="./img/QUB_QBS_Logo_Red_Landscape.png" class="img-fluid" style="width:50.0%"></p></main> <!-- /main -->
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
