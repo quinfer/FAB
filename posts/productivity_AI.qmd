@@ -3,6 +3,7 @@ title: "The Allure and Limitations of Productivity Metrics for AI"
 author: "Professor Barrington Ravenguard"
 image: "../img/prof_ravenguard_productivityAI.webp"
 bibliography: ../refs.bib
+draft: true
 categories: 
    - AI
    - Productivity
