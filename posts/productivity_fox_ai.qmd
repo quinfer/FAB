@@ -3,8 +3,10 @@ title: "Rethinking Productivity Metrics for the AI Era"
 subtitle: "Insights from the Fox Paradox"
 author: 
   - Barry Quinn
-  - Fearghal Kearney
+  - Yassine Bakkar
+  - Dongwei Jeffery Li
 format: html
+image: ../img/productivity-machine.jpeg
 execute:
    echo: fenced
 bibliography: refs.bib
@@ -15,7 +17,7 @@ categories:
 ---
 
 ## Introduction
-The rapid integration of artificial intelligence (AI) into business processes necessitates a critical re-examination of traditional productivity metrics. As AI transforms the nature of work and value creation, established measures may fall short in capturing its distinct impacts and systemic effects [@brynjolfsson2018artificial; @crozet2022ai]. This post explores the limitations of conventional productivity analysis in the context of AI, drawing upon the theoretical insights of the Fox Paradox. It highlights the need for adaptive measurement frameworks that account for AI's non-linear effects, intangible outputs, and potential misalignment(s) between individual and system-wide efficiency.
+The rapid integration of artificial intelligence (AI) into business processes necessitates a critical re-examination of traditional productivity metrics. As AI transforms the nature of work and value creation, established measures may fall short in capturing its distinct impacts and systemic effects [@brynjolfsson2018artificial; @CzarnitzkiFernandezRammer2023]. This post explores the limitations of conventional productivity analysis in the context of AI, drawing upon the theoretical insights of the Fox Paradox. It highlights the need for adaptive measurement frameworks that account for AI's non-linear effects, intangible outputs, and potential misalignment(s) between individual and system-wide efficiency.
 
 ## The Fox Paradox and AI:
 The Fox Paradox, while not explicitly referring to AI, presents a crucial theoretical lens for understanding productivity in the AI era. It highlights the potential discrepancies between efficiency gains in individual components and overall system performance [@Fox1999; @FareGrosskopf2004]. Several key aspects of the Fox Paradox manifest in AI-driven systems:
@@ -210,7 +212,7 @@ To address these challenges, organisations need adaptive measurement frameworks 
 - Incorporate governance and ethical considerations
 - Align metrics with strategic objectives beyond short-term efficiency
 
-Conclusion:
+## Conclusion
 The Fox Paradox serves as a powerful reminder that the advent of AI demands a rethinking of productivity measurement. Traditional metrics, while still useful, provide an incomplete picture when applied to AI-driven systems. To effectively harness AI's potential, organisations must develop holistic, adaptive frameworks that capture its distinct value creation mechanisms and broader socio-technical implications.
 
 The coded examples in this post illustrate the limitations of conventional productivity analysis in the context of AI. They highlight the need for new approaches that account for AI's non-linear effects, intangible outputs, and potential misalignments between individual and system-wide efficiency. By adopting a more comprehensive view of productivity, organisations can make informed decisions about AI deployment and avoid the pitfalls of the Fox Paradox.
