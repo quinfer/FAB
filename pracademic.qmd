@@ -19,10 +19,8 @@ For industry, the practical implications of our research are clear and immediate
 
 By standing at the crossroads where academic theory meets industry practice, **The Practical Intellectualist** serves as a forum for the dissemination and discussion of research that matters. Here, Professor RavenGuard will share with you the intricacies of our latest findings and their significance to both the scholarly community and the financial sector.
 
-## Academic papers
+## Pracademic papers
 
 Click [here](paper1.html) to see my summary of one of FAB's first academic publications.
 
-## Academic blog
-
-Click [here](productivity_AI.html) to see the professor's blog post on productivity and AI.
+## [Pracademic blog](productivity_AI.html)
