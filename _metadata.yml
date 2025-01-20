@@ -1,0 +1,17 @@
+# Default metadata for all pages
+date-modified: none
+title-block-banner: false
+title-block-style: none
+lang: en
+
+# Default page footer
+footer: |
+  This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
+
+# Default page options
+toc: true
+number-sections: false
+bibliography: refs.bib  # If you're using citations
+
+# Default social sharing image
+image: /img/QUB_QBS_Logo_Red_Landscape.png

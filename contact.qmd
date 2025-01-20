@@ -1,0 +1,68 @@
+---
+title: "Contact Us"
+title-block-banner: false
+title-block-style: none
+---
+
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+## Get in Touch
+
+We welcome collaborations, inquiries, and discussions about our research. Please reach out to us using any of the methods below.
+
+### Main Contact
+**Finance and AI Research Lab (FAB)**  
+Queen's Management School  
+Queen's University Belfast  
+Riddel Hall  
+185 Stranmillis Road  
+Belfast BT9 5EE  
+Northern Ireland  
+
+::: {.contact-details}
+📧 Email: [fab@qub.ac.uk](mailto:fab@qub.ac.uk)  
+☎️ Phone: +44 (0)28 9097 XXXX  
+:::
+
+### Social Media
+- [LinkedIn](https://www.linkedin.com/company/fab-qub)
+- [Twitter](https://twitter.com/FAB_QUB)
+- [GitHub](https://github.com/FAB-QUB)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+## Visit Us
+
+::: {.map-responsive}
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2312.7141131417533!2d-5.935899684159474!3d54.576893080258756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486108e9a942fb11%3A0x6cc01c108f62e460!2sRiddel%20Hall!5e0!3m2!1sen!2suk!4v1645541234567!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+:::
+
+### Transportation
+- **By Bus**: Routes 8A, 8B, and 8C stop near Riddel Hall
+- **By Car**: Limited parking available on-site (please book in advance)
+- **Walking**: 20 minutes from Botanic Train Station
+:::
+
+:::
+
+::: {.grid .mt-5}
+::: {.g-col-12}
+## Research Collaboration
+
+We are always interested in collaborating with:
+- Academic researchers
+- Industry partners
+- PhD candidates
+- Financial institutions
+- Technology companies
+
+Please email us with a brief outline of your proposed collaboration or research interest.
+:::
+:::
+
+::: {.callout-note}
+## Media Inquiries
+For media-related queries, please contact our Communications Officer at [media.fab@qub.ac.uk](mailto:media.fab@qub.ac.uk)
+:::

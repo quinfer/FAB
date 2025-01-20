@@ -1,29 +1,129 @@
 ---
-title: "About"
-bibliography: refs.bib
-css: mycss.css
+pagetitle: "FAB - Finance and AI Research Lab"
+format:
+  html:
+    template: templates/custom.html
+    css: 
+      - mycss.css
+      - https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.css
 ---
 
-At the Finance and AI Research Lab, Queen's Business School, we recognize the application of artificial intelligence in financial services as a <a class="glowinline">wicked problem:</a>,
+::::::::::::::::::::: landing-page
+::::::::: {#homeCarousel .carousel .slide data-bs-ride="carousel"}
+::: carousel-indicators
+<button type="button" data-bs-target="#homeCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1">
 
-> A problems with combined degrees of conflict [@Adelson2023], complexity [@Kelly2023] and uncertainty[@Dotan1985] [^1].
+</button>
 
-[^1]: Effective approaches for tackling <a class="glowinline">wicked problems</a> apply problem-solving paradigms that consider the complexity and interconnectedness of the problem and are effective when dealing with informational uncertainty.
+<button type="button" data-bs-target="#homeCarousel" data-bs-slide-to="1" aria-label="Slide 2">
 
-<br>
+</button>
 
-## Our Mission
+<button type="button" data-bs-target="#homeCarousel" data-bs-slide-to="2" aria-label="Slide 3">
 
-Our mission is to delve into this intricate nexus where innovative solutions meet multifarious challenges, a domain where simple answers are elusive, and the ramifications are profound and far-reaching. In this landscape, we are committed to pioneering AI solutions that not only advance financial practices but also address the inherent uncertainties and interdependencies characteristic of wicked problems in finance.
+</button>
 
-Our focus extends beyond the technical prowess of AI in predictive analytics and decision-making; we are equally invested in untangling the intertwined issues of ethical AI deployment, regulatory compliance, and social responsibility. We acknowledge that in the realm of AI and finance, the challenges we face are dynamic and evolving, demanding adaptive and forward-thinking strategies.
+<button type="button" data-bs-target="#homeCarousel" data-bs-slide-to="3" aria-label="Slide 4">
 
-## Our Vision
+</button>
+:::
 
-The lab's vision encompasses not just the development of robust AI models but also the cultivation of frameworks that allow us to 'constrain our future selves', a concept central to addressing super wicked problems [@Levin2012OvercomingTS]. This involves proactive engagement with the long-term implications of our work, ensuring that our innovations in AI are sustainable, equitable, and transparent.
+::::::: carousel-inner
+::: {.carousel-item .active}
+![](img/QBS_digital_change_transform/1.png)
+:::
 
-## Our Approach
+::: carousel-item
+![](img/QBS_digital_change_transform/2.png)
+:::
 
-Our interdisciplinary approach combines expertise in finance, technology, data science, and ethics, fostering an environment where creative problem-solving thrives. As we tackle these <a class="glowinline">wicked problems</a>, our lab stands as a crucible of innovation, shaping a future where AI in financial services is not just about efficiency and profit, but also about creating a more inclusive and responsible financial ecosystem.
+::: carousel-item
+![](img/QBS_digital_change_transform/3.png)
+:::
 
-In this challenging yet exhilarating journey, the Finance and AI Research Lab at Queen's Business School is dedicated to leading the charge, offering groundbreaking insights and solutions that resonate with the complex, interwoven fabric of modern financial services in an AI-driven era.
+::: carousel-item
+![](img/QBS_digital_change_transform/4.png)
+:::
+:::::::
+
+<button class="carousel-control-prev" type="button" data-bs-target="#homeCarousel" data-bs-slide="prev">
+
+[Previous]{.visually-hidden}
+
+</button>
+
+<button class="carousel-control-next" type="button" data-bs-target="#homeCarousel" data-bs-slide="next">
+
+[Next]{.visually-hidden}
+
+</button>
+:::::::::
+
+:::::: container
+::::: grid
+::: {.g-col-12 .g-col-md-6}
+### Our Mission
+
+We explore the intricate challenges where AI meets finance—a domain characterized by complexity, uncertainty, and rapid evolution. Our research focuses on developing innovative AI solutions that:
+
+-   Advance financial practices and decision-making
+-   Address ethical considerations in AI deployment
+-   Ensure regulatory compliance
+-   Promote social responsibility
+
+[Learn More About Our Work →]{.btn-action-primary}
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Latest Research Highlights
+
+-   **AI Ethics in Finance:** Investigating responsible AI deployment
+-   **Predictive Analytics:** Advanced modeling for financial markets
+-   **Regulatory Technology:** AI-driven compliance solutions
+-   **Sustainable Finance:** AI applications for ESG investing
+
+[View Our Publications →]{.btn-action-secondary}
+:::
+:::::
+::::::
+
+::::::: research-areas
+## Research Focus Areas
+
+:::::: grid
+::: {.g-col-12 .g-col-md-4}
+### AI Innovation
+
+-   Machine Learning Models
+-   Natural Language Processing
+-   Predictive Analytics
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Financial Technology
+
+-   Digital Banking
+-   Risk Management
+-   Market Analysis
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Ethics & Governance
+
+-   Responsible AI
+-   Regulatory Compliance
+-   Social Impact
+:::
+::::::
+:::::::
+
+:::: cta-section
+## Join Our Research Community
+
+We're always looking for collaborators, research partners, and talented individuals to join our mission.
+
+::: button-group
+[Contact Us]{.btn-action-primary} [View Opportunities]{.btn-action-secondary}
+:::
+::::
+:::::::::::::::::::::

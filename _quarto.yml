@@ -1,23 +1,61 @@
 project:
   type: website
+  output-dir: _site      # Specify output directory
+
+execute:
+  freeze: auto          # For reproducibility
+
+publish:
+  provider: rsconnect
 
 website:
   title: FAB
+  description: "FAIR Finance and AI Resarch Lab at Queen's University Belfast's. A platform for academic excellence and practical intellectualism"
   favicon: /img/QUB_QBS_Logo_Red_Landscape.png
-  twitter-card: true
+  
+  # Enhanced social media metadata
+  twitter-card:
+    creator: "@Con0metrix"
+    card-style: summary_large_image
+    description: "{description}"
+    image: /img/QUB_QBS_Logo_Red_Landscape.png
+  
   site-url: https://q-rap.connect.qub.ac.uk/FAB/
-  body-footer: |
-   ![](/img/QUB_QBS_Logo_Red_Landscape.png){width="50%"}
+  
+  # Enhanced Open Graph metadata
   open-graph:
-    locale: es_ES
+    locale: en_GB  # Changed from es_EN to British English
     site-name: FAB
+    description: "{description}"
+    image: /img/QUB_QBS_Logo_Red_Landscape.png
+  
+  # Enable site-wide search
+  search:
+    location: navbar
+    type: overlay
+    
+  # Footer configuration
+  body-footer: |
+    ![](/img/QUB_QBS_Logo_Red_Landscape.png){width="50%"}
+    <div class="footer-content">
+      <p>© 2024 FAB - Queen's University Belfast</p>
+      <p><a href="privacy.qmd">Privacy Policy</a> | <a href="contact.qmd">Contact Us</a></p>
+    </div>
+    
+  # Enhanced navbar
   navbar:
+    background: primary
+    search: true
     left:
       - text: "Home"
         file: index.qmd
       - text: "People"
         menu:
-          - people.qmd
+          - text: "Our Advisory Board"
+            file: people.qmd
+          - text: "Our PhD Talent"
+            file: phd.qmd
+
       - text: "Activities"
         file: activity.qmd
       - text: "The Practical Intellectualist" 
@@ -30,10 +68,53 @@ website:
             file: eduAIseries.qmd
       - text: "Publications"
         file: pubs.qmd
+    
+    # Added right-side tools
+    right:
+      - icon: github
+        href: https://github.com/quinfer
+        aria-label: GitHub
+      - icon: twitter
+        href: https://twitter.com/Con0metrix
+        aria-label: Twitter
+      - icon: linkedin
+        href: https://linkedin.com/in/baryquinn
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:b.quinn@qub.ac.uk
+        aria-label: Email
+
+# Enhanced format settings
 format:
   html:
+    title-block: false
     theme: journal
-    css: mycssblend.css
+    css: mycss.css
     toc: true
+    toc-depth: 3
+    toc-title: "On this page"
+    code-copy: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    citations-hover: true
+    footnotes-hover: true
+    
+    # Add page metadata defaults
+    metadata-files: 
+      - _metadata.yml
+    
+    # Enhanced website features
+    smooth-scroll: true
+    
+    # Improved accessibility
+    link-external-newwindow: true
+    link-external-icon: true
 
 editor: visual
+
+# Add repository information if public
+repository:
+  url: https://github.com/quinfer/FAB
+  branch: main
+  issues: true

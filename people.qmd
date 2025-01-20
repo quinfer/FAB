@@ -4,7 +4,7 @@ title: "People"
 
 -   Barry Quinn CStat (Senior Lecturer of Finance, Technology and Data Science) **Director**
 
--   Fearghal Kearney (Senior Lecturer of Finance) **Director**
+-   Fearghal Kearney (Reader of Finance) **Director**
 
 -   Gareth Campbell (Professor of Finance)
 
@@ -18,8 +18,6 @@ title: "People"
 
 -   Carla McGlynn (Director, Head of Markets Data, Business Risks and Controls Technology / Site Lead at Citi Belfast)
 
--   Dennis Krupen (SVP, Engineering Strategy, Data and DevOps Lead at Citi)
-
 -   Philip Hamill (Professor of Finance, Associate Provost for Research and Academic Department, Abu Dhabi University)
 
 -   Paul Miller (Reader of Computer Science, Academic Director of the Global Innovation Institute)
@@ -28,17 +26,7 @@ title: "People"
 
 -   Jesus Martinez Del Rincon (Senior Lecturer of Computer Science)
 
--   Richard Gault (Lecturer in Computer Science)
-
 -   Michelle Butler (Professor of Criminology)
-
--   Laura Steele (Senior Lecturer of Management)
-
--   Clive Walker (Lecturer of Finance)
-
--   Yassine Bakar (Lectuer of Finance)
-
--   Byron Graham (Senior Lecturer of Business Analytics)
 
 -   Qiao (Olivia) Peng (Lecturer of Business Analytics)
 

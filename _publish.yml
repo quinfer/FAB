@@ -1,0 +1,4 @@
+- source: project
+  connect:
+    - id: 659dcf5d-3034-4bd1-a151-725bcf4ca866
+      url: 'https://q-rap.connect.qub.ac.uk/content/659dcf5d-3034-4bd1-a151-725bcf4ca866/'

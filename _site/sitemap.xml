@@ -1,59 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://q-rap.connect.qub.ac.uk/FAB/activity.html</loc>
-    <lastmod>2024-04-10T07:34:28.400Z</lastmod>
-  </url>
-  <url>
-    <loc>https://q-rap.connect.qub.ac.uk/FAB/pubs.html</loc>
-    <lastmod>2024-04-10T07:34:28.511Z</lastmod>
-  </url>
-  <url>
-    <loc>https://q-rap.connect.qub.ac.uk/FAB/index.html</loc>
-    <lastmod>2024-04-10T07:34:28.509Z</lastmod>
-  </url>
-  <url>
-    <loc>https://q-rap.connect.qub.ac.uk/FAB/activities/collaborations.html</loc>
-    <lastmod>2024-04-10T07:34:28.399Z</lastmod>
-  </url>
-  <url>
-    <loc>https://q-rap.connect.qub.ac.uk/FAB/activities/symposium.html</loc>
-    <lastmod>2024-04-10T07:34:28.400Z</lastmod>
-  </url>
-  <url>
-    <loc>https://q-rap.connect.qub.ac.uk/FAB/finai-edu/Call to arms.html</loc>
-    <lastmod>2024-04-10T07:34:28.400Z</lastmod>
-  </url>
-  <url>
-    <loc>https://q-rap.connect.qub.ac.uk/FAB/publications/evol_comp.html</loc>
-    <lastmod>2024-04-10T07:34:28.511Z</lastmod>
-  </url>
-  <url>
-    <loc>https://q-rap.connect.qub.ac.uk/FAB/people.html</loc>
-    <lastmod>2024-04-10T07:34:28.510Z</lastmod>
-  </url>
-  <url>
     <loc>https://q-rap.connect.qub.ac.uk/FAB/blog.html</loc>
-    <lastmod>2024-04-10T07:34:28.400Z</lastmod>
-  </url>
-  <url>
-    <loc>https://q-rap.connect.qub.ac.uk/FAB/finai-edu/fined-ai-partone.html</loc>
-    <lastmod>2024-04-10T07:34:28.400Z</lastmod>
-  </url>
-  <url>
-    <loc>https://q-rap.connect.qub.ac.uk/FAB/pracademic.html</loc>
-    <lastmod>2024-04-23T06:17:39.993Z</lastmod>
-  </url>
-  <url>
-    <loc>https://q-rap.connect.qub.ac.uk/FAB/activities/opportunities.html</loc>
-    <lastmod>2024-04-10T07:34:28.399Z</lastmod>
+    <lastmod>2024-11-26T16:40:09.765Z</lastmod>
   </url>
   <url>
     <loc>https://q-rap.connect.qub.ac.uk/FAB/eduAIseries.html</loc>
-    <lastmod>2024-04-10T07:34:28.400Z</lastmod>
+    <lastmod>2024-11-26T16:40:09.765Z</lastmod>
+  </url>
+  <url>
+    <loc>https://q-rap.connect.qub.ac.uk/FAB/activities/opportunities.html</loc>
+    <lastmod>2024-11-26T16:40:09.765Z</lastmod>
+  </url>
+  <url>
+    <loc>https://q-rap.connect.qub.ac.uk/FAB/pracademic.html</loc>
+    <lastmod>2024-11-26T16:58:31.604Z</lastmod>
+  </url>
+  <url>
+    <loc>https://q-rap.connect.qub.ac.uk/FAB/finai-edu/Call to arms.html</loc>
+    <lastmod>2024-11-26T16:40:09.766Z</lastmod>
+  </url>
+  <url>
+    <loc>https://q-rap.connect.qub.ac.uk/FAB/phd.html</loc>
+    <lastmod>2024-11-26T19:15:58.324Z</lastmod>
+  </url>
+  <url>
+    <loc>https://q-rap.connect.qub.ac.uk/FAB/index.html</loc>
+    <lastmod>2024-11-26T18:53:17.771Z</lastmod>
   </url>
   <url>
     <loc>https://q-rap.connect.qub.ac.uk/FAB/posts/productivity_fox_ai.html</loc>
-    <lastmod>2024-04-22T11:09:40.284Z</lastmod>
+    <lastmod>2024-11-26T16:40:09.943Z</lastmod>
+  </url>
+  <url>
+    <loc>https://q-rap.connect.qub.ac.uk/FAB/contact.html</loc>
+    <lastmod>2024-11-26T17:31:20.523Z</lastmod>
+  </url>
+  <url>
+    <loc>https://q-rap.connect.qub.ac.uk/FAB/publications/evol_comp.html</loc>
+    <lastmod>2024-11-26T16:40:09.944Z</lastmod>
+  </url>
+  <url>
+    <loc>https://q-rap.connect.qub.ac.uk/FAB/pubs.html</loc>
+    <lastmod>2024-11-26T16:57:55.034Z</lastmod>
+  </url>
+  <url>
+    <loc>https://q-rap.connect.qub.ac.uk/FAB/people.html</loc>
+    <lastmod>2024-11-26T18:57:02.986Z</lastmod>
+  </url>
+  <url>
+    <loc>https://q-rap.connect.qub.ac.uk/FAB/finai-edu/fined-ai-partone.html</loc>
+    <lastmod>2024-11-26T16:40:09.766Z</lastmod>
+  </url>
+  <url>
+    <loc>https://q-rap.connect.qub.ac.uk/FAB/activities/symposium.html</loc>
+    <lastmod>2024-11-27T07:04:12.268Z</lastmod>
+  </url>
+  <url>
+    <loc>https://q-rap.connect.qub.ac.uk/FAB/activities/collaborations.html</loc>
+    <lastmod>2024-11-26T16:40:09.765Z</lastmod>
+  </url>
+  <url>
+    <loc>https://q-rap.connect.qub.ac.uk/FAB/activity.html</loc>
+    <lastmod>2024-11-26T16:40:09.765Z</lastmod>
   </url>
 </urlset>

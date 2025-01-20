@@ -25,7 +25,7 @@ What a great afternoon we had on the 23rd of November at Riddel Hall, where we o
 
 ## Financial Conduct Authority (FCA) Keynote
 
-![Pavle Avramovic (Manager of Emerging Tech and Research in Innovation Department of the FCA)](img/ATA_0580.jpg)
+![Pavle Avramovic (Manager of Emerging Tech and Research in Innovation Department of the FCA)](/img/ATA_0580.jpg)
 
 So, let's dive into the "Emerging Technologies & Regulation" keynote, a real brain-teaser that digs into the tricky dance between cutting-edge tech and keeping things above board with regulators. First off, it throws a spotlight on how key it is for regulatory bodies, like the big players at the Financial Conduct Authority (FCA), to understand new tech. The FCA's Innovation department is right at the heart of this, juggling the task of getting these newfangled technologies to play nice with the rules.
 
@@ -41,7 +41,7 @@ Full slide deck can be found [here](presenter_slides/Emerging%20Technologies%20&
 
 ## Academic Presentation
 
-![Professor Hui Wang (from QUB EEECS School)](img/ATA_0460.jpg) Alright, let's switch gears to Professor Wang's presentation on "AI and Compliance Audit". As a professor of AI, Hui dives deep into the techy side of using AI in making sure everyone's playing by the rules in auditing. We're talking about some technologies that AI brings to this wicked problem.
+![Professor Hui Wang (from QUB EEECS School)](/img/ATA_0460.jpg) Alright, let's switch gears to Professor Wang's presentation on "AI and Compliance Audit". As a professor of AI, Hui dives deep into the techy side of using AI in making sure everyone's playing by the rules in auditing. We're talking about some technologies that AI brings to this wicked problem.
 
 First up, there's advances in Natural Language Processing (NLP). This isn't your everyday chattty AI; it’s like giving a super-brain the ability to chew through complex legal jargon and regulations. A machine that can potentially make sense of all that legal "rules on the book" using logic-based algorithms.
 
@@ -55,7 +55,7 @@ In short, Professor Wang's talk is a deep dive into the cool, complex world of A
 
 Full slide deck can be found [here](presenter_slides/AI+ComplianceAudit%5B16%5D.pptx)
 
-![Professor Daniel Broby (Ulster Business School)](img/ATA_0482.jpg)
+![Professor Daniel Broby (Ulster Business School)](/img/ATA_0482.jpg)
 
 Daniel's presentation tackled the topic of "Financial Auditing of Distributed Ledgers, Blockchain, and Cryptocurrencies". This one's a real eye-opener, diving into the twisty world of auditing in the age of blockchain and crypto.
 
@@ -77,7 +77,7 @@ The full slide deck can be found [here](presenter_slides/AI%20LAb.pdf)
 
 ## Panel discussion on AI in financial services: Opportunities & Risks
 
-![Panelists from left to right: Fearghal Kearney (QBS), Pavle Armanovic (FCA), Chris Clements (FinTrU), Adrian Johnston (Catalyst Inc), Carla McGlynn (Citi Belfast)](img/ATA_0570.jpg)
+![Panelists from left to right: Fearghal Kearney (QBS), Pavle Armanovic (FCA), Chris Clements (FinTrU), Adrian Johnston (Catalyst Inc), Carla McGlynn (Citi Belfast)](/img/ATA_0570.jpg)
 
 And for the grand finale of the event, we had a cracking 45-minute panel discussion. Picture this: some of the brightest sparks from Northern Ireland's buzzing private sector, all gathered to share their two cents. We had the big brains like Pavle Avramovic, who's into Emerging Tech & Research at the FCA; Chris Clements, the whiz behind Product Development at FinTrU; Dr Adrian Johnston MBE, the strategic mastermind at Catalyst; and Carla McGlynn, the guru of Data, Business Risks, and Controls Technology at Citi Belfast. Leading this dream team was Dr Fearghal Kearney, and he wasn't messing about – he hit them with two big questions:
 
@@ -107,64 +107,64 @@ Carla dropped a gem too, reminding everyone that sometimes what we need from AI 
 <div class="swiper mySwiper">
   <div class="swiper-wrapper">
     <div class="swiper-slide">
-    <img src="img/ATA_0414.jpg">
+    <img src="/img/ATA_0414.jpg">
     </div>
     <div class="swiper-slide">
-    <img src="img/ATA_0460.jpg">
+    <img src="/img/ATA_0460.jpg">
     </div>
     <div class="swiper-slide">
-    <img src="img/ATA_0469.jpg">
+    <img src="/img/ATA_0469.jpg">
     </div>
       <div class="swiper-slide">
-    <img src="img/ATA_0475.jpg">
+    <img src="/img/ATA_0475.jpg">
     </div>
     <div class="swiper-slide">
-    <img src="img/ATA_0478.jpg">
+    <img src="/img/ATA_0478.jpg">
     </div>
     <div class="swiper-slide">
-    <img src="img/ATA_0482.jpg">
+    <img src="/img/ATA_0482.jpg">
     </div>
     <div class="swiper-slide">
-    <img src="img/ATA_0536.jpg">
+    <img src="/img/ATA_0536.jpg">
     </div>
     <div class="swiper-slide">
-    <img src="img/ATA_0570.jpg">
+    <img src="/img/ATA_0570.jpg">
     </div>
      <div class="swiper-slide">
-    <img src="img/ATA_0580.jpg">
+    <img src="/img/ATA_0580.jpg">
     </div>
     <div class="swiper-slide">
-    <img src="img/ATA_0584.jpg">
+    <img src="/img/ATA_0584.jpg">
     </div>
     <div class="swiper-slide">
-    <img src="img/ATA_0589.jpg">
+    <img src="/img/ATA_0589.jpg">
     </div>
     <div class="swiper-slide">
-    <img src="img/ATA_0592.jpg">
+    <img src="/img/ATA_0592.jpg">
     </div>
     <div class="swiper-slide">
-    <img src="img/ATA_0598.jpg">
+    <img src="/img/ATA_0598.jpg">
     </div>
     <div class="swiper-slide">
-    <img src="img/ATA_0604.jpg">
+    <img src="/img/ATA_0604.jpg">
     </div>
     <div class="swiper-slide">
-    <img src="img/ATA_0609.jpg">
+    <img src="/img/ATA_0609.jpg">
     </div>
     <div class="swiper-slide">
-    <img src="img/ATA_0622.jpg">
+    <img src="/img/ATA_0622.jpg">
     </div>
     <div class="swiper-slide">
-    <img src="img/ATA_0643.jpg">
+    <img src="/img/ATA_0643.jpg">
     </div>
     <div class="swiper-slide">
-    <img src="img/ATA_0687.jpg">
+    <img src="/img/ATA_0687.jpg">
     </div>
     <div class="swiper-slide">
-    <img src="img/ATA_0702.jpg">
+    <img src="/img/ATA_0702.jpg">
     </div>
     <div class="swiper-slide">
-    <img src="img/ATA_0723.jpg">
+    <img src="/img/ATA_0723.jpg">
     </div>
  </div>
  <!-- Add Pagination -->

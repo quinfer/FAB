@@ -313,15 +313,6 @@ https://www.w3schools.com/howto/howto_css_glowing_text.asp
   animation: glow 1s ease-in-out infinite alternate;
 }
 
-@-webkit-keyframes glow {
-  from {
-    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
-  }
-  to {
-    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
-  }
-}
-
 
 .pull-left-2 {
   float: left;
@@ -416,4 +407,338 @@ slides
     width: 100%; /* This makes the image fill the slide */
     height: auto; /* This maintains the image aspect ratio */
     display: block; /* Removes any default spacing around the image */
+}
+
+/* Hide metadata elements */
+.quarto-title-meta {
+  display: none;
+}
+
+/* Hide title block */
+.quarto-title {
+  display: none;
+}
+
+/* QUB Brand Colors */
+:root {
+  --queens-red: #E6007E;         /* Pantone 185c - Primary Queen's Red */
+  --queens-deep-red: #A91D36;    /* Pantone 187 - Deep Red */
+  --queens-light-grey: #B1B3B3;  /* Pantone Cool Grey 5 */
+  --queens-dark-grey: #53565A;   /* Pantone Cool Grey 11 */
+  --white: #FFFFFF;
+  --off-white: #F8F9FA;
+}
+
+/* Hero Banner */
+.hero-banner {
+  width: 100%;
+  height: auto;
+  position: relative;
+  padding: 0;  /* Remove padding */
+  margin: 0;   /* Remove margin */
+}
+
+.hero-banner img {
+  width: 100%;
+  height: auto;
+  display: block;  /* Removes any unwanted spacing */
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.button-group {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+@media (max-width: 768px) {
+  .hero-banner h1 {
+      font-size: 2rem;
+  }
+  .hero-banner h2 {
+      font-size: 1.5rem;
+  }
+  .button-group {
+      flex-direction: column;
+      align-items: center;
+  }
+}
+
+/* Action Buttons */
+.btn-action-primary {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background-color: var(--queens-red);
+  color: var(--white);
+  text-decoration: none;
+  border-radius: 4px;
+  margin: 1rem 0;
+  transition: background-color 0.3s;
+  font-weight: 500;
+}
+
+.btn-action-primary:hover {
+  background-color: var(--queens-deep-red);
+  color: var(--white);
+  text-decoration: none;
+}
+
+.btn-action-secondary {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  border: 2px solid var(--queens-red);
+  color: var(--queens-red);
+  text-decoration: none;
+  border-radius: 4px;
+  margin: 1rem 0;
+  transition: all 0.3s;
+  font-weight: 500;
+}
+
+.btn-action-secondary:hover {
+  background-color: var(--queens-red);
+  color: var(--white);
+  text-decoration: none;
+}
+
+/* Research Areas Section */
+.research-areas {
+  background-color: var(--off-white);
+  padding: 2rem;
+  margin: 2rem 0;
+  border-radius: 8px;
+  border-top: 4px solid var(--queens-red);
+}
+
+.research-areas h3 {
+  color: var(--queens-deep-red);
+  margin-bottom: 1rem;
+}
+
+/* CTA Section */
+.cta-section {
+  text-align: center;
+  padding: 3rem 0;
+  background-color: var(--off-white);
+  margin-top: 2rem;
+  border-bottom: 4px solid var(--queens-red);
+}
+
+/* Typography Enhancements */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--queens-dark-grey);
+}
+
+/* Links */
+a {
+  color: var(--queens-red);
+  transition: color 0.3s;
+}
+
+a:hover {
+  color: var(--queens-deep-red);
+}
+
+/* Callout Styling */
+.callout-note {
+  border-left: 4px solid var(--queens-red);
+  background-color: var(--off-white);
+  padding: 1rem;
+}
+
+.glowinline {
+  color: var(--queens-red);
+  font-weight: 500;
+}
+
+/* Grid and List Styling */
+.grid {
+  gap: 2rem;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul li {
+  margin-bottom: 0.5rem;
+  padding-left: 1.5rem;
+  position: relative;
+}
+
+ul li:before {
+  content: "•";
+  color: var(--queens-red);
+  position: absolute;
+  left: 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .hero-banner h2 {
+      font-size: 2rem;
+  }
+  
+  .hero-banner {
+      padding: 2rem 1rem;
+  }
+  
+  .grid {
+      gap: 1rem;
+  }
+}
+
+/* Add these to your existing CSS */
+
+/* Contact Details Styling */
+.contact-details {
+  background-color: var(--off-white);
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin: 1rem 0;
+  border-left: 4px solid var(--queens-red);
+}
+
+/* Responsive Map Container */
+.map-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+  margin: 1rem 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.map-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  border-radius: 8px;
+}
+
+/* Social Media Links */
+.contact-details a {
+  color: var(--queens-red);
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.contact-details a:hover {
+  color: var(--queens-deep-red);
+  text-decoration: underline;
+}
+
+/* Media Query for Mobile */
+@media (max-width: 768px) {
+  .contact-details {
+      padding: 1rem;
+  }
+  
+  .map-responsive {
+      margin: 0.5rem 0;
+  }
+}
+
+/* Carousel container with border */
+#homeCarousel {
+  max-width: 1000px;  /* Adjust this value to shrink/expand */
+  margin: 2rem auto;  /* Centers the carousel and adds vertical spacing */
+  border: 1px solid var(--queens-red);  /* QUB red border */
+  border-radius: 8px;  /* Rounded corners */
+  overflow: hidden;    /* Keeps rounded corners intact */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);  /* Subtle shadow */
+}
+
+/* Image container */
+.carousel-item {
+  width: 100%;
+  background-color: white;  /* In case images have transparency */
+}
+
+.carousel-item img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+
+/* Enhanced controls */
+.carousel-control-prev,
+.carousel-control-next {
+  background: rgba(0,0,0,0.2);
+  width: 5%;
+  border-radius: 0 8px 8px 0;  /* Rounded corners for next button */
+}
+
+.carousel-control-prev {
+  border-radius: 8px 0 0 8px;  /* Rounded corners for prev button */
+}
+
+/* Enhanced indicators */
+.carousel-indicators {
+  bottom: 0;
+  margin-bottom: 1rem;
+}
+
+.carousel-indicators button {
+  background-color: var(--queens-red);  /* QUB red for indicators */
+  height: 3px;
+  opacity: 0.5;
+}
+
+.carousel-indicators button.active {
+  opacity: 1;
+}
+
+/* Navigation styling */
+.navbar {
+  background-color: var(--queens-red);
+  padding: 1rem 2rem;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: white !important;
+}
+
+.nav-link {
+  color: rgba(255,255,255,0.9) !important;
+}
+
+.nav-link:hover {
+  color: white !important;
+}
+
+.dropdown-menu {
+  background-color: white;
+  border: 1px solid rgba(0,0,0,0.1);
+}
+
+.dropdown-item:hover {
+  background-color: var(--queens-red);
+  color: white;
+}
+
+/* Social icons */
+.navbar-nav .bi {
+  font-size: 1.2rem;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 991px) {
+  .navbar-collapse {
+      background-color: var(--queens-red);
+      padding: 1rem;
+      border-radius: 0 0 8px 8px;
+  }
 }

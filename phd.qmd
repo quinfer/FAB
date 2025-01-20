@@ -1,0 +1,103 @@
+---
+title: "Our PhD Talent"
+format:
+  html:
+    css: people.css
+---
+
+::: {.team-container}
+
+## PhD Students
+
+::: {.student-profile}
+
+![](img/images/brandon.jpeg){.profile-pic}
+
+::: {.student-info}
+
+### Brandon Cochrane
+
+**Research Area:**  
+Computer Vision and the Welfare Cost of Cultural Displays in Northern Ireland
+
+[bcochrane01@qub.ac.uk](mailto:bcochrane01@qub.ac.uk)
+
+:::
+:::
+
+::: {.student-profile}
+
+![](img/images/yongshei.JPG){.profile-pic}
+
+::: {.student-info}
+
+### Yongsheng Dai
+**Research Area:**  
+Developing Robust Few-Shot Learning Models for Financial Anomaly Detection in Time Series Data
+
+[ydai09@qub.ac.uk](mailto:ydai09@qub.ac.uk)
+
+:::
+:::
+
+::: {.student-profile}
+
+![](img/images/Fei.jpeg){.profile-pic}
+
+::: {.student-info}
+
+### Fei Li
+**Research Area:**  
+ESG uncertainty in Sustainable Finance Report and Bond Pricing
+
+[fli01@qub.ac.uk](mailto:fli01@qub.ac.uk)
+
+:::
+:::
+
+::: {.student-profile}
+
+![](img/images/Abhishek Pramanick (photo) (1).jpg){.profile-pic}
+
+::: {.student-info}
+
+### Abhishek Pramanick
+**Research Area:**  
+AI and the Future of Regulatory Compliance
+
+[apramanick01@qub.ac.uk](mailto:apramanick01@qub.ac.uk)
+
+:::
+:::
+
+::: {.student-profile}
+
+![](img/images/jeffery.png){.profile-pic}
+
+::: {.student-info}
+
+### Dongwei (Jeffery) Li
+**Research Area:**  
+Economics of AI patents and FinTech Productivity
+
+[dli182@qub.ac.uk](mailto:dli182@qub.ac.uk)
+
+:::
+:::
+
+::: {.student-profile}
+
+![](img/images/Yuqi.png){.profile-pic}
+
+::: {.student-info}
+
+### Yuqi Ding
+**Research Area:**  
+Contextualising Risk Sentiment in Finance using LLMs
+
+[yding10@qub.ac.uk](mailto:yding10@qub.ac.uk)
+
+:::
+:::
+
+:::
